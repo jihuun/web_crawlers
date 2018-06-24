@@ -1,14 +1,16 @@
 # This Python file uses the following encoding: utf-8
 # Scraping all of the book list on trevari meetings
 # Author: Ji-Hun Kim (jihuun.k@gmail.com)
-# v 0.0.1
-
+# v 0.0.2
 
 import time
 import urllib
 import requests
 from bs4 import BeautifulSoup
 import selenium.webdriver as webdriver
+
+g_url='https://trevari.co.kr/meetings'
+g_button_xpath="""//*[@id="__next"]/div/div[2]/div/div/div[2]/button"""
 
 def get_webdriver(url):
 	options = webdriver.ChromeOptions()
@@ -24,14 +26,14 @@ def get_webdriver(url):
 def click_next_btn(cnt, drv):
 	while cnt > 0:
 		# Copy xpath of the button from the chrome-dev mode
-		drv.find_element_by_xpath("""//*[@id="__next"]/div/div[2]/div/div/button""").click()
+		#drv.find_element_by_xpath("""//*[@id="__next"]/div/div[2]/div/div/div[2]/button""").click()
+		drv.find_element_by_xpath(g_button_xpath).click()
 		time.sleep(1)	# It needs a time to wait a page fully loaded
 		cnt = cnt - 1
 
 if __name__  == "__main__":
 
-	url='https://trevari.co.kr/meetings'
-	driver = get_webdriver(url)
+	driver = get_webdriver(g_url)
 
 	click_next_btn(10, driver)
 
