@@ -1,7 +1,7 @@
 # This Python file uses the following encoding: utf-8
 # Scraping all of the book list on trevari meetings
 # Author: Ji-Hun Kim (jihuun.k@gmail.com)
-# v 0.0.2
+# v 0.0.3
 
 import time
 import urllib
@@ -18,15 +18,16 @@ def get_webdriver(url):
 	options.add_argument('disable-gpu')
 
 	drv = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=options)
-	#driver.implicitly_wait(10)	# Doesn't work at all
+	#drv.implicitly_wait(10)	# Doesn't work at all
+	time.sleep(2)
 	drv.get(url)
+	time.sleep(2)
 	return drv
 
 # For click the button "더 보기"
 def click_next_btn(cnt, drv):
 	while cnt > 0:
 		# Copy xpath of the button from the chrome-dev mode
-		#drv.find_element_by_xpath("""//*[@id="__next"]/div/div[2]/div/div/div[2]/button""").click()
 		drv.find_element_by_xpath(g_button_xpath).click()
 		time.sleep(1)	# It needs a time to wait a page fully loaded
 		cnt = cnt - 1
@@ -53,7 +54,7 @@ if __name__  == "__main__":
 			date_simple = date_text.split(' ')
 
 			if book_name != "읽을거리 정하는 중":
-				print ("\"%s\" \t(%s, %s %s %s)" %(book_name, group_name, date_simple[1], date_simple[3], date_simple[4]))
+				print ("\"%s\" \t(%s, %s %s %s)" %(book_name, group_name, date_simple[0], date_simple[2], date_simple[3]))
 				book_cnt = book_cnt + 1
 		except:
 			pass
