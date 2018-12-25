@@ -40,11 +40,22 @@ def scroll_down(cnt, drv):
 		time.sleep(2)
 		cnt = cnt - 1
 
+def print_current_time():
+	now = time.localtime()
+	s = "%04d-%02d-%02d %02d:%02d:%02d" % (now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec)
+	return s
+
+def print_subject():
+	print("<트레바리 클럽 별 선정 도서 목록>")
+	print("Updated on %s" %(print_current_time()))
+
 if __name__  == "__main__":
 
 	driver = get_webdriver(g_url)
 	scroll_down(40, driver)
 	soup = BeautifulSoup(driver.page_source, "html.parser")
+
+	print_subject()
 
 	book_cnt = 0
 	for meeting in soup.find_all('a'):
