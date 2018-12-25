@@ -32,11 +32,18 @@ def click_next_btn(cnt, drv):
 		time.sleep(2)	# It needs a time to wait a page fully loaded
 		cnt = cnt - 1
 
+# For scrolling down to the end "cnt" times
+def scroll_down(cnt, drv):
+	while cnt > 0:
+		drv.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+		time.sleep(2)
+		cnt = cnt - 1
+
 if __name__  == "__main__":
 
 	driver = get_webdriver(g_url)
 
-	click_next_btn(10, driver)
+	scroll_down(10, driver)
 
 	soup = BeautifulSoup(driver.page_source, "html.parser")
 
