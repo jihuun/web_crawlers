@@ -45,9 +45,9 @@ def print_current_time():
 	s = "%04d-%02d-%02d %02d:%02d:%02d" % (now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec)
 	return s
 
-def print_subject():
-	print("<트레바리 클럽 별 선정 도서 목록>")
-	print("Updated on %s" %(print_current_time()))
+def print_subject(f):
+	f.write("<트레바리 클럽 별 선정 도서 목록>\n")
+	f.write("Updated on %s\n\n" %(print_current_time()))
 
 if __name__  == "__main__":
 
@@ -55,26 +55,33 @@ if __name__  == "__main__":
 	scroll_down(40, driver)
 	soup = BeautifulSoup(driver.page_source, "html.parser")
 
-	print_subject()
+	f = open("trevari_book_list.txt", 'w')
+	print_subject(f)
 
 	book_cnt = 0
 	for meeting in soup.find_all('a'):
 		try:
 			book = meeting.find('div', {'style':'font-weight: 600;'})
-			book_name = book.get_text()
+			if book != None:
+				book_name = book.get_text()
 			
 			group = meeting.find('div', {'style':'font-weight: bold;'})
-			group_name = group.get_text()
+			if group != None:
+				group_name = group.get_text()
 
 			date = meeting.find('div', {'style':"color: rgb(123, 123, 123); font-size: 14px; margin-top: 4px;"})
-			date_text = date.get_text()
-			date_simple = date_text.split(' ')
+			if date != None:
+				date_text = date.get_text()
+				date_simple = date_text.split(' ')
 
 			if book_name != u"읽을거리 정하는 중":
-				print ("\"%s\" \t(%s, %s %s %s)" %(book_name, group_name, date_simple[0], date_simple[2], date_simple[3]))
+				infos = ("\"%s\" \t(%s, %s %s %s)\n" %(book_name, group_name, date_simple[0], date_simple[2], date_simple[3]))
+				f.write(infos.encode('utf-8'))
 				book_cnt = book_cnt + 1
+
 		except:
 			pass
 
 		
-	print ("총 %d 개" %(book_cnt))
+	f.write("\n총 %d 개" %(book_cnt))
+	f.close()
