@@ -1,7 +1,8 @@
 # This Python file uses the following encoding: utf-8
 # Scraping all of the book list on trevari meetings
+# Run with python 2.7
 # Author: Ji-Hun Kim (jihuun.k@gmail.com)
-# v 0.0.3
+# v 0.0.5
 
 import time
 import urllib
@@ -42,9 +43,7 @@ def scroll_down(cnt, drv):
 if __name__  == "__main__":
 
 	driver = get_webdriver(g_url)
-
-	scroll_down(10, driver)
-
+	scroll_down(40, driver)
 	soup = BeautifulSoup(driver.page_source, "html.parser")
 
 	book_cnt = 0
@@ -60,7 +59,7 @@ if __name__  == "__main__":
 			date_text = date.get_text()
 			date_simple = date_text.split(' ')
 
-			if book_name != "읽을거리 정하는 중":
+			if book_name != u"읽을거리 정하는 중":
 				print ("\"%s\" \t(%s, %s %s %s)" %(book_name, group_name, date_simple[0], date_simple[2], date_simple[3]))
 				book_cnt = book_cnt + 1
 		except:
