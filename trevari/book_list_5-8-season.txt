@@ -1,5 +1,0 @@
-<트레바리 클럽 별 선정 도서 목록> 
-
-최신버전 링크가 다음과 같이 변경되었습니다.
-https://github.com/jihuun/web_crawlers/blob/master/trevari/trevari_book_list.txt
-
