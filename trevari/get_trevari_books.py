@@ -100,3 +100,4 @@ if __name__  == "__main__":
 	f.write("> Sharing this list, reporting bugs & ideas, %s are always welcome :)  \n" %(md_make_hyperlink("pull requests", "https://github.com/jihuun/web_crawlers")))
 	f.write("> Maintained by @soopsaram  \n")
 	f.close()
+	driver.close()
