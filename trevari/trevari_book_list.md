@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2018-12-30 20:56:23  
+> Updated on 2019-01-01 12:57:53  
 ---
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 |  
@@ -18,7 +18,6 @@
 | 전설로 떠나는 월가의 영웅 | [투자입문-첫목](https://trevari.co.kr/meetings/show?clubID=7ab8d343-4e45-4319-8cc7-d00e963100ac&order=1) | 안국 | 01월 03일 |  
 | 하루키를 읽다가 술집으로 | [음주입문-압구정](https://trevari.co.kr/meetings/show?clubID=85b276c5-87e6-4be0-b13d-a81d74abc137&order=1) | 압구정 | 01월 03일 |  
 | Alexa, Should We Trust You? | [롱폼의 세계: 테크+사회](https://trevari.co.kr/meetings/show?clubID=d8fc2f73-0a25-4199-ab5b-c6e3a31d9c15&order=1) | 안국 | 01월 03일 |  
-| 데미안 | [보통의존재-15](https://trevari.co.kr/meetings/show?clubID=cc37b35a-3fed-4a16-943b-79f566ef1aa1&order=1) | 성수 | 01월 04일 |  
 | 윤미네 집 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=a2f9a4ed-c6bb-417b-a1e2-a7c9b7fe0970&order=1) | 압구정 | 01월 04일 |  
 | 결혼과 도덕 | [첫금](https://trevari.co.kr/meetings/show?clubID=7f88d74a-2cde-4766-b8b8-3fe34cef4819&order=1) | 안국 | 01월 04일 |  
 | 크눌프 | [문-옐로](https://trevari.co.kr/meetings/show?clubID=26b4b467-272a-4f46-b569-8d13b7ae3c4c&order=1) | 압구정 | 01월 04일 |  
@@ -75,9 +74,8 @@
 | 최고의 팀은 무엇이 다른가 | [리더십입문-24](https://trevari.co.kr/meetings/show?clubID=eb1c453c-e250-443d-9ea1-cae02ac4b37a&order=1) | 압구정 | 01월 10일 |  
 | 모두 거짓말을 한다 | [넘버스](https://trevari.co.kr/meetings/show?clubID=d41b7777-e0b9-4562-9486-67bb42584bac&order=1) | 압구정 | 01월 10일 |  
 | 역사의 역사 | [력사](https://trevari.co.kr/meetings/show?clubID=f138ca83-ca9b-4029-b6b5-8b4039b5e6cf&order=1) | 압구정 | 01월 10일 |  
-| 젊은 기획자에게 묻다 | [사이드프로젝트-둘목](https://trevari.co.kr/meetings/show?clubID=f2bbc167-eb9b-497f-91dc-c8786c032045&order=1) | 안국 | 01월 10일 |  
 | 여자에게 어울리지 않는 직업 | [둘목](https://trevari.co.kr/meetings/show?clubID=6e459e62-0b45-4e6e-a7b0-533c5105f0b1&order=1) | 안국 | 01월 10일 |  
-| [읽을거리 선정 중] 등록 후 안내드리겠습니다. | [넥스랩-어드밴스](https://trevari.co.kr/meetings/show?clubID=0b0ae96d-d786-4b58-8cb3-61e974a9b531&order=1) | 안국 | 01월 10일 |  
+| [읽을거리 선정 중] 등록 후 안내드리겠습니다., Uber Is Headed for a Crash, The ‘Neo-Banks’ Are Finally Having Their Moment, Sundar Pichai of Google: ‘Technology Doesn’t Solve Humanity’s Problems’, Google, Facebook, and Amazon benefit from an outdated definition of “monopoly”, Trump's Big Tech contradictions | [넥스랩-어드밴스](https://trevari.co.kr/meetings/show?clubID=0b0ae96d-d786-4b58-8cb3-61e974a9b531&order=1) | 안국 | 01월 10일 |  
 | 열두 발자국 | [체험독서-둘금](https://trevari.co.kr/meetings/show?clubID=58973be7-8589-449a-ac9c-a86df31e5849&order=1) | 안국 | 01월 11일 |  
 | 90년생이 온다 | [둘금](https://trevari.co.kr/meetings/show?clubID=58b2e3c4-ce01-4f0f-a7bb-6c6ed687d084&order=1) | 안국 | 01월 11일 |  
 | 여름으로 가는 문 | [SciFi-25](https://trevari.co.kr/meetings/show?clubID=2c7bc332-cc47-47a5-bce2-f2d511db143a&order=1) | 압구정 | 01월 11일 |  
@@ -178,6 +176,7 @@
 | 굿 라이프 | [사이드프로젝트-36](https://trevari.co.kr/meetings/show?clubID=3727dd38-5a12-472f-8ce1-639092b7e9a1&order=1) | 성수 | 01월 19일 |  
 | 바르도의 링컨, 잉글리시 페이션트 | [R.O.D-36](https://trevari.co.kr/meetings/show?clubID=330efe71-b57b-4b51-8744-ce91c40e8e4e&order=1) | 압구정 | 01월 19일 |  
 | 서울 선언 | [시민의 도시 서울을 걷다](https://trevari.co.kr/meetings/show?clubID=c62ebbb1-bee8-4822-90ac-6ed3a23a0ce6&order=1) | 압구정 | 01월 19일 |  
+| 세상을 바꾼 비즈니스 모델 70 | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=1) | 안국 | 01월 19일 |  
 | 나의 방랑, 뮤지컬: 랭보 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=edb3bc3b-0a8b-4e17-926b-975262184809&order=1) | 안국 | 01월 19일 |  
 | 나쁜 소녀의 짓궂음 | [읽을지도-36](https://trevari.co.kr/meetings/show?clubID=1865cdbc-ba40-4960-967e-73740e9fab18&order=1) | 성수 | 01월 19일 |  
 | 스물아홉 생일, 1년 후 죽기로 결심했다 | [셋토](https://trevari.co.kr/meetings/show?clubID=451af68c-7e83-485d-9b31-d40012e89436&order=1) | 안국 | 01월 19일 |  
@@ -194,7 +193,6 @@
 | 12가지 인생의 법칙 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=1) | 성수 | 01월 19일 |  
 | 플라톤의 국가 · 정체 | [국경:철학](https://trevari.co.kr/meetings/show?clubID=4d192036-401d-4a16-970b-553e257c29ad&order=1) | 압구정 | 01월 19일 |  
 | 우리는 차별에 찬성합니다 | [국내이슈-빨강](https://trevari.co.kr/meetings/show?clubID=81affbb4-4da8-4bd1-8658-63c6d4d89e48&order=1) | 안국 | 01월 19일 |  
-| 세상을 바꾼 비즈니스 모델 70 | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=1) | 안국 | 01월 19일 |  
 | 정체성 | [북씨-노랑](https://trevari.co.kr/meetings/show?clubID=c90dde8e-ce7d-48df-8a74-e25815ee7284&order=1) | 안국 | 01월 20일 |  
 | 출근하지 않고 퇴직하지 않는 1인 지식창업 | [1코노미](https://trevari.co.kr/meetings/show?clubID=1873d6ab-b43d-4a03-b575-5be51908dae8&order=1) | 성수 | 01월 20일 |  
 | [책그림 추천책] 사랑의 기술 | [무경계-37](https://trevari.co.kr/meetings/show?clubID=525b3e26-d19b-45de-b0b3-e33dc846a91b&order=1) | 성수 | 01월 20일 |  
@@ -207,10 +205,8 @@
 | 인생의 베일 | [37](https://trevari.co.kr/meetings/show?clubID=ee2d068f-f4b3-4f7f-b4cf-4d964c9bef2a&order=1) | 압구정 | 01월 20일 |  
 | 직업으로서의 소설가, 있으려나 서점 | [기획자의노트](https://trevari.co.kr/meetings/show?clubID=919e06f6-581d-4f5e-abb6-c6b5fabc97e9&order=1) | 성수 | 01월 20일 |  
 | 나는 나를 파괴할 권리가 있다 | [작가들-김영하](https://trevari.co.kr/meetings/show?clubID=9a86dd06-f8a1-4a26-9251-be913ee891b2&order=1) | 안국 | 01월 20일 |  
-| 습관의 힘 | [계발자들](https://trevari.co.kr/meetings/show?clubID=90e32c98-2c20-4fb7-9146-b30a2d34105a&order=1) | 성수 | 01월 20일 |  
 | 창업가의 일 | [스타텁-셋일](https://trevari.co.kr/meetings/show?clubID=ac4e89d8-6397-4f09-aa39-2ef58dfb4b66&order=1) | 안국 | 01월 20일 |  
 | 프레디 머큐리 | [사람읽기](https://trevari.co.kr/meetings/show?clubID=abb5a006-55f4-4845-87c0-818b74d7d65f&order=1) | 성수 | 01월 20일 |  
-| 불편해도 괜찮아:영화보다 재미있는 인권이야기 | [차별과폭력](https://trevari.co.kr/meetings/show?clubID=3b59fc7f-bc7b-4709-8ec2-329435523ae0&order=1) | 성수 | 01월 20일 |  
 | 콰이어트(Quiet) | [직장인](https://trevari.co.kr/meetings/show?clubID=e4c70715-8a72-4977-a61c-6080dee9b6a4&order=1) | 안국 | 01월 20일 |  
 | 진화론 산책 | [자연사](https://trevari.co.kr/meetings/show?clubID=2ea4fb8f-91df-4dae-b3fe-9bb686d02615&order=1) | 서대문자연사박물관2019년 | 20일 일요일 |  
 | 다섯째 아이, 영화: <케빈에 대하여> | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=afd51061-6d5d-4aa8-a344-eca21a652d11&order=1) | 압구정 | 01월 23일 |  
@@ -239,7 +235,6 @@
 | 금융의 모험 | [이콘-45](https://trevari.co.kr/meetings/show?clubID=4b05cef5-ad5b-455b-bde2-f840f76e9cd3&order=1) | 성수 | 01월 25일 |  
 | 슬픔을 공부하는 슬픔 | [넷금](https://trevari.co.kr/meetings/show?clubID=ac12cf0f-2eb6-49d8-8884-e3570c7ed097&order=1) | 안국 | 01월 25일 |  
 | The Plague (Paperback) | [잉잉-45](https://trevari.co.kr/meetings/show?clubID=65090577-6bc6-4cfb-9f7c-c7f7d7d7d607&order=1) | 압구정 | 01월 25일 |  
-| 맥주 스타일 사전(THE BEER) | [맥맥](https://trevari.co.kr/meetings/show?clubID=6d0d93c7-3adc-4383-bbbf-81fffca0da12&order=1) | 안국 | 01월 25일 |  
 | 어느 누구의 모든 동생 | [시밤](https://trevari.co.kr/meetings/show?clubID=61281b9c-8d3b-42df-8c5c-de2973f39149&order=1) | 안국 | 01월 25일 |  
 | 나의 주거 투쟁 | [내집짓기-넷금](https://trevari.co.kr/meetings/show?clubID=2e3220e2-ffc2-4587-b95c-d2a82bb76c70&order=1) | 안국 | 01월 25일 |  
 | 사랑의 생애 | [45](https://trevari.co.kr/meetings/show?clubID=b142cea0-67ff-4def-921a-8c4a7b1bdd1a&order=1) | 압구정 | 01월 25일 |  
@@ -259,7 +254,6 @@
 | 지도와 영토 | [미술아냥](https://trevari.co.kr/meetings/show?clubID=4a72748b-1479-4800-b6c3-50790349f571&order=1) | 안국 | 01월 26일 |  
 | 돌이킬 수 없는 약속 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=575fca49-b376-408c-b058-e8ac3eb62402&order=1) | 성수 | 01월 26일 |  
 | 적당한 거리 | [마음-46](https://trevari.co.kr/meetings/show?clubID=367e8327-4bdc-4edd-a144-fd20e5e99aeb&order=1) | 성수 | 01월 26일 |  
-| 평양 자본주의 백과전서 | [북한읽기](https://trevari.co.kr/meetings/show?clubID=2a2bb2c5-f54b-4a40-9cd5-6f9dfde48285&order=1) | 안국 | 01월 26일 |  
 | 파워풀 | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=6cac9d98-32d6-4378-b33c-447afee4a1b6&order=1) | 성수 | 01월 26일 |  
 | 행복의 기원 | [넷토](https://trevari.co.kr/meetings/show?clubID=919371f1-f98a-4eda-adec-c5368eae0e0e&order=1) | 안국 | 01월 26일 |  
 | 마초 패러독스 | [GD 심화](https://trevari.co.kr/meetings/show?clubID=fbd94669-89fe-466c-9736-831f59043341&order=1) | 성수 | 01월 26일 |  
@@ -299,8 +293,8 @@
 | 구토 | [진진-23](https://trevari.co.kr/meetings/show?clubID=51bd126a-25cf-49a0-87a8-f8ee0e34d8a8&order=4) | 성수 | 04월 10일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 294 개  
+총 288 개  
 
 > The list has been generated by a python [script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
-> Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcom :)  
+> Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
 > Maintained by @soopsaram  
