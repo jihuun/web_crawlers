@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-01-13 15:20:50  
+> Updated on 2019-01-13 16:46:37  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -7,7 +7,7 @@
 
 ---
 
-| 선정 도서 | 클럽 | 아지트 | 날짜 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
+| 선정 도서 | 클럽 | 아지트 | 날짜 |  
 | --- | --- | --- | --- |  
 | 어쩌다 우리는 환자가 되었나 | [27](https://trevari.co.kr/meetings/show?clubID=c243c742-53c7-4880-a220-9b88a823178b&order=1) | 압구정 | 01월 13일 |  
 | 양성평등에 반대한다(도란스 기획 총서 1) | [GD-27](https://trevari.co.kr/meetings/show?clubID=7bf093ed-79df-4b10-bd51-0e563b6b8022&order=1) | 압구정 | 01월 13일 |  
@@ -215,7 +215,9 @@
 | 우스운 사랑들 | [보통의존재-14](https://trevari.co.kr/meetings/show?clubID=e9361c36-6b87-479c-85aa-b302d06f4975&order=2) | 압구정 | 02월 07일 |  
 | 도덕의 궤적(양장본 HardCover) | [초협력자](https://trevari.co.kr/meetings/show?clubID=af8df340-6c0b-4920-a802-00e25aed8109&order=2) | 압구정 | 02월 08일 |  
 | 파크애비뉴의 영장류 | [논픽션](https://trevari.co.kr/meetings/show?clubID=24974926-3853-4002-97ba-93d244336ec1&order=2) | 안국 | 02월 08일 |  
+| 모닝스타 성공 투자 5원칙 | [투자입문-25](https://trevari.co.kr/meetings/show?clubID=bdfd6361-7f8e-4e82-b6f0-16ca3283386b&order=2) | 성수 | 02월 08일 |  
 | 지옥이 새겨진 소녀(스토리 콜렉터 44), 새카만 머리의 금발 소년(스토리 콜렉터 37) | [셜록-26](https://trevari.co.kr/meetings/show?clubID=c59775ea-f939-41b5-b638-fea1e7735f02&order=2) | 성수 | 02월 09일 |  
+| 정재승의 과학 콘서트(개정증보판) | [과학의시선](https://trevari.co.kr/meetings/show?clubID=85eb2f6a-cb85-45ff-b468-37f2325396fc&order=2) | 압구정 | 02월 09일 |  
 | 히틀러의 철학자들 | [진진-23](https://trevari.co.kr/meetings/show?clubID=51bd126a-25cf-49a0-87a8-f8ee0e34d8a8&order=2) | 성수 | 02월 13일 |  
 | 어디서 살 것인가 | [체험독서-둘수](https://trevari.co.kr/meetings/show?clubID=1e8dd7f7-4601-4216-835d-6ad2dc0cf258&order=2) | 안국 | 02월 13일 |  
 | 평균의 종말 | [체인지메이커교육](https://trevari.co.kr/meetings/show?clubID=edcd04dc-9462-49be-83d9-0d336b1624ec&order=2) | 안국 | 02월 13일 |  
@@ -239,5 +241,5 @@
 | 머신 플랫폼 크라우드, 이동의 미래, 넥스트 레볼루션 | [어떤혁명 시즌5](https://trevari.co.kr/meetings/show?clubID=758f6bef-5ec9-4560-87f3-5b2fcea53006&order=4) | 압구정 | 04월 11일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 229 개  
+총 231 개  
 
