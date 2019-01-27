@@ -13,7 +13,9 @@ function get_date {
 cd $DIR
 
 if [ -f $SCRIPT ]; then
-	echo "$SCRIPT is exist"
+	echo "LOG: sync up with origin/master"
+	git fetch origin
+	git rebase origin/master
 	echo "LOG: $SCRIPT is doing."
 	python $SCRIPT 
 	echo "LOG: $SCRIPT done."
