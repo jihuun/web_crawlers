@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-01-27 06:30:29  
+> Updated on 2019-01-27 12:00:29  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -106,6 +106,7 @@
 | 최고의 브랜드는 어떻게 성장하는가 | [브랜드랜드-둘토](https://trevari.co.kr/meetings/show?clubID=be7bc096-6d1d-45d3-be62-02c1de5c3259&order=2) | 안국 | 02월 09일 |  
 | 어느 애주가의 고백 | [현대적인 또는 현재적인 ‘어떤’ 책](https://trevari.co.kr/meetings/show?clubID=b7035b04-0250-458b-a699-be23e9860dac&order=2) | 안국 | 02월 09일 |  
 | 지금 세계는 무엇을 생각하는가 | [인간과기술-둘토](https://trevari.co.kr/meetings/show?clubID=afbe325e-e995-406b-adb6-ddb68e068d8b&order=2) | 안국 | 02월 09일 |  
+| 유쾌한 이코노미스트의 스마트한 경제 공부 | [이콘-26](https://trevari.co.kr/meetings/show?clubID=ed90ecb9-0970-4609-b865-3c53aacfbfed&order=2) | 성수 | 02월 09일 |  
 | Nudge * 2017 노벨 경제학상 * | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=14e4ef71-c43c-4ad6-a094-e139d8a76b62&order=2) | 안국 | 02월 09일 |  
 | 지옥이 새겨진 소녀(스토리 콜렉터 44), 새카만 머리의 금발 소년(스토리 콜렉터 37) | [셜록-26](https://trevari.co.kr/meetings/show?clubID=c59775ea-f939-41b5-b638-fea1e7735f02&order=2) | 성수 | 02월 09일 |  
 | 리씽크(Re think) | [26](https://trevari.co.kr/meetings/show?clubID=aec69273-d009-4fdc-94d1-8bf6a00fe32e&order=2) | 압구정 | 02월 09일 |  
@@ -211,6 +212,7 @@
 | 검사내전 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=575fca49-b376-408c-b058-e8ac3eb62402&order=2) | 성수 | 02월 23일 |  
 | 비즈니스 모델의 절대강자 | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=2) | 안국 | 02월 23일 |  
 | 인간의 발명 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=03afc153-4ee7-4c9f-9646-f64fe4bac7a2&order=2) | 압구정 | 02월 23일 |  
+| 철학의 위안(라틴어 원전 완역본)(현대지성 클래식 2) | [진진-47](https://trevari.co.kr/meetings/show?clubID=b43c5aa4-db1e-4a27-94a4-543d7cf7b3ef&order=2) | 성수 | 02월 24일 |  
 | 당신 인생의 이야기 | [튜링의 아틀리에](https://trevari.co.kr/meetings/show?clubID=5d29cef2-0ec4-4c12-a830-7d4599260bd4&order=2) | 안국 | 02월 27일 |  
 | 어디서 살 것인가 | [InVi](https://trevari.co.kr/meetings/show?clubID=e9422994-1a40-40d2-a697-4d43380267b0&order=2) | 성수 | 02월 27일 |  
 | 백년식당 | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=c54be82e-5a81-49b2-ab7b-d530c1171c6b&order=2) | 안국 | 02월 28일 |  
@@ -234,5 +236,5 @@
 | 책쓰기가 이렇게 쉬울 줄이야 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=4) | 안국 | 04월 17일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 224 개  
+총 226 개  
 
