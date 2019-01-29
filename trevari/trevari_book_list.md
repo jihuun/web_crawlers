@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-01-28 12:00:31  
+> Updated on 2019-01-29 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -141,8 +141,10 @@
 | BEV vs. FCEV / Is a autonomous winter coming? | [넥스랩-어드밴스](https://trevari.co.kr/meetings/show?clubID=0b0ae96d-d786-4b58-8cb3-61e974a9b531&order=2) | 안국 | 02월 14일 |  
 | 아마존 미래전략 2022 | [마케팅-35](https://trevari.co.kr/meetings/show?clubID=5fd1955e-ad1e-4c9f-b19a-cb0aa52a624a&order=2) | 성수 | 02월 15일 |  
 | 모닝스타 성공 투자 5원칙 | [투자입문-35](https://trevari.co.kr/meetings/show?clubID=3a40074e-b37a-481c-83c8-aaecca69acee&order=2) | 성수 | 02월 15일 |  
+| 맥락을 팔아라 | [셀셀](https://trevari.co.kr/meetings/show?clubID=97586ad2-89b2-4f8f-b719-036af6647896&order=2) | 압구정 | 02월 15일 |  
 | 내게 무해한 사람 | [무경계-35](https://trevari.co.kr/meetings/show?clubID=a66d90d1-ea26-454c-aa2b-f674db4978cb&order=2) | 성수 | 02월 15일 |  
 | 국가란 무엇인가(개정신판), 시티즌 포 Citizen Four | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=b3763f5f-957f-469c-846f-eb5bbe9125d1&order=2) | 압구정 | 02월 15일 |  
+| 실격당한 자들을 위한 변론 | [35](https://trevari.co.kr/meetings/show?clubID=1a7888b2-a130-42a5-a8e3-dbbeddd1c282&order=2) | 압구정 | 02월 15일 |  
 | 13.67, 서치 (영화)  | [북씨-셋금](https://trevari.co.kr/meetings/show?clubID=2f000211-4904-4cdd-aa52-79e9351b95e6&order=2) | 안국 | 02월 15일 |  
 | 실력과 노력으로 성공했다는 당신에게 | [민주주의 vs 불평등](https://trevari.co.kr/meetings/show?clubID=095882b7-84ab-42f9-ac98-a071ac5c69c2&order=2) | 안국 | 02월 15일 |  
 | 범죄에 관한 10가지 신화 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=2) | 안국 | 02월 15일 |  
@@ -203,6 +205,7 @@
 | 검사내전 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=575fca49-b376-408c-b058-e8ac3eb62402&order=2) | 성수 | 02월 23일 |  
 | 비즈니스 모델의 절대강자 | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=2) | 안국 | 02월 23일 |  
 | 인간의 발명 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=03afc153-4ee7-4c9f-9646-f64fe4bac7a2&order=2) | 압구정 | 02월 23일 |  
+| 조선자본주의공화국(양장본 HardCover) | [북한읽기](https://trevari.co.kr/meetings/show?clubID=2a2bb2c5-f54b-4a40-9cd5-6f9dfde48285&order=2) | 안국 | 02월 23일 |  
 | 나는 왜 쓰는가 | [씀-블랙](https://trevari.co.kr/meetings/show?clubID=5c18c42b-6123-4de5-9a84-39af9c1c250a&order=2) | 압구정 | 02월 23일 |  
 | 잊혀질 권리(아산재단 연구총서 410)(양장본 HardCover), 잊혀질 권리 | [법법](https://trevari.co.kr/meetings/show?clubID=82a82666-67e7-4354-8c55-39225cea516e&order=2) | 안국 | 02월 24일 |  
 | 댄스 댄스 댄스(상), 댄스 댄스 댄스(하) | [작가들-하루키](https://trevari.co.kr/meetings/show?clubID=e49029be-f15d-4059-ba11-1fd80e64a448&order=2) | 성수 | 02월 24일 |  
@@ -213,6 +216,7 @@
 | 어디서 살 것인가 | [InVi](https://trevari.co.kr/meetings/show?clubID=e9422994-1a40-40d2-a697-4d43380267b0&order=2) | 성수 | 02월 27일 |  
 | 떨림과 울림 | [44](https://trevari.co.kr/meetings/show?clubID=965992e8-5e06-4e96-896c-7df266b8ee38&order=2) | 압구정 | 02월 28일 |  
 | 봉제인형 살인사건, 일곱개의 관 | [셜록-44](https://trevari.co.kr/meetings/show?clubID=c4993900-f395-43a1-9fad-47f298c07197&order=2) | 압구정 | 02월 28일 |  
+| 당신 인생의 이야기 | [북씨-넷목](https://trevari.co.kr/meetings/show?clubID=8302d881-085e-419d-9f28-ec5f01d5fcb4&order=2) | 안국 | 02월 28일 |  
 | 백년식당 | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=c54be82e-5a81-49b2-ab7b-d530c1171c6b&order=2) | 안국 | 02월 28일 |  
 | 리바이어던 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=55d322fc-8b34-4be5-ae42-0f511c5d1854&order=2) | 압구정 | 02월 28일 |  
 | 평양 그리고 평양 이후 | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=155cab8a-cdcb-41e1-9b66-f17cd74beef5&order=3) | 안국 | 03월 01일 |  
@@ -233,5 +237,5 @@
 | 책쓰기가 이렇게 쉬울 줄이야 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=4) | 안국 | 04월 17일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 223 개  
+총 227 개  
 
