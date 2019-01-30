@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-01-29 12:00:31  
+> Updated on 2019-01-30 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -171,6 +171,7 @@
 | 어디서 살 것인가 | [TED읽기-셋토](https://trevari.co.kr/meetings/show?clubID=6f3c10b1-ffcb-4218-aa52-bbf013552cb0&order=2) | 안국 | 02월 16일 |  
 | 천안문(이산의 책 8) | [수상한GPS](https://trevari.co.kr/meetings/show?clubID=d2353e88-f1da-4d67-aeac-7c53aa53acdc&order=2) | 압구정 | 02월 16일 |  
 | 와일드, 와일드(wild,2014) | [북씨-민트](https://trevari.co.kr/meetings/show?clubID=3503c5ad-544f-4a0d-91d4-453a91f4511b&order=2) | 압구정 | 02월 16일 |  
+| 모두 거짓말을 한다 | [인간과기술-36](https://trevari.co.kr/meetings/show?clubID=a70faf58-bd6f-4681-a960-82ee088987d7&order=2) | 성수 | 02월 16일 |  
 | 화성에서 온 남자 금성에서 온 여자(개정판 2판) | [부부사기단](https://trevari.co.kr/meetings/show?clubID=762ab6a4-598c-4936-8670-dbde7c0aad03&order=2) | 압구정 | 02월 16일 |  
 | 공생 멸종 진화 | [자연사](https://trevari.co.kr/meetings/show?clubID=2ea4fb8f-91df-4dae-b3fe-9bb686d02615&order=2) | 안국 | 02월 17일 |  
 | 크리에이터의 생각법 | [1코노미](https://trevari.co.kr/meetings/show?clubID=1873d6ab-b43d-4a03-b575-5be51908dae8&order=2) | 성수 | 02월 17일 |  
@@ -204,19 +205,24 @@
 | Educated: A Memoir | [잉잉-45](https://trevari.co.kr/meetings/show?clubID=65090577-6bc6-4cfb-9f7c-c7f7d7d7d607&order=2) | 압구정 | 02월 22일 |  
 | 생각이 돈이 되는 순간 | [사이드프로젝트-45](https://trevari.co.kr/meetings/show?clubID=3abeaef6-d5d3-421f-ac2f-d4b40982a871&order=2) | 압구정 | 02월 22일 |  
 | 나를 지켜낸다는 것(리커버 특별판) | [쩐빵_천天](https://trevari.co.kr/meetings/show?clubID=896fe4da-ced5-42d5-9b8a-60f44c46ff71&order=2) | 압구정 | 02월 22일 |  
+| 사랑의 생애(양장본 HardCover) | [넷금](https://trevari.co.kr/meetings/show?clubID=ac12cf0f-2eb6-49d8-8884-e3570c7ed097&order=2) | 안국 | 02월 22일 |  
 | 1914년(현대문학 핀 시리즈 시인선 7)(양장본 HardCover), 왼손은 마음이 아파(현대문학 핀 시리즈 시인선 8)(양장본 HardCover), 그 밖의 어떤 것(현대문학 핀 시리즈 시인선 9)(양장본 HardCover) | [시밤](https://trevari.co.kr/meetings/show?clubID=61281b9c-8d3b-42df-8c5c-de2973f39149&order=2) | 안국 | 02월 22일 |  
+| 게으름에 대한 찬양 | [고전모아](https://trevari.co.kr/meetings/show?clubID=f8903814-6d6b-4c13-9187-85a54362bb4b&order=2) | 압구정 | 02월 22일 |  
 | 검사내전 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=575fca49-b376-408c-b058-e8ac3eb62402&order=2) | 성수 | 02월 23일 |  
 | 비즈니스 모델의 절대강자 | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=2) | 안국 | 02월 23일 |  
 | 인간의 발명 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=03afc153-4ee7-4c9f-9646-f64fe4bac7a2&order=2) | 압구정 | 02월 23일 |  
+| 그믐, 또는 당신이 세계를 기억하는 방식 | [문-레드](https://trevari.co.kr/meetings/show?clubID=a40019f4-fa48-4dfe-bc4d-3468b4ce033a&order=2) | 압구정 | 02월 23일 |  
 | 조선자본주의공화국(양장본 HardCover) | [북한읽기](https://trevari.co.kr/meetings/show?clubID=2a2bb2c5-f54b-4a40-9cd5-6f9dfde48285&order=2) | 안국 | 02월 23일 |  
 | 나는 왜 쓰는가 | [씀-블랙](https://trevari.co.kr/meetings/show?clubID=5c18c42b-6123-4de5-9a84-39af9c1c250a&order=2) | 압구정 | 02월 23일 |  
 | 잊혀질 권리(아산재단 연구총서 410)(양장본 HardCover), 잊혀질 권리 | [법법](https://trevari.co.kr/meetings/show?clubID=82a82666-67e7-4354-8c55-39225cea516e&order=2) | 안국 | 02월 24일 |  
 | 댄스 댄스 댄스(상), 댄스 댄스 댄스(하) | [작가들-하루키](https://trevari.co.kr/meetings/show?clubID=e49029be-f15d-4059-ba11-1fd80e64a448&order=2) | 성수 | 02월 24일 |  
 | 철학의 위안(라틴어 원전 완역본)(현대지성 클래식 2) | [진진-47](https://trevari.co.kr/meetings/show?clubID=b43c5aa4-db1e-4a27-94a4-543d7cf7b3ef&order=2) | 성수 | 02월 24일 |  
+| 군주론 | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=4333f8d2-2659-4dd6-ad3a-1d9aa5d74c9c&order=2) | 압구정 | 02월 24일 |  
 | 이반 일리치의 죽음 | [체인지메이커](https://trevari.co.kr/meetings/show?clubID=9d4240aa-ff1a-49f8-b247-5318f25d7b08&order=2) | 안국 | 02월 24일 |  
 | 당신 인생의 이야기 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=afd51061-6d5d-4aa8-a344-eca21a652d11&order=2) | 압구정 | 02월 27일 |  
 | 당신 인생의 이야기 | [튜링의 아틀리에](https://trevari.co.kr/meetings/show?clubID=5d29cef2-0ec4-4c12-a830-7d4599260bd4&order=2) | 안국 | 02월 27일 |  
 | 어디서 살 것인가 | [InVi](https://trevari.co.kr/meetings/show?clubID=e9422994-1a40-40d2-a697-4d43380267b0&order=2) | 성수 | 02월 27일 |  
+| 일의 기쁨과 슬픔(양장본 HardCover) | [씀에세이-44](https://trevari.co.kr/meetings/show?clubID=87ab4b06-955c-425b-a148-62df81d5c67b&order=2) | 성수 | 02월 28일 |  
 | 떨림과 울림 | [44](https://trevari.co.kr/meetings/show?clubID=965992e8-5e06-4e96-896c-7df266b8ee38&order=2) | 압구정 | 02월 28일 |  
 | 봉제인형 살인사건, 일곱개의 관 | [셜록-44](https://trevari.co.kr/meetings/show?clubID=c4993900-f395-43a1-9fad-47f298c07197&order=2) | 압구정 | 02월 28일 |  
 | 당신 인생의 이야기 | [북씨-넷목](https://trevari.co.kr/meetings/show?clubID=8302d881-085e-419d-9f28-ec5f01d5fcb4&order=2) | 안국 | 02월 28일 |  
@@ -240,5 +246,5 @@
 | 책쓰기가 이렇게 쉬울 줄이야 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=4) | 안국 | 04월 17일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 230 개  
+총 236 개  
 
