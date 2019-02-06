@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-05 12:00:32  
+> Updated on 2019-02-06 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -107,6 +107,7 @@
 | 내 안의 물고기 | [과학의눈](https://trevari.co.kr/meetings/show?clubID=c8c5f088-3846-49b0-9be2-40a8c6338c12&order=2) | 압구정 | 02월 15일 |  
 | 빅터 프랭클의 죽음의 수용소에서 | [마음-35](https://trevari.co.kr/meetings/show?clubID=18352293-edae-4308-a453-373f069e2704&order=2) | 성수 | 02월 15일 |  
 | 프로테스탄티즘 윤리와 자본주의 정신 | [진진-셋금](https://trevari.co.kr/meetings/show?clubID=1392a633-424c-42b2-bfa2-26a165783e9b&order=2) | 안국 | 02월 15일 |  
+| 스토너 | [읽을지도-35](https://trevari.co.kr/meetings/show?clubID=62e64f00-2b5d-42d2-9240-0a685e175e5a&order=2) | 압구정 | 02월 15일 |  
 | 파워풀 | [스타텁-셋금](https://trevari.co.kr/meetings/show?clubID=a2669bbd-642a-4383-a127-9ec48974b089&order=2) | 안국 | 02월 15일 |  
 | 게으름에 대한 찬양, 리틀 포레스트 | [북씨-퍼플](https://trevari.co.kr/meetings/show?clubID=968e9d34-8fa2-42a9-b6ef-aef2a6b12552&order=2) | 압구정 | 02월 15일 |  
 | 마케터의 여행법 | [마케팅-셋금](https://trevari.co.kr/meetings/show?clubID=f869ae46-6f9c-4856-8fdb-90c5c7714a98&order=2) | 안국 | 02월 15일 |  
@@ -253,5 +254,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 243 개  
+총 244 개  
 
