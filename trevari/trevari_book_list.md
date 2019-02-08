@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-08 02:00:32  
+> Updated on 2019-02-08 12:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -230,6 +230,7 @@
 | 평양 그리고 평양 이후, 풍류의 류경, 공원의 평양 | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=155cab8a-cdcb-41e1-9b66-f17cd74beef5&order=3) | 안국 | 03월 01일 |  
 | 플랫폼 레볼루션 | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=f6134aa0-8101-4891-8ec5-a97cc0db609e&order=3) | 성수 | 03월 02일 |  
 | 불완전한 경이로움 | [문-그린](https://trevari.co.kr/meetings/show?clubID=af507331-0d44-4a25-b2d1-7fca0e8bc9f4&order=3) | 압구정 | 03월 02일 |  
+| 행복의 기원(양장본 HardCover) | [무경계-16](https://trevari.co.kr/meetings/show?clubID=472f21eb-59da-4920-b9ac-2da5c2156903&order=3) | 성수 | 03월 02일 |  
 | 미각의 제국 | [미식입문-성수](https://trevari.co.kr/meetings/show?clubID=d40bb772-19dc-41f1-9d7b-9c9e1b17db8a&order=3) | 성수 | 03월 02일 |  
 | 피프티 피플 | [덕덕](https://trevari.co.kr/meetings/show?clubID=0730856a-909f-4126-8fbc-d78cb91cccc6&order=3) | 압구정 | 03월 02일 |  
 | 초격차(양장본 HardCover) | [리더십입문-17](https://trevari.co.kr/meetings/show?clubID=d2f8d758-8775-4e3f-8075-ee79af9f59c1&order=3) | 성수 | 03월 03일 |  
@@ -257,5 +258,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 247 개  
+총 248 개  
 
