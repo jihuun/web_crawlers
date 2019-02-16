@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-15 12:00:32  
+> Updated on 2019-02-16 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -9,25 +9,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 |  
 | --- | --- | --- | --- |  
-| 아마존 미래전략 2022 | [마케팅-35](https://trevari.co.kr/meetings/show?clubID=5fd1955e-ad1e-4c9f-b19a-cb0aa52a624a&order=2) | 성수 | 02월 15일 |  
-| G2 전쟁 | [돈돈:성수](https://trevari.co.kr/meetings/show?clubID=47f62b77-1b36-4e2a-a153-e76079619450&order=2) | 성수 | 02월 15일 |  
-| 모닝스타 성공 투자 5원칙 | [투자입문-35](https://trevari.co.kr/meetings/show?clubID=3a40074e-b37a-481c-83c8-aaecca69acee&order=2) | 성수 | 02월 15일 |  
-| 맥락을 팔아라 | [셀셀](https://trevari.co.kr/meetings/show?clubID=97586ad2-89b2-4f8f-b719-036af6647896&order=2) | 압구정 | 02월 15일 |  
-| 내게 무해한 사람 | [무경계-35](https://trevari.co.kr/meetings/show?clubID=a66d90d1-ea26-454c-aa2b-f674db4978cb&order=2) | 성수 | 02월 15일 |  
-| 국가란 무엇인가(개정신판), 시티즌 포 Citizen Four | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=b3763f5f-957f-469c-846f-eb5bbe9125d1&order=2) | 압구정 | 02월 15일 |  
-| 실격당한 자들을 위한 변론 | [35](https://trevari.co.kr/meetings/show?clubID=1a7888b2-a130-42a5-a8e3-dbbeddd1c282&order=2) | 압구정 | 02월 15일 |  
-| 13.67, 서치 (영화)  | [북씨-셋금](https://trevari.co.kr/meetings/show?clubID=2f000211-4904-4cdd-aa52-79e9351b95e6&order=2) | 안국 | 02월 15일 |  
-| 실력과 노력으로 성공했다는 당신에게 | [민주주의 vs 불평등](https://trevari.co.kr/meetings/show?clubID=095882b7-84ab-42f9-ac98-a071ac5c69c2&order=2) | 안국 | 02월 15일 |  
-| 범죄에 관한 10가지 신화 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=2) | 안국 | 02월 15일 |  
-| 내 안의 물고기 | [과학의눈](https://trevari.co.kr/meetings/show?clubID=c8c5f088-3846-49b0-9be2-40a8c6338c12&order=2) | 압구정 | 02월 15일 |  
-| 빅터 프랭클의 죽음의 수용소에서 | [마음-35](https://trevari.co.kr/meetings/show?clubID=18352293-edae-4308-a453-373f069e2704&order=2) | 성수 | 02월 15일 |  
-| 프로테스탄티즘 윤리와 자본주의 정신 | [진진-셋금](https://trevari.co.kr/meetings/show?clubID=1392a633-424c-42b2-bfa2-26a165783e9b&order=2) | 안국 | 02월 15일 |  
-| 스토너 | [읽을지도-35](https://trevari.co.kr/meetings/show?clubID=62e64f00-2b5d-42d2-9240-0a685e175e5a&order=2) | 압구정 | 02월 15일 |  
-| 파워풀 | [스타텁-셋금](https://trevari.co.kr/meetings/show?clubID=a2669bbd-642a-4383-a127-9ec48974b089&order=2) | 안국 | 02월 15일 |  
-| 게으름에 대한 찬양, 리틀 포레스트 | [북씨-퍼플](https://trevari.co.kr/meetings/show?clubID=968e9d34-8fa2-42a9-b6ef-aef2a6b12552&order=2) | 압구정 | 02월 15일 |  
-| 마케터의 여행법 | [마케팅-셋금](https://trevari.co.kr/meetings/show?clubID=f869ae46-6f9c-4856-8fdb-90c5c7714a98&order=2) | 안국 | 02월 15일 |  
-| 먹으면서 먹는 얘기할 때가 제일 좋아 | [식식-그린](https://trevari.co.kr/meetings/show?clubID=9063c372-5147-40e3-aced-372c4beae703&order=2) | 압구정 | 02월 15일 |  
-| 왜 나는 그들을 변호하는가 | [크리미널마인드](https://trevari.co.kr/meetings/show?clubID=4843d433-94ec-4694-abe5-bc73b8d164cb&order=2) | 안국 | 02월 15일 |  
 | 나는 돈이 없어도 사업을 한다 | [사이드프로젝트-36](https://trevari.co.kr/meetings/show?clubID=3727dd38-5a12-472f-8ce1-639092b7e9a1&order=2) | 성수 | 02월 16일 |  
 | 나목(박완서 소설전집 결정판 1)(양장본 HardCover) | [읽을지도-36](https://trevari.co.kr/meetings/show?clubID=1865cdbc-ba40-4960-967e-73740e9fab18&order=2) | 성수 | 02월 16일 |  
 | [영화]라이프 오브 파이(Life of Pi), 파이 이야기 | [북씨-셋토](https://trevari.co.kr/meetings/show?clubID=01692a2b-7172-41e8-ad20-b483d1e31bf6&order=2) | 안국 | 02월 16일 |  
@@ -256,5 +237,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 246 개  
+총 227 개  
 
