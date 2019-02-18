@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-18 02:00:32  
+> Updated on 2019-02-18 12:00:33  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -125,10 +125,12 @@
 | 미각의 제국 | [미식입문-성수](https://trevari.co.kr/meetings/show?clubID=d40bb772-19dc-41f1-9d7b-9c9e1b17db8a&order=3) | 성수 | 03월 02일 |  
 | 그날, 고양이가 내게로 왔다(낮은산 키큰나무 14)(반양장) | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=a54ff942-4d28-4c9d-a5c2-7f861b414ac2&order=3) | 압구정 | 03월 02일 |  
 | 아마존 웨이 | [브랜드랜드-16](https://trevari.co.kr/meetings/show?clubID=4999562b-9182-4245-8022-8a4bcbc140f8&order=3) | 압구정 | 03월 02일 |  
+| 내게 무해한 사람 | [문-보라](https://trevari.co.kr/meetings/show?clubID=29846467-2168-4857-a3ed-2dcdc2ce972f&order=3) | 안국 | 03월 02일 |  
 | 내 카메라에 별을 담다 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=8ab3c35e-6e68-4ce7-8344-25c1d6233ffa&order=3) | 안국 | 03월 02일 |  
 | 피프티 피플 | [덕덕](https://trevari.co.kr/meetings/show?clubID=0730856a-909f-4126-8fbc-d78cb91cccc6&order=3) | 압구정 | 03월 02일 |  
 | 행복의 자본론, 영화 <포레스트 검프> | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=f814b587-a2d8-4b0b-8e11-37a438ca12be&order=3) | 압구정 | 03월 02일 |  
 | 초격차(양장본 HardCover) | [리더십입문-17](https://trevari.co.kr/meetings/show?clubID=d2f8d758-8775-4e3f-8075-ee79af9f59c1&order=3) | 성수 | 03월 03일 |  
+| 오후 세 시, 그곳으로부터 | [서울](https://trevari.co.kr/meetings/show?clubID=9c4d7f5d-04bf-4ec4-8fcb-58b6bcf870a4&order=3) | 안국 | 03월 03일 |  
 | 공간의 위로 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=23c51cc6-232e-4291-b439-970890dce566&order=3) | 성수 | 03월 03일 |  
 | 동조자. 1, 동조자. 2 | [세계-문학](https://trevari.co.kr/meetings/show?clubID=e267eef4-3207-402e-bc2d-1e662111a677&order=3) | 안국 | 03월 03일 |  
 | 댄 애리얼리 부의 감각 | [이콘-첫일](https://trevari.co.kr/meetings/show?clubID=c2e1cb83-9118-405e-9e12-31b68c03c662&order=3) | 안국 | 03월 03일 |  
@@ -137,8 +139,10 @@
 | 나츠코의 술. 1(애장판) | [음주입문-성수](https://trevari.co.kr/meetings/show?clubID=6335a5f8-db4b-49ae-a12e-e343dad95637&order=3) | 성수 | 03월 03일 |  
 | 플랫폼 제국의 미래 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=af8267ac-989e-4a3f-9b0e-c8e2b5e967df&order=3) | 성수 | 03월 03일 |  
 | 그 후(나쓰메 소세키 소설 전집 8)(양장본 HardCover), 하트비트 | [북씨-빨강](https://trevari.co.kr/meetings/show?clubID=98d92e06-160d-40b2-8138-c7d60c4a9d99&order=3) | 안국 | 03월 03일 |  
+| 매거진 B(Magazine B) No.50: Seoul(한글판)(Second Edition)(개정판) | [단순클럽](https://trevari.co.kr/meetings/show?clubID=caf7b57c-5a40-45df-91f2-28f2a54fc592&order=3) | 안국 | 03월 03일 |  
 | 모노클(MONOCLE) 2019년 2월호 | [모노클클](https://trevari.co.kr/meetings/show?clubID=46bb1328-4c13-4fed-b189-91319698c61e&order=3) | 압구정 | 03월 03일 |  
 | 밤의 여행자들(오늘의 젊은 작가 3)(양장본 HardCover) | [문-블루](https://trevari.co.kr/meetings/show?clubID=7df5f7c8-f91f-42e9-b1c6-610ac1d31844&order=3) | 압구정 | 03월 03일 |  
+| 백년을 살아보니 | [씀-화이트](https://trevari.co.kr/meetings/show?clubID=01b9d970-4476-4da1-98bc-aa49a71ef393&order=3) | 압구정 | 03월 03일 |  
 | 트렌드 코리아 2019 | [체험독서-13](https://trevari.co.kr/meetings/show?clubID=f284fe4c-e285-4b05-b177-9f76e7774b2a&order=3) | 압구정 | 03월 06일 |  
 | 기업의 시대 | [이콘-13](https://trevari.co.kr/meetings/show?clubID=0c4fe204-c56b-4dd2-b64d-cc8221457372&order=3) | 압구정 | 03월 06일 |  
 | 미각의 제국 | [미식입문-압구정](https://trevari.co.kr/meetings/show?clubID=5df30a4f-1c9f-4f21-a25e-155b5f0a4a1f&order=3) | 압구정 | 03월 06일 |  
@@ -154,6 +158,7 @@
 | 행운에 속지 마라(양장본 HardCover) | [투자입문-25](https://trevari.co.kr/meetings/show?clubID=bdfd6361-7f8e-4e82-b6f0-16ca3283386b&order=3) | 성수 | 03월 08일 |  
 | 나는 가해자의 엄마입니다 | [왜애-25](https://trevari.co.kr/meetings/show?clubID=daf895c9-1fc1-4f46-aca9-44663d4a75dc&order=3) | 압구정 | 03월 08일 |  
 | 파리의 아파트 | [럽럽-25](https://trevari.co.kr/meetings/show?clubID=d31ea166-7139-4b77-a161-76128187a865&order=3) | 압구정 | 03월 08일 |  
+| 아몬드 | [문-라임](https://trevari.co.kr/meetings/show?clubID=bed3763b-7d3a-44ee-8a3d-bf6a8ddf7954&order=3) | 압구정 | 03월 08일 |  
 | 봉고차 월든 | [논픽션](https://trevari.co.kr/meetings/show?clubID=24974926-3853-4002-97ba-93d244336ec1&order=3) | 안국 | 03월 08일 |  
 | 그리고 신은 얘기나 좀 하자고 말했다(양장본 HardCover) | [문-25](https://trevari.co.kr/meetings/show?clubID=5fe45855-5134-4758-ba6a-9f368b98f500&order=3) | 성수 | 03월 08일 |  
 | 신자유주의와 인간성의 파괴 | [회사인간](https://trevari.co.kr/meetings/show?clubID=c8dee842-647d-4b62-a38f-aab2d5b2b926&order=3) | 안국 | 03월 08일 |  
@@ -190,14 +195,17 @@
 | 행운에 속지 마라(양장본 HardCover) | [투자입문-27](https://trevari.co.kr/meetings/show?clubID=b4b14ef3-7bb9-427d-b254-6df9fdd763ea&order=3) | 성수 | 03월 10일 |  
 | 손정의 300년 왕국의 야망(양장본 HardCover) | [창업과 투자 사이](https://trevari.co.kr/meetings/show?clubID=0d31c300-555a-43c4-8a99-e8cb46b49e48&order=3) | 성수 | 03월 10일 |  
 | 그리스인 조르바(열린책들 세계문학 21)(양장본 HardCover) | [무경계-27](https://trevari.co.kr/meetings/show?clubID=18fe1765-cc09-41ea-acdb-2a4f7de1133c&order=3) | 성수 | 03월 10일 |  
+| 이상한 정상가족 | [GD-27](https://trevari.co.kr/meetings/show?clubID=7bf093ed-79df-4b10-bd51-0e563b6b8022&order=3) | 압구정 | 03월 10일 |  
 | 호킹의 빅 퀘스천에 대한 간결한 대답 | [인간과기술-27](https://trevari.co.kr/meetings/show?clubID=a86d1179-1890-4030-8b4b-80466135ef65&order=3) | 압구정 | 03월 10일 |  
 | 90년생이 온다 | [둘일](https://trevari.co.kr/meetings/show?clubID=8b2898f5-35e0-4b70-ba03-14676ee6c554&order=3) | 안국 | 03월 10일 |  
 | 문단 아이돌론 | [무라카미즈 시즌2.](https://trevari.co.kr/meetings/show?clubID=72367754-ca6d-4518-836b-463f709fc1d0&order=3) | 안국 | 03월 13일 |  
 | 의지와 표상으로서의 세계(개정증보판)(을유세계사상고전)(양장본 HardCover) | [진진-23](https://trevari.co.kr/meetings/show?clubID=51bd126a-25cf-49a0-87a8-f8ee0e34d8a8&order=3) | 성수 | 03월 13일 |  
+| 참을 수 없는 존재의 가벼움(세계문학전집 234) | [문-블랙](https://trevari.co.kr/meetings/show?clubID=aca23a78-c504-4356-ae30-3d5cdfb70e7a&order=3) | 압구정 | 03월 13일 |  
 | 공감의 시대 | [체인지메이커교육](https://trevari.co.kr/meetings/show?clubID=edcd04dc-9462-49be-83d9-0d336b1624ec&order=3) | 안국 | 03월 13일 |  
 | 일하는 마음 | [나브시](https://trevari.co.kr/meetings/show?clubID=a83f80e5-cfbb-4303-800e-f643770d3e26&order=3) | 성수 | 03월 13일 |  
 | 판을 바꾸는 질문들 | [리더십입문-24](https://trevari.co.kr/meetings/show?clubID=eb1c453c-e250-443d-9ea1-cae02ac4b37a&order=3) | 압구정 | 03월 14일 |  
 | 90년생이 온다, 최강소비권력 Z세대가 온다 | [어떤혁명 시즌5](https://trevari.co.kr/meetings/show?clubID=758f6bef-5ec9-4560-87f3-5b2fcea53006&order=3) | 압구정 | 03월 14일 |  
+| 불평등의 대가(양장본 HardCover) | [민주주의 vs 불평등](https://trevari.co.kr/meetings/show?clubID=095882b7-84ab-42f9-ac98-a071ac5c69c2&order=3) | 안국 | 03월 15일 |  
 | 금융경제학 사용설명서, 붐버스톨로지 | [돈돈:성수](https://trevari.co.kr/meetings/show?clubID=47f62b77-1b36-4e2a-a153-e76079619450&order=3) | 성수 | 03월 15일 |  
 | 우아하고 호쾌한 여자 축구, 내 나이가 어때서 | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=b3763f5f-957f-469c-846f-eb5bbe9125d1&order=3) | 압구정 | 03월 15일 |  
 | 사이코패스는 일상의 그늘에 숨어 지낸다 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=3) | 안국 | 03월 15일 |  
@@ -226,5 +234,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 216 개  
+총 224 개  
 
