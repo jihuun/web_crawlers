@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-22 12:00:32  
+> Updated on 2019-02-23 02:00:31  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -197,6 +197,7 @@
 | 당신 인생의 이야기, 컨택트 | [북씨-퍼플](https://trevari.co.kr/meetings/show?clubID=968e9d34-8fa2-42a9-b6ef-aef2a6b12552&order=3) | 압구정 | 03월 15일 |  
 | 설득의 심리학(개정판 5판) | [셀셀](https://trevari.co.kr/meetings/show?clubID=97586ad2-89b2-4f8f-b719-036af6647896&order=3) | 압구정 | 03월 15일 |  
 | 창의성을 지휘하라 | [스타텁-셋금](https://trevari.co.kr/meetings/show?clubID=a2669bbd-642a-4383-a127-9ec48974b089&order=3) | 안국 | 03월 15일 |  
+| 철학은 어떻게 삶의 무기가 되는가 | [무경계-35](https://trevari.co.kr/meetings/show?clubID=a66d90d1-ea26-454c-aa2b-f674db4978cb&order=3) | 성수 | 03월 15일 |  
 | 우아하고 호쾌한 여자 축구, 내 나이가 어때서 | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=b3763f5f-957f-469c-846f-eb5bbe9125d1&order=3) | 압구정 | 03월 15일 |  
 | 아침에는 죽음을 생각하는 것이 좋다 | [마케팅-셋금](https://trevari.co.kr/meetings/show?clubID=f869ae46-6f9c-4856-8fdb-90c5c7714a98&order=3) | 안국 | 03월 15일 |  
 | 월터 미티의 은밀한 생활, 윌터의 상상은 현실이 된다 | [북씨-셋토](https://trevari.co.kr/meetings/show?clubID=01692a2b-7172-41e8-ad20-b483d1e31bf6&order=3) | 안국 | 03월 16일 |  
@@ -213,6 +214,7 @@
 | 달과 6펜스, 뮤지컬 [달과 6펜스] | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=edb3bc3b-0a8b-4e17-926b-975262184809&order=3) | 안국 | 03월 16일 |  
 | 먹고 마시는 것들의 자연사 | [자연사](https://trevari.co.kr/meetings/show?clubID=2ea4fb8f-91df-4dae-b3fe-9bb686d02615&order=3) | 안국 | 03월 17일 |  
 | 열두 발자국 | [워너원](https://trevari.co.kr/meetings/show?clubID=554b60fd-cbbb-4a8f-b5dc-e7ab68968eaa&order=3) | 압구정 | 03월 17일 |  
+| 시인 동주(양장본 HardCover) | [체험독서-셋일](https://trevari.co.kr/meetings/show?clubID=682e61c5-3d8e-4a4d-811d-668e9e85a427&order=3) | 안국 | 03월 17일 |  
 | 비커밍, 파이널미션 | [기획자의노트](https://trevari.co.kr/meetings/show?clubID=919e06f6-581d-4f5e-abb6-c6b5fabc97e9&order=3) | 성수 | 03월 17일 |  
 | 빛의 제국(2판)(김영하 컬렉션) | [작가들-김영하](https://trevari.co.kr/meetings/show?clubID=9a86dd06-f8a1-4a26-9251-be913ee891b2&order=3) | 안국 | 03월 17일 |  
 | 에센셜리즘 | [직장인](https://trevari.co.kr/meetings/show?clubID=e4c70715-8a72-4977-a61c-6080dee9b6a4&order=3) | 안국 | 03월 17일 |  
@@ -235,5 +237,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 225 개  
+총 227 개  
 
