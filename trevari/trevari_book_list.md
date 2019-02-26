@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-02-25 12:02:03  
+> Updated on 2019-02-26 02:01:59  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -201,6 +201,7 @@
 | 어떻게 원하는 것을 얻는가? | [리더십입문-셋수](https://trevari.co.kr/meetings/show?clubID=91061dc8-bd26-43fd-9cef-cd71e66480c6&order=3) | 안국 | 03월 20일 |  
 | 피프티 피플, 영화 <더 테이블>  | [북씨-블랙](https://trevari.co.kr/meetings/show?clubID=befa170a-4a99-4d6b-a5a0-6332efd9b4e3&order=3) | 압구정 | 03월 20일 |  
 | 글쓰기의 최전선 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=3) | 안국 | 03월 20일 |  
+| [책읽찌라 추천책] 타인은 나를 모른다 | [럽럽-셋목](https://trevari.co.kr/meetings/show?clubID=09cae3c4-a693-415d-a2aa-4748b7d09bf8&order=3) | 안국 | 03월 21일 |  
 | 끌림의 과학 | [닝겐-34](https://trevari.co.kr/meetings/show?clubID=0b3f79cc-3f1f-4f90-a574-699cf3162045&order=3) | 압구정 | 03월 21일 |  
 | 똑똑한 사람들이 왜 이상한 것을 믿을까 | [넘버스](https://trevari.co.kr/meetings/show?clubID=d41b7777-e0b9-4562-9486-67bb42584bac&order=3) | 압구정 | 03월 21일 |  
 | 매거진 F(Magazine F) No.6: 초콜릿(Chocolate)(한글판), 바 앤 다이닝 Bar & Dining 2019.3 | [알쓸신잡](https://trevari.co.kr/meetings/show?clubID=a50fcbba-def2-436c-9a28-d39b7b3f4ba6&order=3) | 압구정 | 03월 22일 |  
@@ -225,5 +226,5 @@
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 215 개  
+총 216 개  
 
