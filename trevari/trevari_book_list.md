@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-03-02 12:00:33  
+> Updated on 2019-03-03 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -205,9 +205,11 @@
 | 아침에는 죽음을 생각하는 것이 좋다 | [나초-셋목](https://trevari.co.kr/meetings/show?clubID=90caae4e-82fe-4d99-82b2-d49f13de3977&order=3) | 안국 | 03월 21일 |  
 | 똑똑한 사람들이 왜 이상한 것을 믿을까 | [넘버스](https://trevari.co.kr/meetings/show?clubID=d41b7777-e0b9-4562-9486-67bb42584bac&order=3) | 압구정 | 03월 21일 |  
 | 라면을 끓이며(양장본 HardCover) | [34](https://trevari.co.kr/meetings/show?clubID=ee85fe40-0cbb-4bea-8368-4b97582d344e&order=3) | 압구정 | 03월 21일 |  
+| 신중한 사람 | [씀-45](https://trevari.co.kr/meetings/show?clubID=10474252-07da-4d39-8c78-d0dabc9848e1&order=3) | 성수 | 03월 22일 |  
 | 도쿄의 디테일, 생각노트 블로그 (저자의 블로그), 퇴사준비생의 도쿄, 지적 자본론  | [마케터즈-45](https://trevari.co.kr/meetings/show?clubID=1086661f-f846-48e3-90fc-12da8719f9f8&order=3) | 성수 | 03월 22일 |  
 | 집은 그리움이다 | [내집짓기-넷금](https://trevari.co.kr/meetings/show?clubID=2e3220e2-ffc2-4587-b95c-d2a82bb76c70&order=3) | 안국 | 03월 22일 |  
 | 맥락을 팔아라 | [사이드프로젝트-45](https://trevari.co.kr/meetings/show?clubID=3abeaef6-d5d3-421f-ac2f-d4b40982a871&order=3) | 압구정 | 03월 22일 |  
+| 신중한 사람 | [씀-45](https://trevari.co.kr/meetings/show?clubID=10474252-07da-4d39-8c78-d0dabc9848e1&order=3) | 성수 | 03월 22일 |  
 | 도쿄의 디테일, 생각노트 블로그 (저자의 블로그), 퇴사준비생의 도쿄, 지적 자본론  | [마케터즈-45](https://trevari.co.kr/meetings/show?clubID=1086661f-f846-48e3-90fc-12da8719f9f8&order=3) | 성수 | 03월 22일 |  
 | 집은 그리움이다 | [내집짓기-넷금](https://trevari.co.kr/meetings/show?clubID=2e3220e2-ffc2-4587-b95c-d2a82bb76c70&order=3) | 안국 | 03월 22일 |  
 | 맥락을 팔아라 | [사이드프로젝트-45](https://trevari.co.kr/meetings/show?clubID=3abeaef6-d5d3-421f-ac2f-d4b40982a871&order=3) | 압구정 | 03월 22일 |  
@@ -238,6 +240,7 @@
 | 모든 요일의 기록 , 자기 앞의 생 | [문학X비문학-47](https://trevari.co.kr/meetings/show?clubID=1519a541-bcad-42b1-9e71-aae2e719559c&order=3) | 압구정 | 03월 24일 |  
 | 달러 패권 | [돈돈:안국](https://trevari.co.kr/meetings/show?clubID=3f9cc7ba-55fe-463f-bc3a-a72d7947e633&order=3) | 안국 | 03월 24일 |  
 | 주홍글자(세계문학전집 159) | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=4333f8d2-2659-4dd6-ad3a-1d9aa5d74c9c&order=3) | 압구정 | 03월 24일 |  
+| 드레스 윤리학, 아웃 오브 패션 | [소비자들](https://trevari.co.kr/meetings/show?clubID=7fa8c892-9da8-4cbb-87f8-c2c15b11de4c&order=3) | 안국 | 03월 24일 |  
 | 미움받을 용기 1 | [마음-넷일](https://trevari.co.kr/meetings/show?clubID=80fdbc42-b6f0-4801-9680-34d33ebe5dd2&order=3) | 안국 | 03월 24일 |  
 | 공학, 철학, 법학의 눈으로 본 인간과 인공지능 | [법법](https://trevari.co.kr/meetings/show?clubID=82a82666-67e7-4354-8c55-39225cea516e&order=3) | 안국 | 03월 24일 |  
 | 음악에서 무엇을 들어 낼 것인가(음악의 글 3) | [음악의힘-경청](https://trevari.co.kr/meetings/show?clubID=9b46b445-6798-4e89-b9ab-ce264a7ce21b&order=3) | 성수 | 03월 24일 |  
@@ -274,5 +277,5 @@
 | 소설로 읽는 중국사. 2: 근현대 아큐정전에서 폐도까지 | [쩐빵_천天](https://trevari.co.kr/meetings/show?clubID=896fe4da-ced5-42d5-9b8a-60f44c46ff71&order=4) | 압구정 | 04월 26일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 264 개  
+총 267 개  
 
