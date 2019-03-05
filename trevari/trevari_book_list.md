@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-03-05 02:00:32  
+> Updated on 2019-03-05 12:00:33  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -221,6 +221,7 @@
 | 원칙 | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=6cac9d98-32d6-4378-b33c-447afee4a1b6&order=3) | 성수 | 03월 23일 |  
 | 도시는 무엇으로 사는가 | [넷토](https://trevari.co.kr/meetings/show?clubID=919371f1-f98a-4eda-adec-c5368eae0e0e&order=3) | 안국 | 03월 23일 |  
 | 인생의 베일 | [문-레드](https://trevari.co.kr/meetings/show?clubID=a40019f4-fa48-4dfe-bc4d-3468b4ce033a&order=3) | 압구정 | 03월 23일 |  
+| 모순 | [독토](https://trevari.co.kr/meetings/show?clubID=a568ee80-7065-491e-a62e-69517cba4d31&order=3) | 압구정 | 03월 23일 |  
 | 마케터의 여행법 | [마케터즈-블랙](https://trevari.co.kr/meetings/show?clubID=a777d7ca-19f5-4b90-9ef9-33582c86d626&order=3) | 압구정 | 03월 23일 |  
 | 너무 시끄러운 고독 | [문-빨강](https://trevari.co.kr/meetings/show?clubID=c082baef-7a99-46f6-9e7c-f65ccd457cf1&order=3) | 안국 | 03월 23일 |  
 | 고래 | [46](https://trevari.co.kr/meetings/show?clubID=c8966f9c-3ac1-43c4-91d1-0892080f540e&order=3) | 압구정 | 03월 23일 |  
@@ -231,6 +232,7 @@
 | 브람스를 좋아하세요... l 민음사 세계문학전집 179 | [넷일](https://trevari.co.kr/meetings/show?clubID=1f7e8eac-1579-40f8-9c23-3bd04ed5e853&order=3) | 안국 | 03월 24일 |  
 | 달러 패권 | [돈돈:안국](https://trevari.co.kr/meetings/show?clubID=3f9cc7ba-55fe-463f-bc3a-a72d7947e633&order=3) | 안국 | 03월 24일 |  
 | 주홍글자(세계문학전집 159) | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=4333f8d2-2659-4dd6-ad3a-1d9aa5d74c9c&order=3) | 압구정 | 03월 24일 |  
+| 권도균의 스타트업 경영 수업 | [스타트업 필독서 뽀개기](https://trevari.co.kr/meetings/show?clubID=6c8ba1fa-a030-40c6-bdc7-553dabc1625b&order=3) | 성수 | 03월 24일 |  
 | 드레스 윤리학, 아웃 오브 패션 | [소비자들](https://trevari.co.kr/meetings/show?clubID=7fa8c892-9da8-4cbb-87f8-c2c15b11de4c&order=3) | 안국 | 03월 24일 |  
 | 미움받을 용기 1 | [마음-넷일](https://trevari.co.kr/meetings/show?clubID=80fdbc42-b6f0-4801-9680-34d33ebe5dd2&order=3) | 안국 | 03월 24일 |  
 | 공학, 철학, 법학의 눈으로 본 인간과 인공지능 | [법법](https://trevari.co.kr/meetings/show?clubID=82a82666-67e7-4354-8c55-39225cea516e&order=3) | 안국 | 03월 24일 |  
@@ -257,8 +259,11 @@
 | 취향의 정치학(우리시대 고전읽기 질문총서 3) | [취향있냥](https://trevari.co.kr/meetings/show?clubID=e84d3e56-6c7c-420b-a1cf-7484018d779d&order=3) | 안국 | 03월 28일 |  
 | 투자에 대한 생각 | [투자입문-첫목](https://trevari.co.kr/meetings/show?clubID=7ab8d343-4e45-4319-8cc7-d00e963100ac&order=4) | 안국 | 04월 04일 |  
 | 시련(세계문학전집 286) | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=f3cb8f10-71b6-4854-9088-bce45cfdb81e&order=4) | 안국 | 04월 05일 |  
+| 썅년의 미학(양장본 HardCover), <썅년의 미학> 웹툰 연재본 | [덕덕](https://trevari.co.kr/meetings/show?clubID=0730856a-909f-4126-8fbc-d78cb91cccc6&order=4) | 압구정 | 04월 06일 |  
 | 시련(세계문학전집 286) | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=f3cb8f10-71b6-4854-9088-bce45cfdb81e&order=4) | 안국 | 04월 05일 |  
+| 썅년의 미학(양장본 HardCover), <썅년의 미학> 웹툰 연재본 | [덕덕](https://trevari.co.kr/meetings/show?clubID=0730856a-909f-4126-8fbc-d78cb91cccc6&order=4) | 압구정 | 04월 06일 |  
 | 모두 거짓말을 한다 | [이콘-16](https://trevari.co.kr/meetings/show?clubID=3b9becef-f7e9-455f-b606-396aacd06b99&order=4) | 압구정 | 04월 06일 |  
+| 파과(양장본 HardCover) | [문-그린](https://trevari.co.kr/meetings/show?clubID=af507331-0d44-4a25-b2d1-7fca0e8bc9f4&order=4) | 압구정 | 04월 06일 |  
 | 편안함의 배신 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=af8267ac-989e-4a3f-9b0e-c8e2b5e967df&order=4) | 성수 | 04월 07일 |  
 | 잃어버린 시간을 찾아서. 1: 스완네 집 쪽으로. 1(양장본 HardCover) | [세계-문학](https://trevari.co.kr/meetings/show?clubID=e267eef4-3207-402e-bc2d-1e662111a677&order=4) | 안국 | 04월 07일 |  
 | 길 위에서. 1(세계문학전집 226), 길 위에서. 2(세계문학전집 227) | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=ebbc8abb-0c90-443d-9f61-50dd2308d291&order=4) | 안국 | 04월 07일 |  
@@ -279,5 +284,5 @@
 | 소설로 읽는 중국사. 2: 근현대 아큐정전에서 폐도까지 | [쩐빵_천天](https://trevari.co.kr/meetings/show?clubID=896fe4da-ced5-42d5-9b8a-60f44c46ff71&order=4) | 압구정 | 04월 26일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 269 개  
+총 274 개  
 
