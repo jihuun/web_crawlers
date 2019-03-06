@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-03-05 12:00:33  
+> Updated on 2019-03-06 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -106,11 +106,13 @@
 | 90년생이 온다, 최강소비권력 Z세대가 온다 | [어떤혁명 시즌5](https://trevari.co.kr/meetings/show?clubID=758f6bef-5ec9-4560-87f3-5b2fcea53006&order=3) | 압구정 | 03월 14일 |  
 | 그날, 고양이가 내게로 왔다(낮은산 키큰나무 14)(반양장) | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=a54ff942-4d28-4c9d-a5c2-7f861b414ac2&order=3) | 압구정 | 03월 14일 |  
 | 판을 바꾸는 질문들 | [리더십입문-24](https://trevari.co.kr/meetings/show?clubID=eb1c453c-e250-443d-9ea1-cae02ac4b37a&order=3) | 압구정 | 03월 14일 |  
+| 역설과 반전의 대륙 | [력사](https://trevari.co.kr/meetings/show?clubID=f138ca83-ca9b-4029-b6b5-8b4039b5e6cf&order=3) | 압구정 | 03월 14일 |  
 | 불평등의 대가(양장본 HardCover) | [민주주의 vs 불평등](https://trevari.co.kr/meetings/show?clubID=095882b7-84ab-42f9-ac98-a071ac5c69c2&order=3) | 안국 | 03월 15일 |  
 | 사이코패스는 일상의 그늘에 숨어 지낸다 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=3) | 안국 | 03월 15일 |  
 | 기술적 복제시대의 예술작품(b판고전 11)(반양장) | [진진-셋금](https://trevari.co.kr/meetings/show?clubID=1392a633-424c-42b2-bfa2-26a165783e9b&order=3) | 안국 | 03월 15일 |  
 | 꾸뻬씨의 행복여행 | [마음-35](https://trevari.co.kr/meetings/show?clubID=18352293-edae-4308-a453-373f069e2704&order=3) | 성수 | 03월 15일 |  
 | 판을 바꾸는 질문들 | [리더십입문-24](https://trevari.co.kr/meetings/show?clubID=eb1c453c-e250-443d-9ea1-cae02ac4b37a&order=3) | 압구정 | 03월 14일 |  
+| 역설과 반전의 대륙 | [력사](https://trevari.co.kr/meetings/show?clubID=f138ca83-ca9b-4029-b6b5-8b4039b5e6cf&order=3) | 압구정 | 03월 14일 |  
 | 불평등의 대가(양장본 HardCover) | [민주주의 vs 불평등](https://trevari.co.kr/meetings/show?clubID=095882b7-84ab-42f9-ac98-a071ac5c69c2&order=3) | 안국 | 03월 15일 |  
 | 사이코패스는 일상의 그늘에 숨어 지낸다 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=3) | 안국 | 03월 15일 |  
 | 기술적 복제시대의 예술작품(b판고전 11)(반양장) | [진진-셋금](https://trevari.co.kr/meetings/show?clubID=1392a633-424c-42b2-bfa2-26a165783e9b&order=3) | 안국 | 03월 15일 |  
@@ -284,5 +286,5 @@
 | 소설로 읽는 중국사. 2: 근현대 아큐정전에서 폐도까지 | [쩐빵_천天](https://trevari.co.kr/meetings/show?clubID=896fe4da-ced5-42d5-9b8a-60f44c46ff71&order=4) | 압구정 | 04월 26일 |  
 | 유년기의 끝 | [망했어요](https://trevari.co.kr/meetings/show?clubID=dac8562e-c260-4004-996d-4b56704237ea&order=4) | 안국 | 04월 26일 |  
 
-총 274 개  
+총 276 개  
 
