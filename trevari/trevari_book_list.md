@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-03-15 12:00:33  
+> Updated on 2019-03-16 02:00:32  
 
 > The list has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this list, reporting bugs & ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -205,13 +205,16 @@
 | 요즘 브랜드 | [브랜드랜드-16](https://trevari.co.kr/meetings/show?clubID=4999562b-9182-4245-8022-8a4bcbc140f8&order=4) | 압구정 | 04월 06일 |  
 | 뿌리가 튼튼한 사람이 되고 싶어 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=8ab3c35e-6e68-4ce7-8344-25c1d6233ffa&order=4) | 안국 | 04월 06일 |  
 | 내게 무해한 사람 | [16](https://trevari.co.kr/meetings/show?clubID=a11e493d-12e2-43fe-8089-bb1aaedb2a2f&order=4) | 압구정 | 04월 06일 |  
+| 나는 슈퍼 계약직입니다 | [왜애-첫토](https://trevari.co.kr/meetings/show?clubID=f0e02a90-b03b-4155-b5d4-4df1d87c90c9&order=4) | 안국 | 04월 06일 |  
 | CHINA INTERNET REPORT 2018 | [차이나스토리](https://trevari.co.kr/meetings/show?clubID=f2949728-fd02-4d32-abe2-e139454e4724&order=4) | 안국 | 04월 06일 |  
+| 나는 슈퍼 계약직입니다 | [왜애-첫토](https://trevari.co.kr/meetings/show?clubID=f0e02a90-b03b-4155-b5d4-4df1d87c90c9&order=4) | 안국 | 04월 06일 |  
 | CHINA INTERNET REPORT 2018 | [차이나스토리](https://trevari.co.kr/meetings/show?clubID=f2949728-fd02-4d32-abe2-e139454e4724&order=4) | 안국 | 04월 06일 |  
 | 기획자의 습관 | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=f6134aa0-8101-4891-8ec5-a97cc0db609e&order=4) | 성수 | 04월 06일 |  
 | 저스티스맨, 영화 [다크나이트] | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=f814b587-a2d8-4b0b-8e11-37a438ca12be&order=4) | 압구정 | 04월 06일 |  
 | 파과(양장본 HardCover) | [문-그린](https://trevari.co.kr/meetings/show?clubID=af507331-0d44-4a25-b2d1-7fca0e8bc9f4&order=4) | 압구정 | 04월 06일 |  
 | 바람의 열두 방향(어슐러 K. 르 귄 걸작선 3)(양장본 HardCover) | [씀-화이트](https://trevari.co.kr/meetings/show?clubID=01b9d970-4476-4da1-98bc-aa49a71ef393&order=4) | 압구정 | 04월 07일 |  
 | 모든 것이 되는 법 | [사이드프로젝트-블랙](https://trevari.co.kr/meetings/show?clubID=021194e7-2b33-449e-91e9-798eb7395f39&order=4) | 압구정 | 04월 07일 |  
+| 인간 실격 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=23c51cc6-232e-4291-b439-970890dce566&order=4) | 성수 | 04월 07일 |  
 | 모노클(Monocle) The forecast (2019) | [모노클클](https://trevari.co.kr/meetings/show?clubID=46bb1328-4c13-4fed-b189-91319698c61e&order=4) | 압구정 | 04월 07일 |  
 | 바깥은 여름 | [TED읽기-17](https://trevari.co.kr/meetings/show?clubID=545834b6-3930-4887-bba6-1a6e2919775f&order=4) | 압구정 | 04월 07일 |  
 | 모노클(Monocle) The forecast (2019) | [모노클클](https://trevari.co.kr/meetings/show?clubID=46bb1328-4c13-4fed-b189-91319698c61e&order=4) | 압구정 | 04월 07일 |  
@@ -248,6 +251,7 @@
 | 그해, 여름 손님(양장본 HardCover) | [럽럽-25](https://trevari.co.kr/meetings/show?clubID=d31ea166-7139-4b77-a161-76128187a865&order=4) | 압구정 | 04월 12일 |  
 | 도리언 그레이의 초상(열린책들 세계문학 152)(양장본 HardCover) | [왜애-25](https://trevari.co.kr/meetings/show?clubID=daf895c9-1fc1-4f46-aca9-44663d4a75dc&order=4) | 압구정 | 04월 12일 |  
 | 글쓰기의 최전선 | [씀에세이-둘금](https://trevari.co.kr/meetings/show?clubID=f63240c1-a855-4127-b580-808cee43ab3c&order=4) | 안국 | 04월 12일 |  
+| Native Speaker | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=14e4ef71-c43c-4ad6-a094-e139d8a76b62&order=4) | 안국 | 04월 13일 |  
 | 벚꽃동산(열린책들 세계문학 22)(양장본 HardCover) | [극극-블루](https://trevari.co.kr/meetings/show?clubID=285f45b7-f7a2-4149-90ec-a4ab9794cac9&order=4) | 압구정 | 04월 13일 |  
 | 오리지널스 | [스타텁-26](https://trevari.co.kr/meetings/show?clubID=4935f6ee-99ca-495a-affb-49221136cf37&order=4) | 성수 | 04월 13일 |  
 | 결혼 상대는 추첨으로 | [북씨-파랑](https://trevari.co.kr/meetings/show?clubID=54d2a1f0-9c92-4049-bb1e-fbc90db94fe3&order=4) | 안국 | 04월 13일 |  
@@ -269,6 +273,8 @@
 | 경애의 마음 | [씀-둘일](https://trevari.co.kr/meetings/show?clubID=c608c5b4-511f-47a4-bbb8-f0d32d72b92a&order=4) | 안국 | 04월 14일 |  
 | 사진에 관하여 | [진진F](https://trevari.co.kr/meetings/show?clubID=e3bb7563-c8c9-4e99-acd9-1d9aa4ad7722&order=4) | 안국 | 04월 14일 |  
 | 책쓰기가 이렇게 쉬울 줄이야 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=4) | 안국 | 04월 17일 |  
+| 내 친구 다머 | [법률가들-범죄와 사회](https://trevari.co.kr/meetings/show?clubID=1143433e-3c0d-4efb-9c20-aa86ac2d6907&order=4) | 안국 | 04월 19일 |  
+| 나의 살인자에게 | [크리미널마인드](https://trevari.co.kr/meetings/show?clubID=4843d433-94ec-4694-abe5-bc73b8d164cb&order=4) | 안국 | 04월 19일 |  
 | 진화한 마음 | [과학의눈](https://trevari.co.kr/meetings/show?clubID=c8c5f088-3846-49b0-9be2-40a8c6338c12&order=4) | 압구정 | 04월 19일 |  
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
 | '아무거나'라는 메뉴는 없다 | [나초-36](https://trevari.co.kr/meetings/show?clubID=5698ebb3-85f2-4713-8111-c2768a1accc6&order=4) | 성수 | 04월 20일 |  
@@ -278,8 +284,10 @@
 | 인에비터블 미래의 정체 | [김상헌과 함께 책읽기](https://trevari.co.kr/meetings/show?clubID=3f606ecd-a8a0-4faa-be9e-6aff1ebc15c1&order=1) | 안국 | 05월 01일 |  
 | Educated: A Memoir | [잉잉-14](https://trevari.co.kr/meetings/show?clubID=28460b34-2a74-48c6-8592-9215cae690bc&order=1) | 성수 | 05월 02일 |  
 | 미스 함무라비 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=ee8819de-a361-497b-8860-67f439c91ce1&order=1) | 안국 | 05월 02일 |  
+| 일취월장 | [비즈-101](https://trevari.co.kr/meetings/show?clubID=1f9151e7-4fab-42a6-b4a1-3ac4b35c5a0f&order=1) | 강남 | (위워크 강남역 |  
 | 히피(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=577b37be-54ea-423d-b3d9-a97b4718715e&order=1) | 압구정 | 05월 03일 |  
 | 히피(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=577b37be-54ea-423d-b3d9-a97b4718715e&order=1) | 압구정 | 05월 03일 |  
+| 소설가 구보씨의 일일(한국문학전집) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=709e7d05-0e97-430c-b4d5-528d2bf9f44d&order=1) | 안국 | 05월 03일 |  
 | 윤미네 집 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=8762a03f-e2b4-4c46-9a4b-e57eeccc5472&order=1) | 압구정 | 05월 03일 |  
 | 좋은지 나쁜지 누가 아는가 | [마음-레드](https://trevari.co.kr/meetings/show?clubID=bcf1b90a-141f-48bb-9e11-b0d2445dbef7&order=1) | 압구정 | 05월 03일 |  
 | 열두 발자국 | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=0ce5e05d-ec38-4435-a559-6f28bb3aaff1&order=1) | 압구정 | 05월 04일 |  
@@ -298,6 +306,7 @@
 | 영화 속 경제학 | [이콘-첫일](https://trevari.co.kr/meetings/show?clubID=05cdf007-c558-449f-823e-2dc627d9d143&order=1) | 안국 | 05월 05일 |  
 | 자기 인생의 철학자들 | [이야기 in 生](https://trevari.co.kr/meetings/show?clubID=09cd27c1-b29f-4f1d-bb4a-fb642c491290&order=1) | 강남 | (위워크 강남역 |  
 | 팩트풀니스(양장본 HardCover), TED영상: <How Not to be Ignorant About the World> | [TED읽기-17](https://trevari.co.kr/meetings/show?clubID=281775cc-a786-441c-8c95-4a36b7009d27&order=1) | 압구정 | 05월 05일 |  
+| 심플을 생각한다 | [단순클럽](https://trevari.co.kr/meetings/show?clubID=7befce1a-6d49-4318-91f8-a6fdddeb5ae4&order=1) | 안국 | 05월 05일 |  
 | 이방인(새움 세계문학 1) | [씀-화이트](https://trevari.co.kr/meetings/show?clubID=9fd3d1f8-201a-4128-805c-4985b7d11c85&order=1) | 압구정 | 05월 05일 |  
 | 존 치버의 일기(양장본 HardCover) | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=c9b136c6-9574-413d-b126-04d4e38211a5&order=1) | 안국 | 05월 05일 |  
 | 나는 매주 시체를 보러 간다(서가명강 시리즈 1) | [무경계-105](https://trevari.co.kr/meetings/show?clubID=ea9f1ed2-f9f1-4383-bf6e-0693b24c9154&order=1) | 강남 | (위워크 강남역 |  
@@ -318,9 +327,10 @@
 | [책읽남 추천책] 걷는 사람, 하정우 | [북씨-파랑](https://trevari.co.kr/meetings/show?clubID=36710b2a-5d8d-4efc-830d-acd5a04a6e11&order=1) | 안국 | 05월 11일 |  
 | 심야 이동 도서관 | [둘토](https://trevari.co.kr/meetings/show?clubID=3f3c39ec-d7e6-4966-b474-221a6a4fc9a8&order=1) | 안국 | 05월 11일 |  
 | 꿀벌의 우화 | [진진-레드](https://trevari.co.kr/meetings/show?clubID=48b52011-9f84-4e56-bd57-d9f2f1d0e7f2&order=1) | 압구정 | 05월 11일 |  
+| 창의성을 지휘하라 | [디지털콘텐츠+비즈니스](https://trevari.co.kr/meetings/show?clubID=4f04a55b-65e4-4b21-8ce2-585a8b37cbea&order=1) | 성수 | 05월 11일 |  
 | 도시의 승리 | [무경계-109](https://trevari.co.kr/meetings/show?clubID=54213102-a441-4fd7-a3d9-fdaa20d37f6a&order=1) | 강남 | (위워크 강남역 |  
 | 죽여 마땅한 사람들 | [현대적인 또는 현재적인 ‘어떤’ 책](https://trevari.co.kr/meetings/show?clubID=6683d849-8105-46a6-95f4-61fd81d772d2&order=1) | 안국 | 05월 11일 |  
 | 말센스 | [무경계-26](https://trevari.co.kr/meetings/show?clubID=7b38310e-1c6e-412b-87bc-ba9c6e3b85a4&order=1) | 성수 | 05월 11일 |  
 
-총 312 개  
+총 322 개  
 
