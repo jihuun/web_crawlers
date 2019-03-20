@@ -51,9 +51,9 @@ def print_current_time():
 def print_subject(f):
 	f.write("## 트레바리 클럽별 선정 도서 목록  \n")
 	f.write("> Updated on %s  \n\n" %(print_current_time()))
-	f.write("> The list has been generated automatically by %s which is open source project.  \n" %(md_make_hyperlink("a python script", "https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py")))
-	f.write("> Sharing this list, reporting bugs & ideas, %s are always welcome :)  \n" %(md_make_hyperlink("pull requests", "https://github.com/jihuun/web_crawlers")))
-	f.write("> Maintained by @soopsaram  \n\n")
+	f.write("> This page has been generated automatically by %s which is open source project.  \n" %(md_make_hyperlink("a python script", "https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py")))
+	f.write("> Sharing this page, reporting bugs & new ideas, %s are always welcome :)  \n" %(md_make_hyperlink("pull requests", "https://github.com/jihuun/web_crawlers")))
+	f.write("> Maintained by %s  \n\n" %(md_make_hyperlink("@soopsaram", "jihuun.k@gmail.com")))
 	f.write("---\n\n")
 	f.write("| 선정 도서 | 클럽 | 아지트 | 날짜 |  \n")
 	f.write("| --- | --- | --- | --- |  \n")

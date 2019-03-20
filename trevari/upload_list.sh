@@ -37,6 +37,6 @@ else
 	NOW=$(get_date)
 	echo "LOG: update commit - script: trevari: update book list on $NOW"
 	git add $TARGET
-	git commit -sm "script: trevari: update book list on $NOW"
+	git commit -sm "script: trevari: update book list on $NOW (auto generated commit)"
 	git push origin master
 fi
