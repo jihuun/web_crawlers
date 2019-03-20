@@ -68,7 +68,12 @@ def get_href(meeting):
 def split_place_date(word_list):
         str_by_list = ' '.join(word_list)
         split_str = str_by_list.split(u'2019년')
-        return split_str
+	place = split_str[0].split()
+	place_result = '%s' %place[0]
+	date = split_str[1].split()
+	date_result = '%s %s' %(date[0], date[1])
+
+        return place_result, date_result
 
 if __name__  == "__main__":
 
@@ -91,14 +96,14 @@ if __name__  == "__main__":
 				group_name = group.get_text()
 				group_name_link = md_make_hyperlink(group_name, get_href(meeting))
 
-			date = meeting.find('div', {'style':"color: rgb(123, 123, 123); font-size: 14px; margin-top: 4px;"})
-			if date != None:
-				date_text = date.get_text()
+			place_date = meeting.find('div', {'style':"color: rgb(123, 123, 123); font-size: 14px; margin-top: 4px;"})
+			if place_date != None:
+				date_text = place_date.get_text()
 				date_simple = date_text.split(' ')
-				split_data = split_place_date(date_simple)
+				place, date = split_place_date(date_simple)
 
 			if book_name != u"읽을거리 정하는 중":
-				infos = ("| %s | %s | %s | %s |  \n" %(book_name, group_name_link, split_data[0], split_data[1]))
+				infos = ("| %s | %s | %s | %s |  \n" %(book_name, group_name_link, place, date))
 				f.write(infos.encode('utf-8'))
 				book_cnt = book_cnt + 1
 
