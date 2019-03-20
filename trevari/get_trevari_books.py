@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 # This Python file uses the following encoding: utf-8
 # Scraping all of the book list on trevari meetings
 # Run with python 2.7
@@ -64,6 +65,11 @@ def get_href(meeting):
 	href = meeting['href']
 	return g_url + href
 
+def split_place_date(word_list):
+        str_by_list = ' '.join(word_list)
+        split_str = str_by_list.split(u'2019년')
+        return split_str
+
 if __name__  == "__main__":
 
 	driver = get_webdriver(g_url_meetings)
@@ -89,9 +95,10 @@ if __name__  == "__main__":
 			if date != None:
 				date_text = date.get_text()
 				date_simple = date_text.split(' ')
+				split_data = split_place_date(date_simple)
 
 			if book_name != u"읽을거리 정하는 중":
-				infos = ("| %s | %s | %s | %s %s |  \n" %(book_name, group_name_link, date_simple[0], date_simple[2], date_simple[3]))
+				infos = ("| %s | %s | %s | %s |  \n" %(book_name, group_name_link, split_data[0], split_data[1]))
 				f.write(infos.encode('utf-8'))
 				book_cnt = book_cnt + 1
 
@@ -100,4 +107,4 @@ if __name__  == "__main__":
 		
 	f.write("\n총 %d 개  \n\n" %(book_cnt))
 	f.close()
-	driver.close()
+	driver.quit()
