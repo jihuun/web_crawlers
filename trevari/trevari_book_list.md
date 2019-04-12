@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-04-12 02:00:33  
+> Updated on 2019-04-12 12:00:33  
 
 > This page has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this page, reporting bugs & new ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -9,22 +9,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 |  
 | --- | --- | --- | --- |  
-| 플랫폼 레볼루션 | [사이드프로젝트-빨강](https://trevari.co.kr/meetings/show?clubID=05bb437f-a559-483d-8c51-ed628afaab4d&order=4) | 안국 | 04월 12일 |  
-| 야구가 뭐라고 | [야구야구-25](https://trevari.co.kr/meetings/show?clubID=1efd9095-ddcb-4754-855c-e558d9382ca7&order=4) | 압구정 | 04월 12일 |  
-| 표백 | [체험독서-둘금](https://trevari.co.kr/meetings/show?clubID=58973be7-8589-449a-ac9c-a86df31e5849&order=4) | 안국 | 04월 12일 |  
-| 이기적 유전자 | [둘금](https://trevari.co.kr/meetings/show?clubID=58b2e3c4-ce01-4f0f-a7bb-6c6ed687d084&order=4) | 안국 | 04월 12일 |  
-| 예감은 틀리지 않는다 | [문-25](https://trevari.co.kr/meetings/show?clubID=5fe45855-5134-4758-ba6a-9f368b98f500&order=4) | 성수 | 04월 12일 |  
-| 최고의 팀은 무엇이 다른가 | [리더십입문-25](https://trevari.co.kr/meetings/show?clubID=7ed14acf-b75d-4128-b161-8da448f233b3&order=4) | 성수 | 04월 12일 |  
-| 책 읽어주는 남자 | [북씨-블루](https://trevari.co.kr/meetings/show?clubID=8d0f1724-7c47-4dbd-9e4f-4b0f89883f67&order=4) | 압구정 | 04월 12일 |  
-| 죽음이란 무엇인가 | [북씨-25](https://trevari.co.kr/meetings/show?clubID=9a600534-e53b-4b44-b1d0-fa71ba82be45&order=4) | 성수 | 04월 12일 |  
-| 어떻게 민주주의는 무너지는가 | [초협력자](https://trevari.co.kr/meetings/show?clubID=af8df340-6c0b-4920-a802-00e25aed8109&order=4) | 압구정 | 04월 12일 |  
-| 투자에 대한 생각 | [투자입문-25](https://trevari.co.kr/meetings/show?clubID=bdfd6361-7f8e-4e82-b6f0-16ca3283386b&order=4) | 성수 | 04월 12일 |  
-| 먼 북으로 가는 좁은 길 | [문-라임](https://trevari.co.kr/meetings/show?clubID=bed3763b-7d3a-44ee-8a3d-bf6a8ddf7954&order=4) | 압구정 | 04월 12일 |  
-| 저 청소일 하는데요?, 교양노동법(2판) | [회사인간](https://trevari.co.kr/meetings/show?clubID=c8dee842-647d-4b62-a38f-aab2d5b2b926&order=4) | 안국 | 04월 12일 |  
-| 카오스멍키 | [실리콘밸리스토리](https://trevari.co.kr/meetings/show?clubID=c9ff3720-8479-4ef2-af2a-fa69b6e49b18&order=4) | 성수 | 04월 12일 |  
-| 그해, 여름 손님(양장본 HardCover) | [럽럽-25](https://trevari.co.kr/meetings/show?clubID=d31ea166-7139-4b77-a161-76128187a865&order=4) | 압구정 | 04월 12일 |  
-| 도리언 그레이의 초상(열린책들 세계문학 152)(양장본 HardCover) | [왜애-25](https://trevari.co.kr/meetings/show?clubID=daf895c9-1fc1-4f46-aca9-44663d4a75dc&order=4) | 압구정 | 04월 12일 |  
-| 글쓰기의 최전선 | [씀에세이-둘금](https://trevari.co.kr/meetings/show?clubID=f63240c1-a855-4127-b580-808cee43ab3c&order=4) | 안국 | 04월 12일 |  
 | Native Speaker | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=14e4ef71-c43c-4ad6-a094-e139d8a76b62&order=4) | 안국 | 04월 13일 |  
 | 벚꽃동산(열린책들 세계문학 22)(양장본 HardCover) | [극극-블루](https://trevari.co.kr/meetings/show?clubID=285f45b7-f7a2-4149-90ec-a4ab9794cac9&order=4) | 압구정 | 04월 13일 |  
 | 오리지널스 | [스타텁-26](https://trevari.co.kr/meetings/show?clubID=4935f6ee-99ca-495a-affb-49221136cf37&order=4) | 성수 | 04월 13일 |  
@@ -255,6 +239,7 @@
 | 모순 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=1) | 압구정 | 05월 04일 |  
 | [책읽남 추천책] 걷는 사람, 하정우 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=e85e47f3-e96a-4837-9ecc-1278a2170e51&order=1) | 안국 | 05월 04일 |  
 | 진작 할 걸 그랬어 | [16](https://trevari.co.kr/meetings/show?clubID=ed410490-eb6d-4667-a58c-ce431bf7d487&order=1) | 압구정 | 05월 04일 |  
+| A Brief History of Time | [잉잉-앵두](https://trevari.co.kr/meetings/show?clubID=f5c94090-1f51-4eb7-9012-0c2b1cb9c4bd&order=1) | 강남 | 05월 04일 |  
 | 모두 거짓말을 한다 | [마케팅-파티](https://trevari.co.kr/meetings/show?clubID=fa02b74c-2bfe-4255-817e-d17b4111a364&order=1) | 강남 | 05월 04일 |  
 | 모든 것이 되는 법 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=fec65e3d-77fd-4ff1-8f03-98150dfcdb8b&order=1) | 강남 | 05월 04일 |  
 | 영화 속 경제학 | [이콘-첫일](https://trevari.co.kr/meetings/show?clubID=05cdf007-c558-449f-823e-2dc627d9d143&order=1) | 안국 | 05월 05일 |  
@@ -375,6 +360,7 @@
 | 당신의 지적 초조함을 이해합니다 | [사이드프로젝트-행복](https://trevari.co.kr/meetings/show?clubID=c1df6062-258a-4ae1-88cc-0d8721b06990&order=1) | 강남 | 05월 12일 |  
 | 신 정의 사랑 아름다움(카이로스총서 23)(양장본 HardCover) | [진진F](https://trevari.co.kr/meetings/show?clubID=c2338c20-3a3d-472f-9a2e-0be52d854f94&order=1) | 안국 | 05월 12일 |  
 | 영화를 찍으며 생각한 것, 영화 : <아무도 모른다> | [북씨-라임](https://trevari.co.kr/meetings/show?clubID=fdff2763-9f5a-41b0-966e-06942f58e8dd&order=1) | 압구정 | 05월 12일 |  
+| 장하준의 경제학 강의 | [이콘-임당](https://trevari.co.kr/meetings/show?clubID=300d2a99-debd-4a36-8a6a-44835ccc977f&order=1) | 강남 | 05월 15일 |  
 | 삶을 읽는 사고 | [어떤 기획](https://trevari.co.kr/meetings/show?clubID=35fc2a54-e4c7-4d2b-b0da-8398f2fe418b&order=1) | 성수 | 05월 15일 |  
 | 당선, 합격, 계급 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=4be176af-e83b-477e-acb4-f450e5ce6ddf&order=1) | 압구정 | 05월 15일 |  
 | 여자 둘이 살고 있습니다, 영화: <걸어도 걸어도> | [북씨-체리](https://trevari.co.kr/meetings/show?clubID=4c6c3047-7e2b-434a-bdb8-95324442d1c3&order=1) | 강남 | 05월 15일 |  
@@ -391,6 +377,7 @@
 | 금융경제학 사용설명서 | [금융입문-끼리](https://trevari.co.kr/meetings/show?clubID=1f19e9cb-86a5-4ad0-8aa2-e4c1eda06e83&order=1) | 강남 | 05월 16일 |  
 | 투명 인간(열린책들 세계문학 186)(양장본 HardCover) | [무경계-셋목](https://trevari.co.kr/meetings/show?clubID=3efaa03c-bf03-40b9-aa83-8b25e7b17a4d&order=1) | 안국 | 05월 16일 |  
 | 카오스멍키 | [스타텁-퍼플](https://trevari.co.kr/meetings/show?clubID=47c718e5-5687-4457-acf1-6091b1afa024&order=1) | 압구정 | 05월 16일 |  
+| 황현산의 사소한 부탁 | [34](https://trevari.co.kr/meetings/show?clubID=6f0b9ecd-493c-40c2-93bf-d0ea8e343b64&order=1) | 압구정 | 05월 16일 |  
 | 하루키를 읽다가 술집으로 | [체험독서-임당](https://trevari.co.kr/meetings/show?clubID=83ab565b-6ec6-470c-ba8c-94381d70f2e8&order=1) | 강남 | 05월 16일 |  
 | 에어비앤비 스토리 | [제품/서비스기획자들-팝콘](https://trevari.co.kr/meetings/show?clubID=929ebd4b-9a9f-4deb-a667-83c075be17ab&order=1) | 강남 | 05월 16일 |  
 | 피로사회 | [닝겐-34](https://trevari.co.kr/meetings/show?clubID=9ba02509-a7eb-437e-9176-477ad4611738&order=1) | 압구정 | 05월 16일 |  
@@ -398,6 +385,7 @@
 | 일하는 마음 | [무경계-행복](https://trevari.co.kr/meetings/show?clubID=b5ebade1-a874-400e-8887-03254b29640a&order=1) | 강남 | 05월 16일 |  
 | 피프티 피플 | [나초-셋목](https://trevari.co.kr/meetings/show?clubID=bb3e62d8-bb38-4e8e-a860-2d84c0bf7023&order=1) | 안국 | 05월 16일 |  
 | 회사에서 티 나게 딴짓하기 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=1) | 강남 | 05월 16일 |  
+| 상식 밖의 경제학 (10주년 기념판) | [이콘-34](https://trevari.co.kr/meetings/show?clubID=d344569d-3b8a-4d36-812c-d7fdc2e10de1&order=1) | 압구정 | 05월 16일 |  
 | 리스본행 야간열차 | [읽을지도-35](https://trevari.co.kr/meetings/show?clubID=04c1b7bb-7e4d-4adb-88b0-3814feed5568&order=1) | 압구정 | 05월 17일 |  
 | 90년생이 온다 | [마케팅-35](https://trevari.co.kr/meetings/show?clubID=06468bc6-62fc-4227-b0ae-b57d623e01c3&order=1) | 성수 | 05월 17일 |  
 | 전설로 떠나는 월가의 영웅 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=15327e79-e798-4c47-866e-cc8b873f306d&order=1) | 강남 | 05월 17일 |  
@@ -424,6 +412,7 @@
 | 가자, 어디에도 없었던 방법으로 | [일본기획읽기](https://trevari.co.kr/meetings/show?clubID=0fb037e2-5394-44cc-9fe9-66a92ced64d9&order=1) | 강남 | 05월 18일 |  
 | 환상의 여인, 그리고 아무도 없었다(2판)(애거서 크리스티 추리문학 베스트 1) | [셜록-타임](https://trevari.co.kr/meetings/show?clubID=13564e89-1260-4c05-a3e3-61c8f0287dfd&order=1) | 강남 | 05월 18일 |  
 | 21세기 기본소득 | [국경:무경계](https://trevari.co.kr/meetings/show?clubID=250977e1-6e7a-47ee-b913-d6636b9cb0dc&order=1) | 압구정 | 05월 18일 |  
+| 전염병의 세계사(히스토리아 문디 04) | [역사와 의학](https://trevari.co.kr/meetings/show?clubID=2d5d9034-7155-45d4-ade5-812855ecefbc&order=1) | 강남 | 05월 18일 |  
 | 차라투스트라는 이렇게 말했다(세계문학전집 94) | [진진-36](https://trevari.co.kr/meetings/show?clubID=33fe8e91-9225-4264-b6f6-827164bcbacd&order=1) | 성수 | 05월 18일 |  
 | 서울 선언 | [시민의 도시 대서울을 걷다](https://trevari.co.kr/meetings/show?clubID=42bffc88-d1e2-4171-b5f1-4f2c35c2f845&order=1) | 강남 | 05월 18일 |  
 | 실격당한 자들을 위한 변론 | [셋토](https://trevari.co.kr/meetings/show?clubID=42c68d5e-8af9-4483-87cd-d16f753c8c73&order=1) | 안국 | 05월 18일 |  
@@ -460,6 +449,7 @@
 | 말 그릇(비울수록 사람을 더 채우는) | [말잘러](https://trevari.co.kr/meetings/show?clubID=1a38feb8-7675-4964-bf78-0eb9c42bd3c5&order=1) | 성수 | 05월 19일 |  
 | 도쿄의 디테일 | [마케팅-월드](https://trevari.co.kr/meetings/show?clubID=28d8bdf6-0f4f-4739-945f-2720c230f518&order=1) | 강남 | 05월 19일 |  
 | 새로운 디자인 도구들 | [1코노미](https://trevari.co.kr/meetings/show?clubID=59aac5cc-a12a-486c-9c27-3b13cd624c65&order=1) | 성수 | 05월 19일 |  
+| 마음을 움직이는 인터뷰 특강 | [그 인터뷰](https://trevari.co.kr/meetings/show?clubID=649cff18-acca-4cc0-93b8-b44945389c88&order=1) | 강남 | 05월 19일 |  
 | 상실의 시대(원제: 노르웨이의 숲)(3판), 영화: <마담 프루스트의 비밀정원> | [북씨-물개](https://trevari.co.kr/meetings/show?clubID=7aa35b75-aaef-4d64-9ab1-52dd14a2dfcb&order=1) | 강남 | 05월 19일 |  
 | 리워크 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=8cce5a39-3da1-4933-8b9f-786189bcd761&order=1) | 압구정 | 05월 19일 |  
 | 자기 앞의 생, 영화: <업> | [북씨-노랑](https://trevari.co.kr/meetings/show?clubID=95652008-0a45-41c4-9ee6-182693d1a957&order=1) | 안국 | 05월 19일 |  
@@ -481,6 +471,7 @@
 | 뉴스의 시대 | [뉴미디어-월드](https://trevari.co.kr/meetings/show?clubID=61936089-bd1e-472b-8ad6-409a9b1bb67f&order=1) | 강남 | 05월 22일 |  
 | 동아비즈니스리뷰 (263호, 2018년 12월 2호) | [DBR 함께 읽기](https://trevari.co.kr/meetings/show?clubID=75778195-faf5-49ee-9285-b7338f360083&order=1) | 안국 | 05월 22일 |  
 | 모든 것이 되는 법 | [사이드프로젝트-해피](https://trevari.co.kr/meetings/show?clubID=7d70fcf5-b864-4bfa-8a5b-18772ce4b1cc&order=1) | 강남 | 05월 22일 |  
+| 기획이란 무엇인가 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=82ae1c93-990b-4c5b-a257-27c516a1fc73&order=1) | 성수 | 05월 22일 |  
 | 어쩐지 미술에서 뇌과학이 보인다 | [튜링의 아틀리에](https://trevari.co.kr/meetings/show?clubID=9caf5711-b598-4c20-af92-953251502d4d&order=1) | 안국 | 05월 22일 |  
 | 맥락을 팔아라 | [마케터즈-하네](https://trevari.co.kr/meetings/show?clubID=9d5d46d1-9e08-4c34-acfd-f4c506378763&order=1) | 강남 | 05월 22일 |  
 | 마케터의 여행법 | [마케팅-보라](https://trevari.co.kr/meetings/show?clubID=d91e450b-5edf-41fe-8f37-b96b82a24280&order=1) | 안국 | 05월 22일 |  
@@ -560,5 +551,5 @@
 | 마케팅 불변의 법칙(양장본 HardCover) | [마케팅-돌고래](https://trevari.co.kr/meetings/show?clubID=ea91ba3b-9579-4089-aa37-5e21edd83fdd&order=1) | 강남 | 05월 26일 |  
 | 낭만적 연애와 그 후의 일상, 영화: <우리도 사랑일까> | [북씨-47](https://trevari.co.kr/meetings/show?clubID=fbcd7f26-5b9c-4630-a7ef-ed0c65fcb3c6&order=1) | 압구정 | 05월 26일 |  
 
-총 550 개  
+총 541 개  
 
