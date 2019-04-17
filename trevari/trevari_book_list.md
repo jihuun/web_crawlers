@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-04-17 02:00:32  
+> Updated on 2019-04-17 12:00:33  
 
 > This page has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this page, reporting bugs & new ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -9,17 +9,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 |  
 | --- | --- | --- | --- |  
-| 나는 감이 아니라 데이터로 말한다 | [마케터즈-레드](https://trevari.co.kr/meetings/show?clubID=50ad8e64-e01b-4507-9ff5-2b49f4ce1082&order=4) | 압구정 | 04월 17일 |  
-| 도쿄의 디테일 | [제품/서비스 기획자들](https://trevari.co.kr/meetings/show?clubID=5cb51748-59b7-4264-8200-c3280120bc5d&order=4) | 안국 | 04월 17일 |  
-| 도시는 무엇으로 사는가 | [제너럴리스트-셋수](https://trevari.co.kr/meetings/show?clubID=648d2919-dd9d-4c4e-8e55-29535d529ae8&order=4) | 안국 | 04월 17일 |  
-| 수리부엉이는 황혼에 날아오른다 | [무라카미즈 시즌2.](https://trevari.co.kr/meetings/show?clubID=72367754-ca6d-4518-836b-463f709fc1d0&order=4) | 안국 | 04월 17일 |  
-| 여행의 기술 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=8c242fed-15fb-4593-84a4-233a946703bd&order=4) | 성수 | 04월 17일 |  
-| 히트 리프레시 | [리더십입문-셋수](https://trevari.co.kr/meetings/show?clubID=91061dc8-bd26-43fd-9cef-cd71e66480c6&order=4) | 안국 | 04월 17일 |  
-| 창업가의 일 | [스타텁-33](https://trevari.co.kr/meetings/show?clubID=b3526837-40fa-4bf5-aa72-84b4275608b2&order=4) | 압구정 | 04월 17일 |  
-| 복수의 심리학(양장본 HardCover), 복수는 나의 것 | [북씨-블랙](https://trevari.co.kr/meetings/show?clubID=befa170a-4a99-4d6b-a5a0-6332efd9b4e3&order=4) | 압구정 | 04월 17일 |  
-| 일하는 마음 | [사이드프로젝트-퍼플](https://trevari.co.kr/meetings/show?clubID=cc78015f-da6a-4648-b8d1-fc877c929466&order=4) | 압구정 | 04월 17일 |  
-| 책쓰기가 이렇게 쉬울 줄이야 | [글쓰기부터 책쓰기까지](https://trevari.co.kr/meetings/show?clubID=e1dcf60a-bd2b-43ae-811c-2ad47bca05d5&order=4) | 안국 | 04월 17일 |  
-| 아들이 초등학교에 갑니다 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=f32bf523-6b89-44b8-9559-8d3ff867d46c&order=4) | 압구정 | 04월 17일 |  
 | 나는 일그러진 사랑과 이별하기로 했다 | [럽럽-셋목](https://trevari.co.kr/meetings/show?clubID=09cae3c4-a693-415d-a2aa-4748b7d09bf8&order=4) | 안국 | 04월 18일 |  
 | 지리의 힘 | [닝겐-34](https://trevari.co.kr/meetings/show?clubID=0b3f79cc-3f1f-4f90-a574-699cf3162045&order=4) | 압구정 | 04월 18일 |  
 | 내게 무해한 사람 | [무경계-셋목](https://trevari.co.kr/meetings/show?clubID=10a3abb4-cb84-4a40-87e5-9ef0041d83bc&order=4) | 안국 | 04월 18일 |  
@@ -536,5 +525,5 @@
 | 마케팅 불변의 법칙(양장본 HardCover) | [마케팅-돌고래](https://trevari.co.kr/meetings/show?clubID=ea91ba3b-9579-4089-aa37-5e21edd83fdd&order=1) | 강남 | 05월 26일 |  
 | 낭만적 연애와 그 후의 일상, 영화: <우리도 사랑일까> | [북씨-47](https://trevari.co.kr/meetings/show?clubID=fbcd7f26-5b9c-4630-a7ef-ed0c65fcb3c6&order=1) | 압구정 | 05월 26일 |  
 
-총 526 개  
+총 515 개  
 
