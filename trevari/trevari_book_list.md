@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-04-23 12:00:33  
+> Updated on 2019-04-24 02:00:36  
 
 > This page has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this page, reporting bugs & new ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -344,7 +344,7 @@
 | 달과 6펜스, 영화: <위플래쉬> | [북씨-거북이](https://trevari.co.kr/meetings/show?clubID=fba24ae3-642c-47fd-b9da-704eabc4e7e0&order=1) | 강남 | 05월 18일 |  
 | 남아 있는 나날 | [37](https://trevari.co.kr/meetings/show?clubID=01074ad6-f51b-4e37-aa06-6ebdb8870314&order=1) | 압구정 | 05월 19일 |  
 | 참을 수 없는 존재의 가벼움 | [무경계-하네](https://trevari.co.kr/meetings/show?clubID=01334cee-18db-40db-b8b3-89628b37f21a&order=1) | 강남 | 05월 19일 |  
-| 열두 발자국 | [워너원](https://trevari.co.kr/meetings/show?clubID=033942b4-d9ea-4949-b42c-26db71aa27e5&order=1) | 압구정 | 05월 19일 |  
+| 관찰의 인문학 | [워너원](https://trevari.co.kr/meetings/show?clubID=033942b4-d9ea-4949-b42c-26db71aa27e5&order=1) | 압구정 | 05월 19일 |  
 | 밤하늘 아래 | [체험독서-셋일](https://trevari.co.kr/meetings/show?clubID=0838373c-699d-4a25-ba49-6c87522a3e5a&order=1) | 안국 | 05월 19일 |  
 | 가자, 어디에도 없었던 방법으로 | [기획자의노트](https://trevari.co.kr/meetings/show?clubID=13b4cd3f-7e8f-4691-8085-a2b2ccd1ae70&order=1) | 성수 | 05월 19일 |  
 | 비커밍 스티브 잡스(양장본 HardCover) | [스타텁-셋일](https://trevari.co.kr/meetings/show?clubID=15996a12-3d49-40f1-ade9-351107d398fc&order=1) | 안국 | 05월 19일 |  
