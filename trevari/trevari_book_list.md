@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-04-27 02:00:33  
+> Updated on 2019-04-27 12:00:32  
 
 > This page has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this page, reporting bugs & new ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -9,26 +9,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 |  
 | --- | --- | --- | --- |  
-| 우리는 어디에서 어디로 가는가 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=03afc153-4ee7-4c9f-9646-f64fe4bac7a2&order=4) | 압구정 | 04월 27일 |  
-| 서울 평양 스마트시티 | [북한읽기](https://trevari.co.kr/meetings/show?clubID=2a2bb2c5-f54b-4a40-9cd5-6f9dfde48285&order=4) | 안국 | 04월 27일 |  
-| 숨결이 바람 될 때 | [삶과죽음](https://trevari.co.kr/meetings/show?clubID=34b79fef-fa99-4668-a994-d45f6c20aab5&order=4) | 안국 | 04월 27일 |  
-| 왜 나는 너를 사랑하는가 | [마음-46](https://trevari.co.kr/meetings/show?clubID=367e8327-4bdc-4edd-a144-fd20e5e99aeb&order=4) | 성수 | 04월 27일 |  
-| 새로움에 대하여(양장본 HardCover) | [미술아냥](https://trevari.co.kr/meetings/show?clubID=4a72748b-1479-4800-b6c3-50790349f571&order=4) | 안국 | 04월 27일 |  
-| 아침에는 죽음을 생각하는 것이 좋다 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=575fca49-b376-408c-b058-e8ac3eb62402&order=4) | 성수 | 04월 27일 |  
-| 101가지 비즈니스 모델 이야기(2018 에디션)(성공하는 스타트업을 위한)(양장... | [InC](https://trevari.co.kr/meetings/show?clubID=5e97805f-e8bf-488c-828c-94e773e5a559&order=4) | 안국 | 04월 27일 |  
-| The Little Prince | [잉잉-46](https://trevari.co.kr/meetings/show?clubID=635cb3dc-6be2-4203-b481-6a6594dc969d&order=4) | 성수 | 04월 27일 |  
-| 구글이 목표를 달성하는 방식 OKR(양장본 HardCover) | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=6cac9d98-32d6-4378-b33c-447afee4a1b6&order=4) | 성수 | 04월 27일 |  
-| 아내를 모자로 착각한 남자 | [넷토](https://trevari.co.kr/meetings/show?clubID=919371f1-f98a-4eda-adec-c5368eae0e0e&order=4) | 안국 | 04월 27일 |  
-| 댈러웨이 부인 | [문심화](https://trevari.co.kr/meetings/show?clubID=9f40f0df-6b6e-47c2-bade-53e871cdcec1&order=4) | 성수 | 04월 27일 |  
-| 자기 앞의 생 | [문-레드](https://trevari.co.kr/meetings/show?clubID=a40019f4-fa48-4dfe-bc4d-3468b4ce033a&order=4) | 압구정 | 04월 27일 |  
-| 이방인 | [독토](https://trevari.co.kr/meetings/show?clubID=a568ee80-7065-491e-a62e-69517cba4d31&order=4) | 압구정 | 04월 27일 |  
-| 가자, 어디에도 없었던 방법으로 | [마케터즈-블랙](https://trevari.co.kr/meetings/show?clubID=a777d7ca-19f5-4b90-9ef9-33582c86d626&order=4) | 압구정 | 04월 27일 |  
-| 나사의 회전(세계문학전집 122) | [문-빨강](https://trevari.co.kr/meetings/show?clubID=c082baef-7a99-46f6-9e7c-f65ccd457cf1&order=4) | 안국 | 04월 27일 |  
-| 죽음의 수용소에서 | [46](https://trevari.co.kr/meetings/show?clubID=c8966f9c-3ac1-43c4-91d1-0892080f540e&order=4) | 압구정 | 04월 27일 |  
-| 우리는 사랑일까 | [작가들-알랭드보통](https://trevari.co.kr/meetings/show?clubID=d2edf32d-cd7b-4122-9483-eaf80aee3a9b&order=4) | 압구정 | 04월 27일 |  
-| 우리에겐 언어가 필요하다 | [국내이슈-46](https://trevari.co.kr/meetings/show?clubID=d4fa0be3-9f57-4b92-8a6e-9d7e853252e7&order=4) | 성수 | 04월 27일 |  
-| 피해와 가해의 페미니즘(도란스 기획 총서 3) | [GD 심화](https://trevari.co.kr/meetings/show?clubID=fbd94669-89fe-466c-9736-831f59043341&order=4) | 성수 | 04월 27일 |  
-| 우리 이제 낭만을 이야기합시다 | [씀-블랙](https://trevari.co.kr/meetings/show?clubID=5c18c42b-6123-4de5-9a84-39af9c1c250a&order=4) | 압구정 | 04월 27일 |  
 | 슬픔을 공부하는 슬픔, 작별 | [문학X비문학-넷일](https://trevari.co.kr/meetings/show?clubID=053de564-f6e0-41a6-9a5b-9e9e22bc298a&order=4) | 안국 | 04월 28일 |  
 | 아픔이 길이 되려면, 랩걸 | [문학X비문학-47](https://trevari.co.kr/meetings/show?clubID=1519a541-bcad-42b1-9e71-aae2e719559c&order=4) | 압구정 | 04월 28일 |  
 | 달과 6펜스 | [넷일](https://trevari.co.kr/meetings/show?clubID=1f7e8eac-1579-40f8-9c23-3bd04ed5e853&order=4) | 안국 | 04월 28일 |  
@@ -423,6 +403,16 @@
 | 낭만적 연애와 그 후의 일상 | [럽럽-수박](https://trevari.co.kr/meetings/show?clubID=55ef219e-a5ca-4789-9aca-6c4757a8630b&order=2) | 강남 | 06월 09일 |  
 | 결혼 여름(알베르 카뮈 전집 1) | [씀-둘일](https://trevari.co.kr/meetings/show?clubID=825fe30e-103e-429f-8c96-8ecaed689921&order=2) | 안국 | 06월 09일 |  
 | 모닝스타 성공투자 5원칙 | [투자입문-둘목](https://trevari.co.kr/meetings/show?clubID=64b067bc-e856-4cfb-b1c6-0c3b912c8ada&order=2) | 안국 | 06월 13일 |  
+| 후설의 현상학(양장본 HardCover) | [진진-36](https://trevari.co.kr/meetings/show?clubID=33fe8e91-9225-4264-b6f6-827164bcbacd&order=2) | 성수 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
+| 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
 
-총 414 개  
+총 404 개  
 
