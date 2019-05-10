@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-05-09 12:00:33  
+> Updated on 2019-05-10 02:00:32  
 
 > This page has been generated automatically by [a python script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) which is open source project.  
 > Sharing this page, reporting bugs & new ideas, [pull requests](https://github.com/jihuun/web_crawlers) are always welcome :)  
@@ -251,9 +251,11 @@
 | 이 별에서의 이별 | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=0ce5e05d-ec38-4435-a559-6f28bb3aaff1&order=2) | 압구정 | 06월 01일 |  
 | 철학의 위안(양장본 HardCover) | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=1b917f4c-4a0d-4719-abfd-956d1ae8212e&order=2) | 강남 | 06월 01일 |  
 | 항상 앞부분만 쓰다가 그만두는 당신을 위한 어떻게든 글쓰기 | [덕덕](https://trevari.co.kr/meetings/show?clubID=1fddd4d0-23cd-45f5-9b7c-4abda9242d8f&order=2) | 압구정 | 06월 01일 |  
+| 리스본행 야간열차, 리스본행 야간열차 | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=41307312-fb41-4e4b-baa0-a381cd9b1fe3&order=2) | 압구정 | 06월 01일 |  
 | [책읽찌라 추천책] 결국, 컨셉 | [Kyunference](https://trevari.co.kr/meetings/show?clubID=777a9055-c97c-4aea-960b-cce302f6382c&order=2) | 강남 | 06월 01일 |  
 | 페스트 | [문-보라](https://trevari.co.kr/meetings/show?clubID=877bd98a-ef9c-47bc-93bb-0f1f95b3c7a4&order=2) | 안국 | 06월 01일 |  
 | 마켓 4.0 | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=9cb74818-842d-43e1-8e38-6705dbbf80e0&order=2) | 성수 | 06월 01일 |  
+| 쾌락독서 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=9d85c651-530b-4f9c-a6fa-1827aef7cb33&order=2) | 강남 | 06월 01일 |  
 | 아름다움이란 무엇인가 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=2) | 안국 | 06월 01일 |  
 | 젊은작가상 수상작품집 10주년 특별판 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=2) | 압구정 | 06월 01일 |  
 | 퇴사준비생의 런던 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=e85e47f3-e96a-4837-9ecc-1278a2170e51&order=2) | 안국 | 06월 01일 |  
@@ -270,12 +272,14 @@
 | 배드 블러드 | [에스티마의 북클럽](https://trevari.co.kr/meetings/show?clubID=4f41f61f-73ec-4ffe-9e68-c5d0f51ce4de&order=2) | 강남 | 06월 05일 |  
 | 스타벅스 커피 한 잔에 담긴 성공신화, 온워드 | [오래된 산업에서의 창업과 혁신](https://trevari.co.kr/meetings/show?clubID=608254ad-f275-44f9-820b-2d1d067d03dc&order=2) | 성수 | 06월 05일 |  
 | 토니와 수잔(버티고 시리즈), 녹터널 애니멀스 | [북씨-끼리](https://trevari.co.kr/meetings/show?clubID=a26df4be-3b6a-4206-a930-02907ba590c6&order=2) | 강남 | 06월 05일 |  
+| 정확한 사랑의 실험 | [콘텐츠츠-완두콩](https://trevari.co.kr/meetings/show?clubID=0a7628f3-bdfd-45c3-b948-98608f863e0b&order=2) | 강남 | 06월 06일 |  
 | 슈독 | [경영하는 인간](https://trevari.co.kr/meetings/show?clubID=892d94ab-76a9-4adb-8037-266a38ba0201&order=2) | 압구정 | 06월 06일 |  
 | 법률 천재가 된 홍 대리 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=ee8819de-a361-497b-8860-67f439c91ce1&order=2) | 안국 | 06월 06일 |  
 | 나는 아마존에서 미래를 다녔다 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=1f9151e7-4fab-42a6-b4a1-3ac4b35c5a0f&order=2) | 강남 | 06월 07일 |  
 | 영화 시나리오 <완벽한 타인> | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=4881bef0-4640-4bf5-bd4c-641553240550&order=2) | 안국 | 06월 07일 |  
 | 제10회 젊은작가상 수상작품집(2019) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=577b37be-54ea-423d-b3d9-a97b4718715e&order=2) | 압구정 | 06월 07일 |  
 | 맥(한국문학전집 26) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=709e7d05-0e97-430c-b4d5-528d2bf9f44d&order=2) | 안국 | 06월 07일 |  
+| 여행의 이유 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=8762a03f-e2b4-4c46-9a4b-e57eeccc5472&order=2) | 압구정 | 06월 07일 |  
 | 리테일의 미래 | [차이나스토리-첫금](https://trevari.co.kr/meetings/show?clubID=891b4e02-336b-4d88-aad0-614b9632dce3&order=2) | 강남 | 06월 07일 |  
 | 원칙 | [스타텁-블랙](https://trevari.co.kr/meetings/show?clubID=8d0c6fad-8b5f-43b5-a782-0063be319425&order=2) | 압구정 | 06월 07일 |  
 | 위대한 개츠비 | [문-첫금](https://trevari.co.kr/meetings/show?clubID=97759133-c549-46b1-8115-5bd7c465abdd&order=2) | 안국 | 06월 07일 |  
@@ -287,6 +291,7 @@
 | 결혼 여름(알베르 카뮈 전집 1) | [씀-둘일](https://trevari.co.kr/meetings/show?clubID=825fe30e-103e-429f-8c96-8ecaed689921&order=2) | 안국 | 06월 09일 |  
 | 슈독 | [나브시](https://trevari.co.kr/meetings/show?clubID=86032466-bdaa-4b97-9983-0579b0c133b9&order=2) | 성수 | 06월 12일 |  
 | 모닝스타 성공투자 5원칙 | [투자입문-둘목](https://trevari.co.kr/meetings/show?clubID=64b067bc-e856-4cfb-b1c6-0c3b912c8ada&order=2) | 안국 | 06월 13일 |  
+| 일리아스(원전으로 읽는 순수 고전 세계)(양장본 HardCover) | [신화창조](https://trevari.co.kr/meetings/show?clubID=6f6d5276-b012-4123-8134-e28a46ae7749&order=2) | 강남 | 06월 13일 |  
 | The Miracle Morning | [잉잉-우와](https://trevari.co.kr/meetings/show?clubID=09b002cd-d302-495a-8401-7c78be26d7b7&order=2) | 강남 | 06월 14일 |  
 | 후설의 현상학(양장본 HardCover) | [진진-36](https://trevari.co.kr/meetings/show?clubID=33fe8e91-9225-4264-b6f6-827164bcbacd&order=2) | 성수 | 06월 15일 |  
 | 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=2) | 압구정 | 06월 15일 |  
@@ -294,5 +299,5 @@
 | 애자일 개발과 스크럼 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=25dd86ed-a4aa-45dd-b54a-81edb9b47f55&order=2) | 강남 | 06월 22일 |  
 | 철학은 어떻게 삶의 무기가 되는가 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=62dba400-5f21-4144-8196-73315d683e58&order=2) | 성수 | 06월 22일 |  
 
-총 284 개  
+총 289 개  
 
