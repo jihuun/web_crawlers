@@ -14,6 +14,7 @@ cd $DIR
 
 if [ -f $SCRIPT ]; then
 	echo "LOG: sync up with origin/master"
+	git checkout master
 	git fetch origin
 	git rebase origin/master
 	echo "LOG: $SCRIPT is doing."
