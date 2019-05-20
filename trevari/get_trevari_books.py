@@ -12,7 +12,7 @@ from os.path import expanduser
 from bs4 import BeautifulSoup
 import selenium.webdriver as webdriver
 
-NR_SCROLL_DN=40
+NR_SCROLL_DN=30
 
 g_url='https://trevari.co.kr'
 g_url_login='https://trevari.co.kr/login'
@@ -116,10 +116,10 @@ def print_current_time():
 def print_subject(f):
 	f.write("## 트레바리 클럽별 선정 도서 목록  \n")
 	f.write("> Updated on %s  \n\n" %(print_current_time()))
-	f.write("> 이 페이지는 트레바리 모임정보를 추출하는 %s 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   \n\n" %(md_make_hyperlink("Python Script", "https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py")))
-        f.write("> * 신규 기능: 독후감 수 (19.05.19) \n" )
-        f.write("> 맨 우측 열에 각 클럽의 현재 독후감 갯수가 표기 됩니다(놀러가기 독후감 수 / 멤버 독후감 수). 독후감 수는 이 페이지가 업데이트 된 시점의 갯수임에 유의 하시기 바랍니다.\n\n" )
-        f.write("> The script and this page are maintained by %s @soopsaram \n\n" %(md_make_hyperlink("김지훈", "mailto:jihuun.k@gmail.com")))
+	f.write("> 이 페이지는 트레바리 모임정보를 추출하는 %s 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   \n" %(md_make_hyperlink("Python Script", "https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py")))
+        f.write("> The script and this page are maintained by %s @soopsaram  \n\n" %(md_make_hyperlink("김지훈", "mailto:jihuun.k@gmail.com")))
+        f.write("> * **신규 기능: 독후감 수 (19.05.19)**  \n" )
+        f.write("> 맨 우측 열에 각 클럽의 현재 독후감 갯수가 표기 됩니다(놀러가기 독후감 수 / 멤버 독후감 수). 독후감 수는 이 페이지가 업데이트 된 시점의 갯수임에 유의 하시기 바랍니다.  \n\n" )
 	f.write("---\n\n")
 	f.write("| 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | \n")
 	f.write("| --- | --- | --- | --- | --- | \n")
@@ -167,7 +167,7 @@ if __name__  == "__main__":
                                         group_name = group.get_text()
                                         group_name_url = get_href(meeting)
                                         group_name_link = md_make_hyperlink(group_name, group_name_url)
-                                        travler_cnt, member_cnt = get_review_count(group_name_url)
+					travler_cnt, member_cnt = get_review_count(group_name_url)
 
                                 place_date = meeting.find('div', {'style':"color: rgb(123, 123, 123); font-size: 14px; margin-top: 4px;"})
                                 if place_date != None:
