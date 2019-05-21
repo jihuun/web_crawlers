@@ -82,7 +82,7 @@ def get_review_count(url):
                                 #print who.encode('utf-8') # get_text().encode('utf-8') make 'str'
                                 if who == u"놀러가기":
                                         travler_cnt = travler_cnt + 1
-                                elif who == u"멤버" or who == u"파트너":
+                                elif who == u"멤버":
                                         member_cnt = member_cnt + 1
 
                 except Exception as ex:
