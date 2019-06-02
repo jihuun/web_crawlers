@@ -3,7 +3,7 @@
 # Scraping all of the book list on trevari meetings
 # Run with python 2.7
 # Author: Ji-Hun Kim (jihuun.k@gmail.com)
-# v 0.3.0
+# v 0.3.1
 
 import time
 import urllib
@@ -74,6 +74,12 @@ def get_review_count(url):
         member_cnt = 0
         travler_cnt = 0
 	club_leader_list = None
+	club_name_text = None
+
+	club_name = soup.find('h1', {'class':'jsx-2691116476'})
+	if club_name:
+		club_name_text = club_name.get_text()
+		club_name_text = club_name_text.split(':')
 
         for review in soup.find_all('div', {'class':'jsx-4121886606 bookreview-item'}):
 		try:
@@ -100,7 +106,7 @@ def get_review_count(url):
 
 	driver_club.quit()
 
-        return travler_cnt, member_cnt, club_leader_list
+        return travler_cnt, member_cnt, club_leader_list, club_name_text[0]
 
 # For click the button "더 보기"
 def click_next_btn(cnt, drv):
@@ -132,6 +138,8 @@ def print_subject(f):
         f.write("> 우측 열에 각 클럽의 현재 독후감 갯수가 표기 됩니다(놀러가기 독후감 수 / 멤버 독후감 수). 독후감 수는 이 페이지가 업데이트 된 시점의 갯수임에 유의 하시기 바랍니다.  \n\n" )
         f.write("> * **클럽장 유무 (19.05.30)**  \n" )
         f.write("> 맨 우측 열에 해당 클럽의 클럽장 이름이 표기 됩니다(없다면 공백). 클럽장이 있는 클럽인지, 클럽장은 누구인지 쉽게 확인이 가능합니다.  \n\n" )
+        f.write("> **버그 수정**  \n" )
+        f.write("> * 트레바리 웹 페이지 업데이트로인한 버그 수정 (19.06.03)  \n" )
 	f.write("---\n\n")
 	f.write("| 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  \n")
 	f.write("| --- | --- | --- | --- | --- | --- |  \n")
@@ -176,15 +184,12 @@ if __name__  == "__main__":
 				book_name = book.get_text()
 
 			if book_name != u"읽을거리 정하는 중":
-                                group = meeting.find('div', {'style':'font-weight: bold;'})
-                                if group != None:
-                                        group_name = group.get_text()
-                                        group_name_url = get_href(meeting)
-                                        group_name_link = md_make_hyperlink(group_name, group_name_url)
-					travler_cnt, member_cnt, club_leader = get_review_count(group_name_url)
-					club_leader_string = ''
-					if club_leader:
-						club_leader_string = ' '.join(club_leader[1:])
+                                group_name_url = get_href(meeting)
+				travler_cnt, member_cnt, club_leader, group_name = get_review_count(group_name_url)
+				group_name_link = md_make_hyperlink(group_name, group_name_url)
+				club_leader_string = ''
+				if club_leader:
+					club_leader_string = ' '.join(club_leader[1:])
 
                                 place_date = meeting.find('div', {'style':"color: rgb(123, 123, 123); font-size: 14px; margin-top: 4px;"})
                                 if place_date != None:
