@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-06-16 20:01:16  
+> Updated on 2019-06-17 01:01:17  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -17,33 +17,33 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 파워풀 | [크루크루](https://trevari.co.kr/meetings/show?clubID=924e0ce4-c871-4798-bb83-487ac53fc7b1&order=2) | 성수 | 06월 18일 | 0 / 0 |  | 
+| 파워풀 | [크루크루](https://trevari.co.kr/meetings/show?clubID=924e0ce4-c871-4798-bb83-487ac53fc7b1&order=2) | 성수 | 06월 18일 | 1 / 0 |  | 
 | 환율의 미래 | [이콘-임당](https://trevari.co.kr/meetings/show?clubID=300d2a99-debd-4a36-8a6a-44835ccc977f&order=2) | 강남 | 06월 19일 | 0 / 1 |  | 
-| 요즘 브랜드 | [어떤 기획](https://trevari.co.kr/meetings/show?clubID=35fc2a54-e4c7-4d2b-b0da-8398f2fe418b&order=2) | 성수 | 06월 19일 | 0 / 0 | 배은지님 | 
+| 요즘 브랜드 | [어떤 기획](https://trevari.co.kr/meetings/show?clubID=35fc2a54-e4c7-4d2b-b0da-8398f2fe418b&order=2) | 성수 | 06월 19일 | 0 / 2 | 배은지님 | 
 | 소셜 애니멀 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=4be176af-e83b-477e-acb4-f450e5ce6ddf&order=2) | 압구정 | 06월 19일 | 1 / 1 |  | 
-| 일간 이슬아 수필집, 페터슨 | [북씨-체리](https://trevari.co.kr/meetings/show?clubID=4c6c3047-7e2b-434a-bdb8-95324442d1c3&order=2) | 강남 | 06월 19일 | 2 / 4 |  | 
-| 열정의 배신 | [리더십입문-셋수](https://trevari.co.kr/meetings/show?clubID=6aceec3d-1bf7-4356-b4e9-6f2ddebd5562&order=2) | 안국 | 06월 19일 | 0 / 2 |  | 
-| 합리적 의심 | [법률가들](https://trevari.co.kr/meetings/show?clubID=78568b8a-e52e-4042-9638-42a35b4d3dfe&order=2) | 강남 | 06월 19일 | 0 / 2 | 양지훈님 | 
+| 일간 이슬아 수필집, 페터슨 | [북씨-체리](https://trevari.co.kr/meetings/show?clubID=4c6c3047-7e2b-434a-bdb8-95324442d1c3&order=2) | 강남 | 06월 19일 | 3 / 6 |  | 
+| 열정의 배신 | [리더십입문-셋수](https://trevari.co.kr/meetings/show?clubID=6aceec3d-1bf7-4356-b4e9-6f2ddebd5562&order=2) | 안국 | 06월 19일 | 0 / 3 |  | 
+| 합리적 의심 | [법률가들](https://trevari.co.kr/meetings/show?clubID=78568b8a-e52e-4042-9638-42a35b4d3dfe&order=2) | 강남 | 06월 19일 | 1 / 2 | 양지훈님 | 
 | 사는 게 힘드냐고 니체가 물었다 | [무경계-끼리](https://trevari.co.kr/meetings/show?clubID=864aa673-d9fc-474b-8ac3-6bcd24fdb6d6&order=2) | 강남 | 06월 19일 | 0 / 2 |  | 
-| 라이프 스타일을 팔다 | [골목길 경제학](https://trevari.co.kr/meetings/show?clubID=86c3266e-9f37-4517-9456-245cd63cc764&order=2) | 안국 | 06월 19일 | 0 / 2 | 모종린님 | 
-| 유튜브 레볼루션(YouTube Revolution) | [글로벌 마케터스 클럽](https://trevari.co.kr/meetings/show?clubID=ac342a6b-c33b-48aa-92fa-50974cbcc777&order=2) | 강남 | 06월 19일 | 2 / 1 | 진민규님 | 
+| 라이프 스타일을 팔다 | [골목길 경제학](https://trevari.co.kr/meetings/show?clubID=86c3266e-9f37-4517-9456-245cd63cc764&order=2) | 안국 | 06월 19일 | 0 / 4 | 모종린님 | 
+| 유튜브 레볼루션(YouTube Revolution) | [글로벌 마케터스 클럽](https://trevari.co.kr/meetings/show?clubID=ac342a6b-c33b-48aa-92fa-50974cbcc777&order=2) | 강남 | 06월 19일 | 2 / 2 | 진민규님 | 
 | 헤르만 지몬의 프라이싱 | [스타텁-33](https://trevari.co.kr/meetings/show?clubID=ce584de7-8a91-46d1-a614-38d4f2bac603&order=2) | 압구정 | 06월 19일 | 0 / 0 |  | 
 | 리스본행 야간열차, 리스본행 야간열차  | [북씨-블랙](https://trevari.co.kr/meetings/show?clubID=e36ecee0-1ee9-478b-9c37-c4d46b20e2ad&order=2) | 압구정 | 06월 19일 | 0 / 0 |  | 
 | 브랜드 디자인 | [폭풍브랜딩!](https://trevari.co.kr/meetings/show?clubID=e90ffb12-a286-4b01-aa58-9e40d188770b&order=2) | 강남 | 06월 19일 | 0 / 0 | 박창선님 | 
 | 슈독 | [팔리는 브랜드](https://trevari.co.kr/meetings/show?clubID=f0311951-50e8-41e2-b8a6-a52d649290c4&order=2) | 강남 | 06월 19일 | 0 / 2 | 브랜드보이(안성은)님 | 
-| 도쿄타워 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=2) | 사라 | 06월 19일 | 0 / 2 | 천세희님 | 
+| 도쿄타워 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=2) | 사라 | 06월 19일 | 0 / 3 | 천세희님 | 
 | 90년생이 온다 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=f2110b6b-0644-4289-9e11-028c575a52e1&order=2) | 안국 | 06월 19일 | 0 / 1 | 신기주님 | 
 | 관찰의 인문학 | [체험독서-34](https://trevari.co.kr/meetings/show?clubID=19a214be-0862-4d3d-8fcc-d5dbc354b7d9&order=2) | 압구정 | 06월 20일 | 0 / 0 |  | 
-| 달러 패권, G2 전쟁, 달러의 역설 | [돈의흐름-끼리](https://trevari.co.kr/meetings/show?clubID=1f19e9cb-86a5-4ad0-8aa2-e4c1eda06e83&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
-| 성공력 | [스타텁-퍼플](https://trevari.co.kr/meetings/show?clubID=47c718e5-5687-4457-acf1-6091b1afa024&order=2) | 압구정 | 06월 20일 | 0 / 0 |  | 
-| 너무 시끄러운 고독 | [34](https://trevari.co.kr/meetings/show?clubID=6f0b9ecd-493c-40c2-93bf-d0ea8e343b64&order=2) | 압구정 | 06월 20일 | 0 / 1 |  | 
-| [책읽남 추천책] 걷는 사람, 하정우 | [체험독서-임당](https://trevari.co.kr/meetings/show?clubID=83ab565b-6ec6-470c-ba8c-94381d70f2e8&order=2) | 강남 | 06월 20일 | 0 / 1 |  | 
+| 달러 패권, G2 전쟁, 달러의 역설 | [돈의흐름-끼리](https://trevari.co.kr/meetings/show?clubID=1f19e9cb-86a5-4ad0-8aa2-e4c1eda06e83&order=2) | 강남 | 06월 20일 | 0 / 1 |  | 
+| 성공력 | [스타텁-퍼플](https://trevari.co.kr/meetings/show?clubID=47c718e5-5687-4457-acf1-6091b1afa024&order=2) | 압구정 | 06월 20일 | 0 / 1 |  | 
+| 너무 시끄러운 고독 | [34](https://trevari.co.kr/meetings/show?clubID=6f0b9ecd-493c-40c2-93bf-d0ea8e343b64&order=2) | 압구정 | 06월 20일 | 0 / 2 |  | 
+| [책읽남 추천책] 걷는 사람, 하정우 | [체험독서-임당](https://trevari.co.kr/meetings/show?clubID=83ab565b-6ec6-470c-ba8c-94381d70f2e8&order=2) | 강남 | 06월 20일 | 0 / 2 |  | 
 | 초격차 | [제품/서비스기획자들-팝콘](https://trevari.co.kr/meetings/show?clubID=929ebd4b-9a9f-4deb-a667-83c075be17ab&order=2) | 강남 | 06월 20일 | 0 / 1 |  | 
 | 오래된 연장통 | [닝겐-34](https://trevari.co.kr/meetings/show?clubID=9ba02509-a7eb-437e-9176-477ad4611738&order=2) | 압구정 | 06월 20일 | 0 / 0 |  | 
 | 사서함 110호의 우편물 | [럽럽-셋목](https://trevari.co.kr/meetings/show?clubID=b41041be-5daf-48fe-a2ba-9f06b99f8a7f&order=2) | 안국 | 06월 20일 | 0 / 3 |  | 
 | 한비자, 관계의 기술 | [무경계-행복](https://trevari.co.kr/meetings/show?clubID=b5ebade1-a874-400e-8887-03254b29640a&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
 | 당신 인생의 이야기 | [나초-셋목](https://trevari.co.kr/meetings/show?clubID=bb3e62d8-bb38-4e8e-a860-2d84c0bf7023&order=2) | 안국 | 06월 20일 | 1 / 1 |  | 
-| 놀 줄 아는 그들의 반격 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=2) | 강남 | 06월 20일 | 0 / 1 |  | 
+| 놀 줄 아는 그들의 반격 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=2) | 강남 | 06월 20일 | 0 / 2 |  | 
 | 창문 넘어 도망친 100세 노인 | [읽을지도-35](https://trevari.co.kr/meetings/show?clubID=04c1b7bb-7e4d-4adb-88b0-3814feed5568&order=2) | 압구정 | 06월 21일 | 0 / 0 |  | 
 | 권도균의 스타트업 경영 수업 | [스타텁-셋금](https://trevari.co.kr/meetings/show?clubID=0cee36a1-48ea-4a56-9c2f-62780785a8d0&order=2) | 안국 | 06월 21일 | 0 / 1 |  | 
 | 모닝스타 성공투자 5원칙 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=15327e79-e798-4c47-866e-cc8b873f306d&order=2) | 강남 | 06월 21일 | 0 / 1 |  | 
@@ -54,7 +54,7 @@
 | 관계를 읽는 시간 | [마음-35](https://trevari.co.kr/meetings/show?clubID=70a76dfd-e19c-481b-8a8d-0f0ac9b62e5b&order=2) | 성수 | 06월 21일 | 0 / 0 |  | 
 | 팩트풀니스(양장본 HardCover) | [과학의눈](https://trevari.co.kr/meetings/show?clubID=8378779f-af32-4bb7-8f85-2dd0978f89ff&order=2) | 압구정 | 06월 21일 | 0 / 4 | 김범준님 | 
 | 한글자 중국: 중국의 탄생 | [쩐빵_지地](https://trevari.co.kr/meetings/show?clubID=86032e2b-57d7-4dba-86fc-d1c69ed82566&order=2) | 강남 | 06월 21일 | 0 / 1 | 이승규님 | 
-| 메모 독서법(단 한 권을 읽어도 제대로 남는) | [파트너즈S1](https://trevari.co.kr/meetings/show?clubID=86cdbc60-6e84-450d-8c1e-690fdfb74601&order=2) | 성수 | 06월 21일 | 0 / 0 |  | 
+| 메모 독서법(단 한 권을 읽어도 제대로 남는) | [파트너즈S1](https://trevari.co.kr/meetings/show?clubID=86cdbc60-6e84-450d-8c1e-690fdfb74601&order=2) | 성수 | 06월 21일 | 0 / 1 |  | 
 | 왜 맛있을까 | [식식-그린](https://trevari.co.kr/meetings/show?clubID=8b68789c-0ac0-4154-8bb9-4197261768ea&order=2) | 압구정 | 06월 21일 | 0 / 0 |  | 
 | 악의(가가 형사 시리즈 3)(양장본 HardCover) | [크리미널마인드](https://trevari.co.kr/meetings/show?clubID=b2d9c40e-2017-40a6-981a-4f0323ecc525&order=2) | 안국 | 06월 21일 | 0 / 0 |  | 
 | 호황 VS 불황 | [돈돈](https://trevari.co.kr/meetings/show?clubID=c7f6c2e4-6991-450c-adcd-c07522ebf6aa&order=2) | 강남 | 06월 21일 | 1 / 0 | 홍진채님 | 
@@ -75,27 +75,28 @@
 | 여행의 이유, <영화> 먹고 기도하고 사랑하라 | [북씨-피쓰](https://trevari.co.kr/meetings/show?clubID=5c98e844-cdd2-40d4-b79d-048b330ca484&order=2) | 강남 | 06월 22일 | 0 / 0 |  | 
 | 상실의 시대(원제: 노르웨이의 숲)(3판) | [46](https://trevari.co.kr/meetings/show?clubID=6055f660-e990-46d2-91a1-a39f0e875318&order=2) | 압구정 | 06월 22일 | 0 / 1 |  | 
 | 철학은 어떻게 삶의 무기가 되는가 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=62dba400-5f21-4144-8196-73315d683e58&order=2) | 성수 | 06월 22일 | 0 / 2 |  | 
-| 카네기 인간관계론, 데일 카네기 인간관계론(개정판) | [머구모](https://trevari.co.kr/meetings/show?clubID=82d834d2-9219-487d-99ab-fc0fc056819e&order=2) | 강남 | 06월 22일 | 1 / 1 | 신상철님 | 
+| 카네기 인간관계론, 데일 카네기 인간관계론(개정판) | [머구모](https://trevari.co.kr/meetings/show?clubID=82d834d2-9219-487d-99ab-fc0fc056819e&order=2) | 강남 | 06월 22일 | 1 / 2 | 신상철님 | 
 | Essays in Love | [잉잉-46](https://trevari.co.kr/meetings/show?clubID=9490df05-595b-40f7-b2b1-942b041772ad&order=2) | 성수 | 06월 22일 | 0 / 0 |  | 
 | 디자인 씽킹 플레이북 | [InC](https://trevari.co.kr/meetings/show?clubID=a26552d0-bdf6-4a84-b61a-624df0840ab4&order=2) | 강남 | 06월 22일 | 0 / 0 | 이승규님 | 
 | 조선자본주의공화국(양장본 HardCover) | [북한읽기](https://trevari.co.kr/meetings/show?clubID=a52223cc-9d3e-477a-ac3e-694ef217d7bf&order=2) | 안국 | 06월 22일 | 1 / 0 | 강현숙님 | 
 | 건축 음악처럼 듣고 미술처럼 보다 | [내집짓기-완두콩](https://trevari.co.kr/meetings/show?clubID=a5b3c8a3-d146-4fc2-b3f2-4e1210af672f&order=2) | 강남 | 06월 22일 | 0 / 0 |  | 
 | 핑거스미스(열린책들 창립 30주년 기념 대표 작가 12인) | [천일영화](https://trevari.co.kr/meetings/show?clubID=b224f26c-a69c-4983-90af-c6ed31c13af9&order=2) | 안국 | 06월 22일 | 0 / 0 | 민용준님 | 
 | 개인주의자 선언 | [체험독서-넷토](https://trevari.co.kr/meetings/show?clubID=b2ec0ad8-401d-451a-919c-6a9fe4b2cbda&order=2) | 안국 | 06월 22일 | 0 / 0 |  | 
-| 어쩐지 미술에서 뇌과학이 보인다(양장본 HardCover) | [미술아냥](https://trevari.co.kr/meetings/show?clubID=b888fcee-343e-41dc-9d81-04a677ce3a6c&order=2) | 안국 | 06월 22일 | 2 / 2 | 박재용님 | 
+| 어쩐지 미술에서 뇌과학이 보인다(양장본 HardCover) | [미술아냥](https://trevari.co.kr/meetings/show?clubID=b888fcee-343e-41dc-9d81-04a677ce3a6c&order=2) | 안국 | 06월 22일 | 2 / 3 | 박재용님 | 
 | 당신의 별자리는 무엇인가요 | [체험독서-앵두](https://trevari.co.kr/meetings/show?clubID=bfd9c746-82d5-448a-a907-5efa51ff7dec&order=2) | 강남 | 06월 22일 | 0 / 0 |  | 
 | 여행의 이유 | [씀-블랙](https://trevari.co.kr/meetings/show?clubID=c9b2c5ce-33ea-4123-b27e-9b6e5a2a0e7b&order=2) | 압구정 | 06월 22일 | 0 / 1 |  | 
 | 테레즈 라캥(개정판)(문학동네 세계문학)(양장본 HardCover) | [문-빨강](https://trevari.co.kr/meetings/show?clubID=d1d516d8-710a-4efa-906a-ad9be9773fbf&order=2) | 안국 | 06월 22일 | 0 / 1 |  | 
 | 당신이 옳다 | [마음-46](https://trevari.co.kr/meetings/show?clubID=da980ea4-5bd1-4252-8523-58a31dea922b&order=2) | 성수 | 06월 22일 | 0 / 0 |  | 
 | 숨 | [문-체리](https://trevari.co.kr/meetings/show?clubID=e3f5faad-1f89-45ab-b2d1-9e111e91916a&order=2) | 강남 | 06월 22일 | 1 / 0 |  | 
 | 빛과 물질에 관한 이론(양장본 HardCover) | [독토](https://trevari.co.kr/meetings/show?clubID=e5b1f697-524b-4425-8196-421df5a3ddac&order=2) | 압구정 | 06월 22일 | 0 / 0 |  | 
+| 2019.06 스타트업 이슈 뽀개기 | [스타트업 핫이슈 뽀개기](https://trevari.co.kr/meetings/show?clubID=1e655f62-d6c9-4d9b-a4f5-94c38f5d9d24&order=2) | 성수 | 06월 23일 | 0 / 0 | 최용식, 김상우님 | 
 | 자존감 수업 | [마음-넷일](https://trevari.co.kr/meetings/show?clubID=2638b206-e555-4326-8b47-c292de36c7de&order=2) | 안국 | 06월 23일 | 1 / 0 |  | 
 | 그리스인 조르바(열린책들세계문학21), 하루의 취향 | [문학X비문학-47](https://trevari.co.kr/meetings/show?clubID=28e69e75-fb16-4c44-a37f-81e35ed24e26&order=2) | 압구정 | 06월 23일 | 0 / 0 |  | 
 | 프레임 | [마음-이야](https://trevari.co.kr/meetings/show?clubID=3775a91c-66a7-4abb-853f-667bddf4fc9e&order=2) | 강남 | 06월 23일 | 0 / 1 |  | 
 | 미래는 규제할 수 없다 | [법법](https://trevari.co.kr/meetings/show?clubID=3b19826b-903c-4a5f-9557-add940284bbb&order=2) | 안국 | 06월 23일 | 1 / 1 | 이성규님 | 
 | 당신 인생의 이야기, 컨택트 | [북씨-완두콩](https://trevari.co.kr/meetings/show?clubID=494e58d4-0b49-42d6-9e2f-b92c266f290c&order=2) | 강남 | 06월 23일 | 0 / 0 |  | 
 | 태엽 감는 새 연대기(합본 특별판)(양장본 HardCover) | [작가들-하루키](https://trevari.co.kr/meetings/show?clubID=5e34620f-839a-417c-b44a-aa5371f5b948&order=2) | 성수 | 06월 23일 | 0 / 0 |  | 
-| 서울 화양연화 | [식물책](https://trevari.co.kr/meetings/show?clubID=6827b318-2667-4d33-911d-2d38c0bf992a&order=2) | 강남 | 06월 23일 | 0 / 0 |  | 
+| 서울 화양연화 | [식물책](https://trevari.co.kr/meetings/show?clubID=6827b318-2667-4d33-911d-2d38c0bf992a&order=2) | 강남 | 06월 23일 | 0 / 1 |  | 
 | 어떻게 살 것인가, 디어 라이프(특별판)(양장본 HardCover) | [문학X비문학-넷일](https://trevari.co.kr/meetings/show?clubID=77af49a6-a7c6-4a12-b292-beaf7fe0cc2a&order=2) | 안국 | 06월 23일 | 0 / 0 |  | 
 | 개인주의자 선언 | [무경계-와춤을](https://trevari.co.kr/meetings/show?clubID=b858f65d-5492-4bc2-86ea-b74914baa177&order=2) | 강남 | 06월 23일 | 0 / 0 |  | 
 | 사진을 읽어 드립니다 | [찰칵](https://trevari.co.kr/meetings/show?clubID=bd1a358a-5532-4008-b279-80dc7f5a5af4&order=2) | 안국 | 06월 23일 | 0 / 0 |  | 
@@ -137,7 +138,7 @@
 | 한번은 경제 공부 | [이콘-45](https://trevari.co.kr/meetings/show?clubID=f70f7476-01b1-48aa-96fd-2012df2a6bf3&order=2) | 성수 | 06월 28일 | 0 / 0 |  | 
 | 위대한 개츠비 | [책바살롱](https://trevari.co.kr/meetings/show?clubID=46de029e-9028-4b71-b96b-1c6fd7c0a6a2&order=2) | 압구정 | 06월 30일 | 2 / 0 | 정인성님 | 
 | 워런 버핏과의 점심식사 | [워런버핏 즉문즉답 원전 읽기](https://trevari.co.kr/meetings/show?clubID=3c3b6a14-f5a3-475e-b1a3-c9664c4a5f3f&order=3) | 강남 | 07월 03일 | 1 / 0 | 류제일님 | 
-| 팩트풀니스(양장본 HardCover) | [김상헌과 함께 책읽기](https://trevari.co.kr/meetings/show?clubID=3f606ecd-a8a0-4faa-be9e-6aff1ebc15c1&order=3) | 안국 | 07월 03일 | 1 / 0 | 김상헌님 | 
+| 팩트풀니스(양장본 HardCover) | [김상헌과 함께 책읽기](https://trevari.co.kr/meetings/show?clubID=3f606ecd-a8a0-4faa-be9e-6aff1ebc15c1&order=3) | 안국 | 07월 03일 | 2 / 0 | 김상헌님 | 
 | 하드씽 | [에스티마의 북클럽](https://trevari.co.kr/meetings/show?clubID=4f41f61f-73ec-4ffe-9e68-c5d0f51ce4de&order=3) | 강남 | 07월 03일 | 0 / 0 | 임정욱님 | 
 | 슈독 | [오래된 산업에서의 창업과 혁신](https://trevari.co.kr/meetings/show?clubID=608254ad-f275-44f9-820b-2d1d067d03dc&order=3) | 성수 | 07월 03일 | 1 / 0 | 김태경님 | 
 | 일간 이슬아 수필집 | [콘텐츠츠-완두콩](https://trevari.co.kr/meetings/show?clubID=0a7628f3-bdfd-45c3-b948-98608f863e0b&order=3) | 강남 | 07월 04일 | 0 / 0 |  | 
@@ -169,7 +170,7 @@
 | 알려지지 않은 예술가의 눈물과 자이툰 파스타 | [문-보라](https://trevari.co.kr/meetings/show?clubID=877bd98a-ef9c-47bc-93bb-0f1f95b3c7a4&order=3) | 안국 | 07월 06일 | 0 / 0 |  | 
 | 도쿄의 디테일 | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=9cb74818-842d-43e1-8e38-6705dbbf80e0&order=3) | 성수 | 07월 06일 | 0 / 0 |  | 
 | 여행의 이유 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=9d85c651-530b-4f9c-a6fa-1827aef7cb33&order=3) | 강남 | 07월 06일 | 0 / 1 |  | 
-| 먹고 마시는 것들의 자연사 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=3) | 안국 | 07월 06일 | 0 / 0 |  | 
+| 먹고 마시는 것들의 자연사 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=3) | 안국 | 07월 06일 | 1 / 0 |  | 
 | 디스 이즈 브랜딩 | [브랜드랜드-16](https://trevari.co.kr/meetings/show?clubID=b8404dfb-0800-407d-abf2-fdde2e9352f1&order=3) | 압구정 | 07월 06일 | 0 / 0 |  | 
 | 파리는 날마다 축제 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=3) | 압구정 | 07월 06일 | 0 / 0 |  | 
 | 여행의 이유 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=e85e47f3-e96a-4837-9ecc-1278a2170e51&order=3) | 안국 | 07월 06일 | 0 / 1 |  | 
@@ -187,6 +188,7 @@
 | 당선, 합격, 계급 | [무경계-앵두](https://trevari.co.kr/meetings/show?clubID=ea9f1ed2-f9f1-4383-bf6e-0693b24c9154&order=3) | 강남 | 07월 07일 | 1 / 0 |  | 
 | 붐버스톨로지 | [돈의흐름-23](https://trevari.co.kr/meetings/show?clubID=3092a710-48e3-405b-b7ff-eae7127747f2&order=3) | 성수 | 07월 10일 | 0 / 0 |  | 
 | 여덟 마리 새끼 돼지(스티븐 제이 굴드 자연학 에세이 선집 1) | [비의 마음과 새의 감각](https://trevari.co.kr/meetings/show?clubID=7b0ae711-612f-4c0d-b400-027cac0a09d9&order=3) | 안국 | 07월 10일 | 0 / 0 | 이충걸님 | 
+| 애주가의 대모험 | [음주입문-강남](https://trevari.co.kr/meetings/show?clubID=556c032c-9840-4cbf-9727-0b9da06e2871&order=3) | 강남 | 07월 11일 | 0 / 0 | 안상현님 | 
 | 행운에 속지 마라 | [투자입문-둘목](https://trevari.co.kr/meetings/show?clubID=64b067bc-e856-4cfb-b1c6-0c3b912c8ada&order=3) | 안국 | 07월 11일 | 0 / 0 |  | 
 | 바가바드 기타(한길그레이트북스 18)(양장본 HardCover) | [신화창조](https://trevari.co.kr/meetings/show?clubID=6f6d5276-b012-4123-8134-e28a46ae7749&order=3) | 강남 | 07월 11일 | 0 / 0 |  | 
 | 포스트 프라이버시 경제 | [넘버스](https://trevari.co.kr/meetings/show?clubID=a2c40e95-1eef-46be-bd58-f0f59f91c0cb&order=3) | 압구정 | 07월 11일 | 0 / 0 | 황승식님 | 
@@ -251,5 +253,5 @@
 | 플랫폼 제국의 미래 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=8cce5a39-3da1-4933-8b9f-786189bcd761&order=3) | 압구정 | 07월 21일 | 0 / 0 | 이아연님 | 
 | 우리는 마약을 모른다 | [무경계-알쓸넓얕](https://trevari.co.kr/meetings/show?clubID=a0e332ab-a0f7-414f-99bc-f14d2abada89&order=1) | 안국 | 07월 21일 | 0 / 0 |  | 
 
-총 233 개  
+총 235 개  
 
