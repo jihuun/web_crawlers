@@ -1,7 +1,0 @@
-트레바리 선정도서 목록을 더 보기 편하게 업데이트 하였으며, 주소가 다음으로 변경 되었습니다.  
-
-https://github.com/jihuun/web_crawlers/blob/master/trevari/trevari_book_list.md  
-
-* 업데이트 내역  
-	- 일반 text 에서 표형식으로 변경
-	- 클럽이름 터치(클릭)시, 각 클럽 웹페이지 주소로 이동
