@@ -1,0 +1,9 @@
+LOG: sync up with origin/master
+현재 브랜치가 (master) 최신 상태입니다.
+LOG: get_trevari_books.py is doing.
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-03-13
+[master 2050f58] script: trevari: update book list on 2019-03-13
+ 1 file changed, 5 insertions(+), 4 deletions(-)

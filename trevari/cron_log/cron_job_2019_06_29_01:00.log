@@ -1,0 +1,11 @@
+LOG: sync up with origin/master
+M	trevari/trevari_book_list.md
+브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
+LOG: get_trevari_books.py is doing.
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-06-29
+[master d39baac] script: trevari: update book list on 2019-06-29 (auto generated commit)
+ 1 file changed, 22 insertions(+), 275 deletions(-)
+ rewrite trevari/trevari_book_list.md (97%)

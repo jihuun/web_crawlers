@@ -1,0 +1,12 @@
+LOG: sync up with origin/master
+LOG: get_trevari_books.py is doing.
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+LOG: get_trevari_books.py done.
+LOG: diff: 
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: no diff

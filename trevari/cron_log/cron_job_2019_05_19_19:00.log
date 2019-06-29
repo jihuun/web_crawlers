@@ -1,0 +1,9 @@
+LOG: sync up with origin/master
+LOG: get_trevari_books.py is doing.
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-05-19
+[master 32217d6] script: trevari: update book list on 2019-05-19 (auto generated commit)
+ 1 file changed, 267 deletions(-)
+ rewrite trevari/trevari_book_list.md (100%)

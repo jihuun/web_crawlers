@@ -1,0 +1,11 @@
+LOG: sync up with origin/master
+브랜치가 'origin/master'보다 3개 커밋만큼 앞에 있습니다.
+  (로컬에 있는 커밋을 제출하려면 "git push"를 사용하십시오)
+현재 브랜치가 (master) 최신 상태입니다.
+LOG: get_trevari_books.py is doing.
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-06-14
+[master b3b3645] script: trevari: update book list on 2019-06-14 (auto generated commit)
+ 1 file changed, 1 insertion(+), 1 deletion(-)

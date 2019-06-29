@@ -1,0 +1,25 @@
+LOG: sync up with origin/master
+브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
+현재 브랜치가 (master) 최신 상태입니다.
+LOG: get_trevari_books.py is doing.
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', TimeoutException())
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+('Exception occured', OSError(12, 'Cannot allocate memory'))
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-06-18
+[master f35989d] script: trevari: update book list on 2019-06-18 (auto generated commit)
+ 1 file changed, 33 insertions(+), 28 deletions(-)

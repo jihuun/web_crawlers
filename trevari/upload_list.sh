@@ -43,6 +43,7 @@ then
 else
 	cd $DIR
 	git add $TARGET
+	git add cron_log/*
 	git commit -sm "script: trevari: update book list on $TODAY (auto generated commit)"
 	git push origin master
 	TODAY=$(get_date)

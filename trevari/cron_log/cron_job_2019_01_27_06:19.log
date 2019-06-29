@@ -1,0 +1,8 @@
+get_trevari_books.py is exist
+LOG: get_trevari_books.py is doing.
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-01-27
+[master 45aee9a] script: trevari: update book list on 2019-01-27
+ 1 file changed, 1 insertion(+), 1 deletion(-)

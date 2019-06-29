@@ -1,0 +1,16 @@
+LOG: sync up with origin/master
+브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
+현재 브랜치가 (master) 최신 상태입니다.
+LOG: get_trevari_books.py is doing.
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-06-07
+[master 5c3d3aa] script: trevari: update book list on 2019-06-07 (auto generated commit)
+ 1 file changed, 13 insertions(+), 11 deletions(-)

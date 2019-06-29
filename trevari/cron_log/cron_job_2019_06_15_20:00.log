@@ -1,0 +1,27 @@
+LOG: sync up with origin/master
+M	trevari/get_trevari_books.py
+M	trevari/trevari_book_list.md
+브랜치가 'origin/master'보다 7개 커밋만큼 앞에 있습니다.
+  (로컬에 있는 커밋을 제출하려면 "git push"를 사용하십시오)
+LOG: get_trevari_books.py is doing.
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+LOG: get_trevari_books.py done.
+LOG: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+LOG: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+LOG: update commit - script: trevari: update book list on 2019-06-15
+[master d92d53e] script: trevari: update book list on 2019-06-15 (auto generated commit)
+ 1 file changed, 16 insertions(+), 2 deletions(-)
