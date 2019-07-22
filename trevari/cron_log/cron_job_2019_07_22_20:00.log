@@ -1,9 +1,9 @@
 [LOG]: sync up with origin/master
-M	trevari/cron_log/cron_job_2019_07_22_01:00.log
+M	trevari/cron_log/cron_job_2019_07_22_11:00.log
 현재 브랜치와 'origin/master'이(가) 갈라졌습니다,
-다른 커밋이 각각 3개와 1개 있습니다.
+다른 커밋이 각각 4개와 1개 있습니다.
   (리모트의 브랜치를 현재 브랜치로 병합하려면 "git pull"을 사용하십시오)
-[LOG]: get_trevari_books.py is executed on 11:00:04
+[LOG]: get_trevari_books.py is executed on 20:00:07
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
@@ -11,11 +11,6 @@ M	trevari/cron_log/cron_job_2019_07_22_01:00.log
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-[LOG]: get_trevari_books.py is finished on 12:06:45.
+[LOG]: get_trevari_books.py is finished on 21:12:14.
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
-[master b5f5698] script: trevari: update book list on  (auto generated commit)
- 3 files changed, 35 insertions(+), 9 deletions(-)
- create mode 100644 trevari/cron_log/cron_job_2019_07_22_11:00.log
-[LOG]: update commit - script: trevari: update book list on 2019-07-22, 12:06:48
