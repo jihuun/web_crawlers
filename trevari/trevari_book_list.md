@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-07-30 01:01:17  
+> Updated on 2019-07-30 11:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -49,7 +49,7 @@
 | 가만한 나날 | [문-보라](https://trevari.co.kr/meetings/show?clubID=877bd98a-ef9c-47bc-93bb-0f1f95b3c7a4&order=4) | 안국 | 08월 03일 | 2 / 3 |  | 
 | 장사의 신, 한국형 장사의 신, 장사는 전략이다(장사의 신 김유진의) | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=9cb74818-842d-43e1-8e38-6705dbbf80e0&order=4) | 성수 | 08월 03일 | 0 / 1 |  | 
 | 다시, 그림이다 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=9d85c651-530b-4f9c-a6fa-1827aef7cb33&order=4) | 강남 | 08월 03일 | 0 / 3 |  | 
-| 페스트 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=4) | 안국 | 08월 03일 | 0 / 0 |  | 
+| 페스트 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=4) | 안국 | 08월 03일 | 0 / 1 |  | 
 | 파워풀 | [브랜드랜드-16](https://trevari.co.kr/meetings/show?clubID=b8404dfb-0800-407d-abf2-fdde2e9352f1&order=4) | 압구정 | 08월 03일 | 0 / 1 |  | 
 | 편의점 인간 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=4) | 압구정 | 08월 03일 | 0 / 2 |  | 
 | 프레임 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=e85e47f3-e96a-4837-9ecc-1278a2170e51&order=4) | 안국 | 08월 03일 | 0 / 2 |  | 
@@ -59,8 +59,8 @@
 | 부의 추월차선 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=fec65e3d-77fd-4ff1-8f03-98150dfcdb8b&order=4) | 강남 | 08월 03일 | 1 / 0 |  | 
 | 젊은작가상 수상작품집 10주년 특별판 | [나초-해피](https://trevari.co.kr/meetings/show?clubID=0ecea563-85e2-479a-98a7-be62e0f2ea72&order=4) | 강남 | 08월 04일 | 0 / 0 |  | 
 | 당신 인생의 이야기 | [TED읽기-17](https://trevari.co.kr/meetings/show?clubID=281775cc-a786-441c-8c95-4a36b7009d27&order=4) | 압구정 | 08월 04일 | 0 / 1 |  | 
-| 도쿄의 디테일 | [서울](https://trevari.co.kr/meetings/show?clubID=3d8f0a53-3115-4cae-b359-50b17c1bc4e0&order=4) | 안국 | 08월 04일 | 0 / 0 |  | 
-| 피프티 피플 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=4dff5d62-8c76-4397-9ed4-5ea163e9d318&order=4) | 성수 | 08월 04일 | 0 / 1 |  | 
+| 도쿄의 디테일 | [서울](https://trevari.co.kr/meetings/show?clubID=3d8f0a53-3115-4cae-b359-50b17c1bc4e0&order=4) | 안국 | 08월 04일 | 0 / 1 |  | 
+| 피프티 피플 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=4dff5d62-8c76-4397-9ed4-5ea163e9d318&order=4) | 성수 | 08월 04일 | 0 / 2 |  | 
 | 여행의 이유 | [체험독서-팝콘](https://trevari.co.kr/meetings/show?clubID=66aed38a-5a31-464b-995d-8a8aca35d4d7&order=4) | 강남 | 08월 04일 | 0 / 0 |  | 
 | 몰입의 즐거움 | [단순클럽](https://trevari.co.kr/meetings/show?clubID=7befce1a-6d49-4318-91f8-a6fdddeb5ae4&order=4) | 안국 | 08월 04일 | 0 / 0 | 이의현님 | 
 | 슬픔을 공부하는 슬픔 | [씀-화이트](https://trevari.co.kr/meetings/show?clubID=9fd3d1f8-201a-4128-805c-4985b7d11c85&order=4) | 압구정 | 08월 04일 | 1 / 1 |  | 
@@ -251,6 +251,7 @@
 | 미친듯이 심플(양장본 HardCover) | [팔리는 브랜드](https://trevari.co.kr/meetings/show?clubID=f0311951-50e8-41e2-b8a6-a52d649290c4&order=4) | 강남 | 08월 21일 | 0 / 0 | 브랜드보이(안성은)님 | 
 | 키키 키린 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=4) | 강남 | 08월 21일 | 0 / 0 | 천세희님 | 
 | 모두 거짓말을 한다 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
+| 구글은 어떻게 여성을 차별하는가 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=090ff0c6-e20c-4d3b-b040-5092556b07e4&order=4) | 안국 | 08월 22일 | 0 / 0 | 박재용님 | 
 | 하이 아웃풋 매니지먼트(양장본 HardCover) | [OKR 오케바리](https://trevari.co.kr/meetings/show?clubID=4ba2c7ff-7111-4e93-98f5-959f2ba6066f&order=4) | 성수 | 08월 22일 | 0 / 0 | 이길상님 | 
 | 내 안에서 나를 만드는 것들 | [닝겐-34](https://trevari.co.kr/meetings/show?clubID=9ba02509-a7eb-437e-9176-477ad4611738&order=4) | 압구정 | 08월 22일 | 0 / 0 |  | 
 | 고통은 나눌 수 있는가 | [나초-셋목](https://trevari.co.kr/meetings/show?clubID=bb3e62d8-bb38-4e8e-a860-2d84c0bf7023&order=4) | 안국 | 08월 22일 | 0 / 0 |  | 
@@ -302,5 +303,5 @@
 | Three Women | [잉잉-14](https://trevari.co.kr/meetings/show?clubID=e84de933-4ca6-4bb0-8c18-71994383cd57&order=1) | 성수 | 09월 05일 | 0 / 0 |  | 
 | 권도균의 스타트업 경영 수업 | [스타텁-블랙](https://trevari.co.kr/meetings/show?clubID=05a59ea6-d296-47f1-9e58-ade72791bccc&order=1) | 압구정 | 09월 06일 | 0 / 0 |  | 
 
-총 284 개  
+총 285 개  
 
