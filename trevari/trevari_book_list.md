@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-07-31 20:01:17  
+> Updated on 2019-08-01 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -24,33 +24,33 @@
 | 피프티 피플, 바르다가 사랑한 얼굴들 (Faces Places, 2017) | [북씨-끼리](https://trevari.co.kr/meetings/show?clubID=a26df4be-3b6a-4206-a930-02907ba590c6&order=4) | 강남 | 08월 01일 | 4 / 5 |  | 
 | 생각을 빼앗긴 세계 | [넥스랩-비기너](https://trevari.co.kr/meetings/show?clubID=bc4e5d40-ea73-4521-9cd8-231a920dc7f5&order=4) | 안국 | 08월 01일 | 2 / 9 | 강정수님 | 
 | 지금 다시, 헌법 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=ee8819de-a361-497b-8860-67f439c91ce1&order=4) | 안국 | 08월 01일 | 1 / 9 | 노소라님 | 
-| 성공의 공식 포뮬러 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=1f9151e7-4fab-42a6-b4a1-3ac4b35c5a0f&order=4) | 강남 | 08월 02일 | 0 / 2 |  | 
-| 햄릿 | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=4881bef0-4640-4bf5-bd4c-641553240550&order=4) | 안국 | 08월 02일 | 0 / 1 |  | 
-| 팩트풀니스(양장본 HardCover) | [첫금](https://trevari.co.kr/meetings/show?clubID=52088a27-6a67-4204-89b6-3829d71a03c3&order=4) | 안국 | 08월 02일 | 0 / 4 |  | 
-| 잊기 좋은 이름 | [문-옐로](https://trevari.co.kr/meetings/show?clubID=577b37be-54ea-423d-b3d9-a97b4718715e&order=4) | 압구정 | 08월 02일 | 0 / 5 |  | 
-| 가치 있는 아파트 만들기(반양장) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=709e7d05-0e97-430c-b4d5-528d2bf9f44d&order=4) | 안국 | 08월 02일 | 1 / 0 | 황두진님 | 
-| 공간은 경험이다 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=8762a03f-e2b4-4c46-9a4b-e57eeccc5472&order=4) | 압구정 | 08월 02일 | 0 / 3 |  | 
-| 콘텐츠의 미래 | [차이나스토리-첫금](https://trevari.co.kr/meetings/show?clubID=891b4e02-336b-4d88-aad0-614b9632dce3&order=4) | 강남 | 08월 02일 | 1 / 5 | 김민지님 | 
-| 린 스타트업 | [스타텁-블랙](https://trevari.co.kr/meetings/show?clubID=8d0c6fad-8b5f-43b5-a782-0063be319425&order=4) | 압구정 | 08월 02일 | 0 / 2 |  | 
-| 데미안 | [문-첫금](https://trevari.co.kr/meetings/show?clubID=97759133-c549-46b1-8115-5bd7c465abdd&order=4) | 안국 | 08월 02일 | 1 / 1 |  | 
-| 오토노미 제2의 이동 혁명 | [어떤혁신](https://trevari.co.kr/meetings/show?clubID=9de0e595-6a8c-48e8-b02e-8580b681b47c&order=4) | 안국 | 08월 02일 | 0 / 5 | 윤종수님 | 
-| 신경 끄기의 기술 | [마음-레드](https://trevari.co.kr/meetings/show?clubID=bcf1b90a-141f-48bb-9e11-b0d2445dbef7&order=4) | 압구정 | 08월 02일 | 0 / 4 |  | 
-| 변하는 것과 변하지 않는 것 | [마케팅-끼리](https://trevari.co.kr/meetings/show?clubID=c0be6cab-337e-4f4c-9ec0-7cb18295fce6&order=4) | 강남 | 08월 02일 | 0 / 1 |  | 
-| 좋은지 나쁜지 누가 아는가 | [체험독서-동의](https://trevari.co.kr/meetings/show?clubID=c73ba167-820a-4d8c-bb99-303b348413d8&order=4) | 강남 | 08월 02일 | 0 / 3 |  | 
+| 성공의 공식 포뮬러 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=1f9151e7-4fab-42a6-b4a1-3ac4b35c5a0f&order=4) | 강남 | 08월 02일 | 0 / 6 |  | 
+| 햄릿 | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=4881bef0-4640-4bf5-bd4c-641553240550&order=4) | 안국 | 08월 02일 | 0 / 3 |  | 
+| 팩트풀니스(양장본 HardCover) | [첫금](https://trevari.co.kr/meetings/show?clubID=52088a27-6a67-4204-89b6-3829d71a03c3&order=4) | 안국 | 08월 02일 | 0 / 6 |  | 
+| 잊기 좋은 이름 | [문-옐로](https://trevari.co.kr/meetings/show?clubID=577b37be-54ea-423d-b3d9-a97b4718715e&order=4) | 압구정 | 08월 02일 | 1 / 10 |  | 
+| 가치 있는 아파트 만들기(반양장) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=709e7d05-0e97-430c-b4d5-528d2bf9f44d&order=4) | 안국 | 08월 02일 | 1 / 8 | 황두진님 | 
+| 공간은 경험이다 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=8762a03f-e2b4-4c46-9a4b-e57eeccc5472&order=4) | 압구정 | 08월 02일 | 0 / 9 |  | 
+| 콘텐츠의 미래 | [차이나스토리-첫금](https://trevari.co.kr/meetings/show?clubID=891b4e02-336b-4d88-aad0-614b9632dce3&order=4) | 강남 | 08월 02일 | 1 / 11 | 김민지님 | 
+| 린 스타트업 | [스타텁-블랙](https://trevari.co.kr/meetings/show?clubID=8d0c6fad-8b5f-43b5-a782-0063be319425&order=4) | 압구정 | 08월 02일 | 0 / 4 |  | 
+| 데미안 | [문-첫금](https://trevari.co.kr/meetings/show?clubID=97759133-c549-46b1-8115-5bd7c465abdd&order=4) | 안국 | 08월 02일 | 2 / 4 |  | 
+| 오토노미 제2의 이동 혁명 | [어떤혁신](https://trevari.co.kr/meetings/show?clubID=9de0e595-6a8c-48e8-b02e-8580b681b47c&order=4) | 안국 | 08월 02일 | 0 / 9 | 윤종수님 | 
+| 신경 끄기의 기술 | [마음-레드](https://trevari.co.kr/meetings/show?clubID=bcf1b90a-141f-48bb-9e11-b0d2445dbef7&order=4) | 압구정 | 08월 02일 | 0 / 11 |  | 
+| 변하는 것과 변하지 않는 것 | [마케팅-끼리](https://trevari.co.kr/meetings/show?clubID=c0be6cab-337e-4f4c-9ec0-7cb18295fce6&order=4) | 강남 | 08월 02일 | 0 / 6 |  | 
+| 좋은지 나쁜지 누가 아는가 | [체험독서-동의](https://trevari.co.kr/meetings/show?clubID=c73ba167-820a-4d8c-bb99-303b348413d8&order=4) | 강남 | 08월 02일 | 0 / 4 |  | 
 | 어디서 살 것인가 | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=0ce5e05d-ec38-4435-a559-6f28bb3aaff1&order=4) | 압구정 | 08월 03일 | 1 / 1 |  | 
-| 여행의 이유(반양장본) | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=1b917f4c-4a0d-4719-abfd-956d1ae8212e&order=4) | 강남 | 08월 03일 | 0 / 4 |  | 
-| 숨 | [덕덕](https://trevari.co.kr/meetings/show?clubID=1fddd4d0-23cd-45f5-9b7c-4abda9242d8f&order=4) | 압구정 | 08월 03일 | 0 / 2 |  | 
-| 팩트풀니스(양장본 HardCover) | [무경계-16](https://trevari.co.kr/meetings/show?clubID=38401b6f-a0c1-4aa6-8269-c8f7b69b02ce&order=4) | 성수 | 08월 03일 | 0 / 1 |  | 
-| 자기 앞의 생, 미 비포 유 | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=41307312-fb41-4e4b-baa0-a381cd9b1fe3&order=4) | 압구정 | 08월 03일 | 0 / 1 |  | 
-| 외로운 도시 | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=5c1a9dc5-f472-4d25-8fe9-f724baf9713a&order=4) | 안국 | 08월 03일 | 0 / 0 | 이충걸님 | 
-| 인생의 발견 | [인터뷰어-피쓰](https://trevari.co.kr/meetings/show?clubID=7a402222-a35e-4a0d-a610-d99e4dc9455f&order=4) | 강남 | 08월 03일 | 0 / 0 |  | 
+| 여행의 이유(반양장본) | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=1b917f4c-4a0d-4719-abfd-956d1ae8212e&order=4) | 강남 | 08월 03일 | 0 / 5 |  | 
+| 숨 | [덕덕](https://trevari.co.kr/meetings/show?clubID=1fddd4d0-23cd-45f5-9b7c-4abda9242d8f&order=4) | 압구정 | 08월 03일 | 0 / 3 |  | 
+| 팩트풀니스(양장본 HardCover) | [무경계-16](https://trevari.co.kr/meetings/show?clubID=38401b6f-a0c1-4aa6-8269-c8f7b69b02ce&order=4) | 성수 | 08월 03일 | 0 / 2 |  | 
+| 자기 앞의 생, 미 비포 유 | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=41307312-fb41-4e4b-baa0-a381cd9b1fe3&order=4) | 압구정 | 08월 03일 | 0 / 2 |  | 
+| 외로운 도시 | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=5c1a9dc5-f472-4d25-8fe9-f724baf9713a&order=4) | 안국 | 08월 03일 | 0 / 1 | 이충걸님 | 
+| 인생의 발견 | [인터뷰어-피쓰](https://trevari.co.kr/meetings/show?clubID=7a402222-a35e-4a0d-a610-d99e4dc9455f&order=4) | 강남 | 08월 03일 | 0 / 1 |  | 
 | 연을 쫓는 아이, 연을 쫓는 아이 | [북씨-16](https://trevari.co.kr/meetings/show?clubID=7c87e5b7-2e53-4202-881b-f2c3cd02c849&order=4) | 성수 | 08월 03일 | 0 / 0 |  | 
-| 가만한 나날 | [문-보라](https://trevari.co.kr/meetings/show?clubID=877bd98a-ef9c-47bc-93bb-0f1f95b3c7a4&order=4) | 안국 | 08월 03일 | 2 / 3 |  | 
+| 가만한 나날 | [문-보라](https://trevari.co.kr/meetings/show?clubID=877bd98a-ef9c-47bc-93bb-0f1f95b3c7a4&order=4) | 안국 | 08월 03일 | 2 / 6 |  | 
 | 장사의 신, 한국형 장사의 신, 장사는 전략이다(장사의 신 김유진의) | [마케팅-16](https://trevari.co.kr/meetings/show?clubID=9cb74818-842d-43e1-8e38-6705dbbf80e0&order=4) | 성수 | 08월 03일 | 0 / 2 |  | 
-| 다시, 그림이다 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=9d85c651-530b-4f9c-a6fa-1827aef7cb33&order=4) | 강남 | 08월 03일 | 0 / 4 |  | 
-| 페스트 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=4) | 안국 | 08월 03일 | 0 / 2 |  | 
+| 다시, 그림이다 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=9d85c651-530b-4f9c-a6fa-1827aef7cb33&order=4) | 강남 | 08월 03일 | 0 / 5 |  | 
+| 페스트 | [첫토](https://trevari.co.kr/meetings/show?clubID=aaec418e-2c70-43d4-8310-1e98b8f9404d&order=4) | 안국 | 08월 03일 | 0 / 3 |  | 
 | 파워풀 | [브랜드랜드-16](https://trevari.co.kr/meetings/show?clubID=b8404dfb-0800-407d-abf2-fdde2e9352f1&order=4) | 압구정 | 08월 03일 | 0 / 2 |  | 
-| 편의점 인간 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=4) | 압구정 | 08월 03일 | 0 / 3 |  | 
+| 편의점 인간 | [문-그린](https://trevari.co.kr/meetings/show?clubID=daabfc33-7ead-4d17-98a1-2ee81bae2030&order=4) | 압구정 | 08월 03일 | 0 / 6 |  | 
 | 프레임 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=e85e47f3-e96a-4837-9ecc-1278a2170e51&order=4) | 안국 | 08월 03일 | 0 / 2 |  | 
 | 우리가 빛의 속도로 갈 수 없다면(양장본 HardCover) | [16](https://trevari.co.kr/meetings/show?clubID=ed410490-eb6d-4667-a58c-ce431bf7d487&order=4) | 압구정 | 08월 03일 | 0 / 1 |  | 
 | The Fault in Our Stars | [잉잉-앵두](https://trevari.co.kr/meetings/show?clubID=f5c94090-1f51-4eb7-9012-0c2b1cb9c4bd&order=4) | 강남 | 08월 03일 | 0 / 0 |  | 
@@ -209,6 +209,7 @@
 | 혼자일 것 행복할 것 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=82911f3d-df2d-49a9-a5de-101cdd39b04f&order=4) | 압구정 | 08월 17일 | 0 / 0 | 강윤정, 우승우님 | 
 | 아무튼, 술 | [씀-피쓰](https://trevari.co.kr/meetings/show?clubID=880134f9-f670-4ff3-8c05-6ca0237e8186&order=4) | 강남 | 08월 17일 | 0 / 0 |  | 
 | 숨결이 바람 될 때 | [나초-거북이](https://trevari.co.kr/meetings/show?clubID=8995cf36-e673-4cff-8cb7-cb35b7966890&order=4) | 강남 | 08월 17일 | 0 / 0 |  | 
+| 나는 떠났다 그리고 자유를 배웠다 | [체험독서-귤](https://trevari.co.kr/meetings/show?clubID=90231f59-cd37-4626-905c-7a38db15a575&order=4) | 강남 | 08월 17일 | 0 / 0 |  | 
 | 종의 기원 | [체험독서-36](https://trevari.co.kr/meetings/show?clubID=9201f923-0333-4d89-ad81-e1087111d958&order=4) | 성수 | 08월 17일 | 0 / 0 |  | 
 | 테레즈 라캥(개정판)(문학동네 세계문학)(양장본 HardCover), 뮤지컬 테레즈라캥 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=942f3908-38d2-44a9-b322-60e39baea383&order=4) | 안국 | 08월 17일 | 0 / 0 |  | 
 | 슬픔을 공부하는 슬픔 | [체험독서-음악](https://trevari.co.kr/meetings/show?clubID=9c7666c0-ebb0-4b1c-be76-f3d52684ddc5&order=2) | 강남 | 08월 17일 | 0 / 0 |  | 
@@ -240,7 +241,6 @@
 | 이번 생은 처음이라. 1, 이번 생은 처음이라. 2 | [인생+드라마](https://trevari.co.kr/meetings/show?clubID=bd97053b-49e5-4567-b21c-3574768953b4&order=4) | 성수 | 08월 18일 | 0 / 0 |  | 
 | 지적 대화를 위한 넓고 얕은 지식: 현실너머 편 | [무경계-노는인간](https://trevari.co.kr/meetings/show?clubID=d7eafeb5-d522-4259-b381-f01cf2f65e4a&order=2) | 강남 | 08월 18일 | 0 / 0 |  | 
 | 어떻게 나답게 살 것인가 | [나알기](https://trevari.co.kr/meetings/show?clubID=daee6d1f-d17c-4bb9-8a7b-122ad6358d75&order=4) | 강남 | 08월 18일 | 0 / 0 |  | 
-| 달과 6펜스 | [체험독서-에용](https://trevari.co.kr/meetings/show?clubID=e1431305-6f5e-4283-b79a-a65311b1d896&order=4) | 강남 | 08월 18일 | 0 / 0 |  | 
 | 다윈의 식탁 | [자연사](https://trevari.co.kr/meetings/show?clubID=ed656bc7-b82a-4342-9562-f91b31fb5314&order=4) | 안국 | 08월 18일 | 0 / 0 | 이정모님 | 
 | 행운에 속지 마라 | [이콘-임당](https://trevari.co.kr/meetings/show?clubID=300d2a99-debd-4a36-8a6a-44835ccc977f&order=4) | 강남 | 08월 21일 | 0 / 0 |  | 
 | [책읽찌라 추천책] 결국, 컨셉 | [어떤 기획](https://trevari.co.kr/meetings/show?clubID=35fc2a54-e4c7-4d2b-b0da-8398f2fe418b&order=4) | 성수 | 08월 21일 | 0 / 0 | 배은지님 | 
@@ -264,12 +264,13 @@
 | 우리는 미래에 조금 먼저 도착했습니다 | [넷금](https://trevari.co.kr/meetings/show?clubID=041aaeb7-6b8a-42cc-8cf6-46055215694e&order=4) | 안국 | 08월 23일 | 0 / 0 |  | 
 | 플랫폼이 콘텐츠다 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=4d93be0a-60cd-4f01-94e7-c542fa1d4b62&order=4) | 안국 | 08월 23일 | 0 / 0 | 차우진님 | 
 | 판단의 버릇 | [돈돈](https://trevari.co.kr/meetings/show?clubID=87f0c3fc-ba0e-471f-9824-0fcb4453447b&order=4) | 강남 | 08월 23일 | 0 / 0 | 홍진채님 | 
+| 유튜브 레볼루션(YouTube Revolution) | [콘텐츠츠-피쓰](https://trevari.co.kr/meetings/show?clubID=8a489f22-e8c8-4e61-879e-69d858dadb6c&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 외로운 도시 | [45](https://trevari.co.kr/meetings/show?clubID=9311bb5a-a7a3-46a3-99b5-8625e4a8a4b3&order=4) | 압구정 | 08월 23일 | 0 / 0 |  | 
 | 드라이브 | [독한 사람들](https://trevari.co.kr/meetings/show?clubID=a833186d-8076-4e1a-998a-ce722b9bf1c2&order=2) | 강남 | 08월 23일 | 0 / 0 | 김일도님 | 
 | 야구 냄새가 난다 | [야구야구-임당](https://trevari.co.kr/meetings/show?clubID=dee4707c-69ac-424b-97c0-d3fbac1ef81e&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 콘텐츠의 미래 | [콘텐츠츠-넷금](https://trevari.co.kr/meetings/show?clubID=f35d0bee-651a-4533-aca5-08d232fc952d&order=4) | 안국 | 08월 23일 | 0 / 0 |  | 
 | 시스터 아웃사이더 | [GD심화](https://trevari.co.kr/meetings/show?clubID=08a28490-0324-4874-aacd-1e8c0bf989ed&order=4) | 강남 | 08월 24일 | 0 / 0 |  | 
-| 아침에는 죽음을 생각하는 것이 좋다 | [넷토](https://trevari.co.kr/meetings/show?clubID=0caa884d-ee87-41de-a6d5-ef405cbfdb29&order=4) | 안국 | 08월 24일 | 0 / 0 |  | 
+| 아침에는 죽음을 생각하는 것이 좋다 | [넷토](https://trevari.co.kr/meetings/show?clubID=0caa884d-ee87-41de-a6d5-ef405cbfdb29&order=4) | 안국 | 08월 24일 | 0 / 1 |  | 
 | 운동화 신은 뇌 | [헬시어](https://trevari.co.kr/meetings/show?clubID=121fb4a7-3f21-4c1b-bb82-3a89c3293429&order=4) | 안국 | 08월 24일 | 0 / 0 |  | 
 | 협업의 시대(Collaboration) | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=25dd86ed-a4aa-45dd-b54a-81edb9b47f55&order=4) | 강남 | 08월 24일 | 0 / 0 | 이재왕님 | 
 | 유리알 유희(2판)(범우비평판세계문학선 29) | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=3bbda60c-c362-400e-bb0e-acf4e56be8d5&order=4) | 압구정 | 08월 24일 | 0 / 0 | 전병근님 | 
@@ -285,6 +286,7 @@
 | 불안 | [무경계-와춤을](https://trevari.co.kr/meetings/show?clubID=b858f65d-5492-4bc2-86ea-b74914baa177&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
 | 물욕 없는 세계 | [소비자들](https://trevari.co.kr/meetings/show?clubID=cb6a1704-e8dd-49d5-b284-3e26296769d4&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
 | 철학과 굴뚝청소부(2판) | [진진-47](https://trevari.co.kr/meetings/show?clubID=ceb411bb-7ba8-430b-874b-b91ed3ab1a75&order=4) | 성수 | 08월 25일 | 0 / 0 |  | 
+| 달과 6펜스 | [체험독서-에용](https://trevari.co.kr/meetings/show?clubID=e1431305-6f5e-4283-b79a-a65311b1d896&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
 | 원칙 | [투자의 원칙 삶의 원칙](https://trevari.co.kr/meetings/show?clubID=4e48af42-d33d-41ce-991c-38d56e528516&order=2) | 강남 | 08월 28일 | 0 / 0 | 홍진채님 | 
 | 반 고흐, 영혼의 편지 (스페셜 에디션, 양장), 패터슨, 더 와이프 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=4ea1e329-6791-4d19-9a47-8eb2bd46b50c&order=4) | 압구정 | 08월 28일 | 0 / 0 |  | 
 | 뉴미디어(완결편) | [뉴미디어-파티](https://trevari.co.kr/meetings/show?clubID=61936089-bd1e-472b-8ad6-409a9b1bb67f&order=4) | 강남 | 08월 28일 | 0 / 0 |  | 
@@ -319,5 +321,5 @@
 | Three Women | [잉잉-14](https://trevari.co.kr/meetings/show?clubID=e84de933-4ca6-4bb0-8c18-71994383cd57&order=1) | 성수 | 09월 05일 | 0 / 0 |  | 
 | 소비중독 바이러스 어플루엔자, 소비를 그만두다 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=1) | 안국 | 09월 05일 | 0 / 0 | 박재용님 | 
 
-총 301 개  
+총 303 개  
 
