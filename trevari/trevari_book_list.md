@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-03 01:01:15  
+> Updated on 2019-08-03 11:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -240,7 +240,7 @@
 | 저스티스맨, 다크 나이트  | [북씨-블랙](https://trevari.co.kr/meetings/show?clubID=e36ecee0-1ee9-478b-9c37-c4d46b20e2ad&order=4) | 압구정 | 08월 21일 | 0 / 0 |  | 
 | 나음보다 다름 | [폭풍브랜딩!](https://trevari.co.kr/meetings/show?clubID=e90ffb12-a286-4b01-aa58-9e40d188770b&order=4) | 강남 | 08월 21일 | 0 / 1 | 박창선님 | 
 | 미친듯이 심플(양장본 HardCover) | [팔리는 브랜드](https://trevari.co.kr/meetings/show?clubID=f0311951-50e8-41e2-b8a6-a52d649290c4&order=4) | 강남 | 08월 21일 | 0 / 0 | 브랜드보이(안성은)님 | 
-| 키키 키린 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=4) | 강남 | 08월 21일 | 0 / 0 | 천세희님 | 
+| 키키 키린 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=4) | 강남 | 08월 21일 | 0 / 1 | 천세희님 | 
 | 모두 거짓말을 한다 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
 | 구글은 어떻게 여성을 차별하는가 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=090ff0c6-e20c-4d3b-b040-5092556b07e4&order=4) | 안국 | 08월 22일 | 0 / 0 | 박재용님 | 
 | 하이 아웃풋 매니지먼트(양장본 HardCover) | [OKR 오케바리](https://trevari.co.kr/meetings/show?clubID=4ba2c7ff-7111-4e93-98f5-959f2ba6066f&order=4) | 성수 | 08월 22일 | 0 / 0 | 이길상님 | 
@@ -286,6 +286,7 @@
 | 식물 저승사자 | [식물책](https://trevari.co.kr/meetings/show?clubID=6827b318-2667-4d33-911d-2d38c0bf992a&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
 | 예루살렘의 아이히만, 숨그네(세계문학전집 31) | [문학X비문학-넷일](https://trevari.co.kr/meetings/show?clubID=77af49a6-a7c6-4a12-b292-beaf7fe0cc2a&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
 | 불안 | [무경계-와춤을](https://trevari.co.kr/meetings/show?clubID=b858f65d-5492-4bc2-86ea-b74914baa177&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
+| 당신이 옳다 | [체인지메이커](https://trevari.co.kr/meetings/show?clubID=bd459607-e71f-4178-bd65-88f0efb33e38&order=4) | 안국 | 08월 25일 | 0 / 0 | 이혜영님 | 
 | 물욕 없는 세계 | [소비자들](https://trevari.co.kr/meetings/show?clubID=cb6a1704-e8dd-49d5-b284-3e26296769d4&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
 | 철학과 굴뚝청소부(2판) | [진진-47](https://trevari.co.kr/meetings/show?clubID=ceb411bb-7ba8-430b-874b-b91ed3ab1a75&order=4) | 성수 | 08월 25일 | 0 / 0 |  | 
 | 달과 6펜스 | [체험독서-에용](https://trevari.co.kr/meetings/show?clubID=e1431305-6f5e-4283-b79a-a65311b1d896&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
@@ -354,5 +355,5 @@
 | 언제 들어도 좋은 말(이석원 이야기 산문집)(스페셜 에디션) | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=1) | 압구정 | 09월 07일 | 0 / 0 |  | 
 | 50대 사건으로 보는 돈의 역사 | [이콘-수박](https://trevari.co.kr/meetings/show?clubID=2ce4aa33-4c09-4681-9153-e285fda0571b&order=1) | 강남 | 09월 07일 | 0 / 0 |  | 
 
-총 336 개  
+총 337 개  
 
