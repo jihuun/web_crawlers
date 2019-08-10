@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-10 01:01:14  
+> Updated on 2019-08-10 11:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -110,7 +110,7 @@
 | 안나 카레니나 세트(반양장)(전3권) | [문러시아](https://trevari.co.kr/meetings/show?clubID=0abe66a6-a34e-4e76-8c6b-84cd7a586456&order=4) | 강남 | 08월 17일 | 0 / 0 |  | 
 | 도쿄의 디테일 | [일본기획읽기](https://trevari.co.kr/meetings/show?clubID=0fb037e2-5394-44cc-9fe9-66a92ced64d9&order=4) | 강남 | 08월 17일 | 0 / 0 |  | 
 | 픽스, 맥파이 살인 사건 | [셜록-타임](https://trevari.co.kr/meetings/show?clubID=13564e89-1260-4c05-a3e3-61c8f0287dfd&order=4) | 강남 | 08월 17일 | 0 / 1 |  | 
-| 차이의 정치와 정의 | [국경](https://trevari.co.kr/meetings/show?clubID=250977e1-6e7a-47ee-b913-d6636b9cb0dc&order=4) | 압구정 | 08월 17일 | 0 / 0 |  | 
+| 차이의 정치와 정의 | [국경](https://trevari.co.kr/meetings/show?clubID=250977e1-6e7a-47ee-b913-d6636b9cb0dc&order=4) | 압구정 | 08월 17일 | 1 / 0 |  | 
 | 메를로 퐁티의 지각현상학 읽기(세창명저산책 40) | [진진-36](https://trevari.co.kr/meetings/show?clubID=33fe8e91-9225-4264-b6f6-827164bcbacd&order=4) | 성수 | 08월 17일 | 0 / 0 |  | 
 | 박철수의 거주 박물지 | [시민의 도시 대서울을 걷다](https://trevari.co.kr/meetings/show?clubID=42bffc88-d1e2-4171-b5f1-4f2c35c2f845&order=4) | 강남 | 08월 17일 | 1 / 0 | 김시덕님 | 
 | 바깥은 여름 | [셋토](https://trevari.co.kr/meetings/show?clubID=42c68d5e-8af9-4483-87cd-d16f753c8c73&order=4) | 안국 | 08월 17일 | 1 / 2 |  | 
