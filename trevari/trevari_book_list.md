@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-16 01:01:13  
+> Updated on 2019-08-16 11:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -76,21 +76,21 @@
 | 이제 당신의 손을 보여줘요 | [음악의힘-경청](https://trevari.co.kr/meetings/show?clubID=e7616c83-c170-4778-bcaa-3ff12ff97635&order=4) | 성수 | 08월 17일 | 0 / 10 | 조은아 님 | 
 | 팩트풀니스(양장본 HardCover) | [나초-36](https://trevari.co.kr/meetings/show?clubID=f59da3c5-c7fb-4b43-9e0f-1f5ab691bc8c&order=4) | 성수 | 08월 17일 | 0 / 8 |  | 
 | 실격당한 자들을 위한 변론 | [북씨-거북이](https://trevari.co.kr/meetings/show?clubID=fba24ae3-642c-47fd-b9da-704eabc4e7e0&order=4) | 강남 | 08월 17일 | 0 / 9 |  | 
-| 여행의 이유 | [37](https://trevari.co.kr/meetings/show?clubID=01074ad6-f51b-4e37-aa06-6ebdb8870314&order=4) | 압구정 | 08월 18일 | 0 / 2 |  | 
-| 모두 거짓말을 한다 | [무경계-하네](https://trevari.co.kr/meetings/show?clubID=01334cee-18db-40db-b8b3-89628b37f21a&order=4) | 강남 | 08월 18일 | 0 / 1 |  | 
-| 열두 발자국 | [워너원](https://trevari.co.kr/meetings/show?clubID=033942b4-d9ea-4949-b42c-26db71aa27e5&order=4) | 압구정 | 08월 18일 | 0 / 0 | 강윤정님 | 
-| 여행의 이유 | [체험독서-셋일](https://trevari.co.kr/meetings/show?clubID=0838373c-699d-4a25-ba49-6c87522a3e5a&order=4) | 안국 | 08월 18일 | 0 / 1 |  | 
+| 여행의 이유 | [37](https://trevari.co.kr/meetings/show?clubID=01074ad6-f51b-4e37-aa06-6ebdb8870314&order=4) | 압구정 | 08월 18일 | 1 / 2 |  | 
+| 모두 거짓말을 한다 | [무경계-하네](https://trevari.co.kr/meetings/show?clubID=01334cee-18db-40db-b8b3-89628b37f21a&order=4) | 강남 | 08월 18일 | 0 / 3 |  | 
+| 열두 발자국 | [워너원](https://trevari.co.kr/meetings/show?clubID=033942b4-d9ea-4949-b42c-26db71aa27e5&order=4) | 압구정 | 08월 18일 | 0 / 1 | 강윤정님 | 
+| 여행의 이유 | [체험독서-셋일](https://trevari.co.kr/meetings/show?clubID=0838373c-699d-4a25-ba49-6c87522a3e5a&order=4) | 안국 | 08월 18일 | 0 / 2 |  | 
 | [책읽남 추천책] 걷는 사람, 하정우 | [기획자의노트](https://trevari.co.kr/meetings/show?clubID=13b4cd3f-7e8f-4691-8085-a2b2ccd1ae70&order=4) | 성수 | 08월 18일 | 0 / 4 |  | 
-| 말센스 | [말잘러](https://trevari.co.kr/meetings/show?clubID=1a38feb8-7675-4964-bf78-0eb9c42bd3c5&order=4) | 성수 | 08월 18일 | 0 / 0 |  | 
+| 말센스 | [말잘러](https://trevari.co.kr/meetings/show?clubID=1a38feb8-7675-4964-bf78-0eb9c42bd3c5&order=4) | 성수 | 08월 18일 | 0 / 1 |  | 
 | 약한 연결 | [체험독서-디톡스](https://trevari.co.kr/meetings/show?clubID=3b26a00f-bf31-4047-b0a5-d1ac508da7e5&order=2) | 안국 | 08월 18일 | 0 / 3 |  | 
 | 오가닉 미디어 | [1코노미](https://trevari.co.kr/meetings/show?clubID=59aac5cc-a12a-486c-9c27-3b13cd624c65&order=4) | 성수 | 08월 18일 | 0 / 1 |  | 
-| 서울의 3년 이하 퇴사자의 가게들 | [그 인터뷰](https://trevari.co.kr/meetings/show?clubID=649cff18-acca-4cc0-93b8-b44945389c88&order=4) | 강남 | 08월 18일 | 1 / 2 | 손현님 | 
+| 서울의 3년 이하 퇴사자의 가게들 | [그 인터뷰](https://trevari.co.kr/meetings/show?clubID=649cff18-acca-4cc0-93b8-b44945389c88&order=4) | 강남 | 08월 18일 | 2 / 2 | 손현님 | 
 | 인어가 잠든 집, 메멘토 | [북씨-물개](https://trevari.co.kr/meetings/show?clubID=7aa35b75-aaef-4d64-9ab1-52dd14a2dfcb&order=4) | 강남 | 08월 18일 | 0 / 0 |  | 
 | 나는 오늘도 소진되고 있습니다 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=8cce5a39-3da1-4933-8b9f-786189bcd761&order=4) | 압구정 | 08월 18일 | 1 / 3 | 이아연님 | 
-| 숨, 클라우드 아틀라스 (Cloud Atlas , 2012) | [북씨-노랑](https://trevari.co.kr/meetings/show?clubID=95652008-0a45-41c4-9ee6-182693d1a957&order=4) | 안국 | 08월 18일 | 0 / 1 |  | 
+| 숨, 클라우드 아틀라스 (Cloud Atlas , 2012) | [북씨-노랑](https://trevari.co.kr/meetings/show?clubID=95652008-0a45-41c4-9ee6-182693d1a957&order=4) | 안국 | 08월 18일 | 0 / 2 |  | 
 | 죽도록 먹고 마시는 심리학 | [무경계-알쓸넓얕](https://trevari.co.kr/meetings/show?clubID=a0e332ab-a0f7-414f-99bc-f14d2abada89&order=2) | 안국 | 08월 18일 | 0 / 3 |  | 
 | 매경이코노미 2020호 | [경제잡지](https://trevari.co.kr/meetings/show?clubID=ad437199-caf5-4243-b82e-95ba66a3f423&order=4) | 성수 | 08월 18일 | 0 / 0 |  | 
-| Monocle 2019년 7&8월 합본호 | [모노클클](https://trevari.co.kr/meetings/show?clubID=af4c6dc5-358c-4b93-9235-5166de53e361&order=4) | 압구정 | 08월 18일 | 0 / 0 |  | 
+| Monocle 2019년 7&8월 합본호 | [모노클클](https://trevari.co.kr/meetings/show?clubID=af4c6dc5-358c-4b93-9235-5166de53e361&order=4) | 압구정 | 08월 18일 | 0 / 1 |  | 
 | 파워풀 | [콘텐츠츠-고래](https://trevari.co.kr/meetings/show?clubID=af8bb0f6-4e13-4f64-8994-aba2020afc7b&order=4) | 강남 | 08월 18일 | 0 / 3 |  | 
 | 이번 생은 처음이라. 1, 이번 생은 처음이라. 2 | [인생+드라마](https://trevari.co.kr/meetings/show?clubID=bd97053b-49e5-4567-b21c-3574768953b4&order=4) | 성수 | 08월 18일 | 0 / 0 |  | 
 | 지적 대화를 위한 넓고 얕은 지식: 현실너머 편 | [무경계-노는인간](https://trevari.co.kr/meetings/show?clubID=d7eafeb5-d522-4259-b381-f01cf2f65e4a&order=2) | 강남 | 08월 18일 | 0 / 3 |  | 
@@ -110,7 +110,7 @@
 | 나음보다 다름 | [폭풍브랜딩!](https://trevari.co.kr/meetings/show?clubID=e90ffb12-a286-4b01-aa58-9e40d188770b&order=4) | 강남 | 08월 21일 | 0 / 1 | 박창선님 | 
 | 미친듯이 심플(양장본 HardCover) | [팔리는 브랜드](https://trevari.co.kr/meetings/show?clubID=f0311951-50e8-41e2-b8a6-a52d649290c4&order=4) | 강남 | 08월 21일 | 2 / 0 | 브랜드보이(안성은)님 | 
 | 키키 키린 | [잘노는 언니](https://trevari.co.kr/meetings/show?clubID=f1d8a84c-a60b-4b70-99ad-e204a8000e62&order=4) | 강남 | 08월 21일 | 0 / 1 | 천세희님 | 
-| 포노 사피엔스 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=f2110b6b-0644-4289-9e11-028c575a52e1&order=4) | 안국 | 08월 21일 | 0 / 0 | 신기주님 | 
+| 포노 사피엔스 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=f2110b6b-0644-4289-9e11-028c575a52e1&order=4) | 안국 | 08월 21일 | 0 / 1 | 신기주님 | 
 | 모두 거짓말을 한다 | [사이드프로젝트-끼리](https://trevari.co.kr/meetings/show?clubID=bc3b3299-b751-48cf-a687-cc218ff4ccf6&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
 | 구글은 어떻게 여성을 차별하는가 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=090ff0c6-e20c-4d3b-b040-5092556b07e4&order=4) | 안국 | 08월 22일 | 0 / 0 | 박재용님 | 
 | 금융의 모험 | [돈의흐름-끼리](https://trevari.co.kr/meetings/show?clubID=1f19e9cb-86a5-4ad0-8aa2-e4c1eda06e83&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
@@ -183,7 +183,7 @@
 | 식물 저승사자 | [식물책](https://trevari.co.kr/meetings/show?clubID=6827b318-2667-4d33-911d-2d38c0bf992a&order=4) | 강남 | 08월 25일 | 0 / 1 |  | 
 | 예루살렘의 아이히만, 숨그네(세계문학전집 31) | [문학X비문학-넷일](https://trevari.co.kr/meetings/show?clubID=77af49a6-a7c6-4a12-b292-beaf7fe0cc2a&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
 | 불안 | [무경계-와춤을](https://trevari.co.kr/meetings/show?clubID=b858f65d-5492-4bc2-86ea-b74914baa177&order=4) | 강남 | 08월 25일 | 0 / 0 |  | 
-| 오늘도 인생을 찍습니다 | [찰칵](https://trevari.co.kr/meetings/show?clubID=bd1a358a-5532-4008-b279-80dc7f5a5af4&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
+| 오늘도 인생을 찍습니다 | [찰칵](https://trevari.co.kr/meetings/show?clubID=bd1a358a-5532-4008-b279-80dc7f5a5af4&order=4) | 안국 | 08월 25일 | 0 / 1 |  | 
 | 당신이 옳다 | [체인지메이커](https://trevari.co.kr/meetings/show?clubID=bd459607-e71f-4178-bd65-88f0efb33e38&order=4) | 안국 | 08월 25일 | 0 / 0 | 이혜영님 | 
 | 물욕 없는 세계 | [소비자들](https://trevari.co.kr/meetings/show?clubID=cb6a1704-e8dd-49d5-b284-3e26296769d4&order=4) | 안국 | 08월 25일 | 0 / 0 |  | 
 | 철학과 굴뚝청소부(2판) | [진진-47](https://trevari.co.kr/meetings/show?clubID=ceb411bb-7ba8-430b-874b-b91ed3ab1a75&order=4) | 성수 | 08월 25일 | 0 / 0 |  | 
@@ -257,6 +257,7 @@
 | 나를 찾아줘 | [북씨-둘금](https://trevari.co.kr/meetings/show?clubID=f68461a4-2ee1-479f-a46e-0ab100204cca&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
 | 건축예찬(열화당 미술 책방 1) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=1) | 안국 | 09월 06일 | 0 / 0 | 황두진님 | 
 | 그리스인 조르바(열린책들세계문학21) | [첫금](https://trevari.co.kr/meetings/show?clubID=fc96279f-e837-479f-8987-f461ded59233&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
+| 팩트풀니스(양장본 HardCover), 완벽한 타인 | [북씨-리뷰](https://trevari.co.kr/meetings/show?clubID=06e6755d-e279-4cf0-9001-924d0c3b90ef&order=3) | 안국 | 09월 07일 | 0 / 0 |  | 
 | 매경이코노미(8월28일 발행호) | [경제잡지](https://trevari.co.kr/meetings/show?clubID=223049a5-9afb-4f7b-a39e-8403b87f34d2&order=1) | 성수 | 09월 07일 | 0 / 0 |  | 
 | 끌리는 컨셉 만들기 | [마케팅-사과](https://trevari.co.kr/meetings/show?clubID=27bfc827-9928-4d65-a5fc-144fa2561cd3&order=1) | 강남 | 09월 07일 | 0 / 0 |  | 
 | 음악 혐오(양장본 HardCover) | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=283fdaa0-b3e1-4f96-82ad-f5fdc62ef795&order=1) | 안국 | 09월 07일 | 0 / 0 | 이충걸님 | 
@@ -446,5 +447,5 @@
 | 참을 수 없는 존재의 가벼움, 영화 <우리도 사랑일까>(Take This Waltz, 2011) | [북씨-완두콩](https://trevari.co.kr/meetings/show?clubID=ecbfba9e-fb87-45cf-81ea-2aaa7adb2dfb&order=1) | 강남 | 09월 22일 | 0 / 0 |  | 
 | 맛있는 맥주 인문학 | [체험독서-에용](https://trevari.co.kr/meetings/show?clubID=ef8bbdc3-ddf0-41b3-80bd-d98adcfef1df&order=1) | 강남 | 09월 22일 | 0 / 0 |  | 
 
-총 426 개  
+총 427 개  
 
