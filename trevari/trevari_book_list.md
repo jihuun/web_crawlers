@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-18 01:01:13  
+> Updated on 2019-08-18 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -72,7 +72,7 @@
 | 중국을 빚어낸 여섯 도읍지 이야기 | [쩐빵_지地](https://trevari.co.kr/meetings/show?clubID=86032e2b-57d7-4dba-86fc-d1c69ed82566&order=4) | 강남 | 08월 23일 | 2 / 0 | 이승규님 | 
 | 판단의 버릇 | [돈돈](https://trevari.co.kr/meetings/show?clubID=87f0c3fc-ba0e-471f-9824-0fcb4453447b&order=4) | 강남 | 08월 23일 | 1 / 0 | 홍진채님 | 
 | 유튜브 레볼루션(YouTube Revolution) | [콘텐츠츠-피쓰](https://trevari.co.kr/meetings/show?clubID=8a489f22-e8c8-4e61-879e-69d858dadb6c&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
-| 외로운 도시 | [45](https://trevari.co.kr/meetings/show?clubID=9311bb5a-a7a3-46a3-99b5-8625e4a8a4b3&order=4) | 압구정 | 08월 23일 | 0 / 0 |  | 
+| 외로운 도시 | [45](https://trevari.co.kr/meetings/show?clubID=9311bb5a-a7a3-46a3-99b5-8625e4a8a4b3&order=4) | 압구정 | 08월 23일 | 0 / 1 |  | 
 | 드라이브 | [독한 사람들](https://trevari.co.kr/meetings/show?clubID=a833186d-8076-4e1a-998a-ce722b9bf1c2&order=2) | 강남 | 08월 23일 | 0 / 1 | 김일도님 | 
 | 사업을 한다는 것(CEO의 서재 시리즈 16) | [실리콘밸리스토리-와우](https://trevari.co.kr/meetings/show?clubID=a89e1b9d-8e81-46ce-9d0d-9f409dbe59e8&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 어린 왕자, 라라랜드 | [북씨-공장](https://trevari.co.kr/meetings/show?clubID=b7f77eda-ba74-4a5a-bd7f-75c1053c9920&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
@@ -405,7 +405,7 @@
 | 브랜드가 되어 간다는 것 | [마케팅-보라](https://trevari.co.kr/meetings/show?clubID=f9e0c7da-b48a-43ba-988b-d02126de530f&order=1) | 안국 | 09월 25일 | 0 / 0 |  | 
 | 수선화 살인사건(에드거 월리스 미스터리 걸작선 3), 잘린 머리처럼 불길한 것(블랙 앤 화이트 23) | [셜록-44](https://trevari.co.kr/meetings/show?clubID=530f0d33-627d-4b51-96a8-b37b68a640fa&order=1) | 압구정 | 09월 26일 | 0 / 0 |  | 
 | 헤비듀티 | [패션을 보고 읽자](https://trevari.co.kr/meetings/show?clubID=537ac408-6612-40ca-87a9-1c93b4ef77db&order=1) | 성수 | 09월 26일 | 0 / 0 | 박세진님 | 
-| 여행의 이유(반양장본) | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=5c5d4c9a-ff9b-4b65-b3f8-f4c08d9cef72&order=1) | 안국 | 09월 26일 | 0 / 0 |  | 
+| 여행의 이유(반양장본) | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=5c5d4c9a-ff9b-4b65-b3f8-f4c08d9cef72&order=1) | 안국 | 09월 26일 | 0 / 1 |  | 
 | 파이돈(정암학당 플라톤 전집 15) | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=1) | 압구정 | 09월 26일 | 0 / 0 |  | 
 | 青春 | [쭝쭝](https://trevari.co.kr/meetings/show?clubID=76cff246-f27d-40f2-a538-fb2136ddc7fe&order=1) | 강남 | 09월 26일 | 0 / 0 |  | 
 | 101가지 비즈니스 모델 이야기(2018 에디션)(성공하는 스타트업을 위한)(양장... | [스타트업 기웃기웃](https://trevari.co.kr/meetings/show?clubID=7f036fbb-3f4a-4b66-a91d-2b1df21e1cb4&order=1) | 강남 | 09월 26일 | 0 / 0 | 최경희님 | 
