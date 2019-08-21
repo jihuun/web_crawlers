@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-21 01:01:12  
+> Updated on 2019-08-21 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -47,10 +47,10 @@
 | 우리는 미래에 조금 먼저 도착했습니다 | [넷금](https://trevari.co.kr/meetings/show?clubID=041aaeb7-6b8a-42cc-8cf6-46055215694e&order=4) | 안국 | 08월 23일 | 0 / 0 |  | 
 | 나는 4시간만 일한다. | [사이드프로젝트-45](https://trevari.co.kr/meetings/show?clubID=40522504-8c39-48ab-94e9-e46ccd2d197c&order=4) | 압구정 | 08월 23일 | 0 / 0 |  | 
 | 플랫폼이 콘텐츠다 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=4d93be0a-60cd-4f01-94e7-c542fa1d4b62&order=4) | 안국 | 08월 23일 | 0 / 0 | 차우진님 | 
-| 금융의 모험 | [돈의흐름-앵두](https://trevari.co.kr/meetings/show?clubID=57852982-1d00-4516-8d14-9de668a42a8e&order=4) | 강남 | 08월 23일 | 0 / 1 |  | 
-| The Five People You Meet in Heaven | [잉잉-45](https://trevari.co.kr/meetings/show?clubID=68deef16-f433-45eb-8f9c-0f129493ff3d&order=4) | 압구정 | 08월 23일 | 0 / 1 |  | 
+| 금융의 모험 | [돈의흐름-앵두](https://trevari.co.kr/meetings/show?clubID=57852982-1d00-4516-8d14-9de668a42a8e&order=4) | 강남 | 08월 23일 | 0 / 2 |  | 
+| The Five People You Meet in Heaven | [잉잉-45](https://trevari.co.kr/meetings/show?clubID=68deef16-f433-45eb-8f9c-0f129493ff3d&order=4) | 압구정 | 08월 23일 | 0 / 2 |  | 
 | 중국을 빚어낸 여섯 도읍지 이야기 | [쩐빵_지地](https://trevari.co.kr/meetings/show?clubID=86032e2b-57d7-4dba-86fc-d1c69ed82566&order=4) | 강남 | 08월 23일 | 3 / 1 | 이승규님 | 
-| 판단의 버릇 | [돈돈](https://trevari.co.kr/meetings/show?clubID=87f0c3fc-ba0e-471f-9824-0fcb4453447b&order=4) | 강남 | 08월 23일 | 1 / 2 | 홍진채님 | 
+| 판단의 버릇 | [돈돈](https://trevari.co.kr/meetings/show?clubID=87f0c3fc-ba0e-471f-9824-0fcb4453447b&order=4) | 강남 | 08월 23일 | 1 / 3 | 홍진채님 | 
 | 유튜브 레볼루션(YouTube Revolution) | [콘텐츠츠-피쓰](https://trevari.co.kr/meetings/show?clubID=8a489f22-e8c8-4e61-879e-69d858dadb6c&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 외로운 도시 | [45](https://trevari.co.kr/meetings/show?clubID=9311bb5a-a7a3-46a3-99b5-8625e4a8a4b3&order=4) | 압구정 | 08월 23일 | 1 / 1 |  | 
 | 드라이브 | [독한 사람들](https://trevari.co.kr/meetings/show?clubID=a833186d-8076-4e1a-998a-ce722b9bf1c2&order=2) | 강남 | 08월 23일 | 0 / 5 | 김일도님 | 
@@ -69,7 +69,7 @@
 | 지의 최전선(이어령의) | [사이드프로젝트-지금](https://trevari.co.kr/meetings/show?clubID=217200c1-35b8-436f-a19f-35a024e1dac0&order=2) | 성수 | 08월 24일 | 1 / 3 |  | 
 | 협업의 시대(Collaboration) | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=25dd86ed-a4aa-45dd-b54a-81edb9b47f55&order=4) | 강남 | 08월 24일 | 0 / 0 | 이재왕님 | 
 | 유리알 유희(2판)(범우비평판세계문학선 29) | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=3bbda60c-c362-400e-bb0e-acf4e56be8d5&order=4) | 압구정 | 08월 24일 | 0 / 0 | 전병근님 | 
-| 하드씽 | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=3dc0cf47-6d00-4c86-bf16-edf1c63f7662&order=4) | 성수 | 08월 24일 | 0 / 3 |  | 
+| 하드씽 | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=3dc0cf47-6d00-4c86-bf16-edf1c63f7662&order=4) | 성수 | 08월 24일 | 1 / 3 |  | 
 | 숨 | [무경계-고고](https://trevari.co.kr/meetings/show?clubID=496ed72e-1738-4061-9d48-a97fa6f91086&order=4) | 강남 | 08월 24일 | 0 / 0 |  | 
 | 알랭 드 보통의 영혼의 미술관 | [무경계-함께](https://trevari.co.kr/meetings/show?clubID=56ba189d-97d9-4c2a-b372-a2331b3d7467&order=2) | 성수 | 08월 24일 | 0 / 2 |  | 
 | 최고의 팀은 무엇이 다른가 | [스타트업 성장을 위한 극약 처방소](https://trevari.co.kr/meetings/show?clubID=5810104e-ec66-4edc-bdcc-ab290f46b7fe&order=4) | 강남 | 08월 24일 | 0 / 1 | 김미희님 | 
@@ -92,7 +92,7 @@
 | 평균의 종말 | [독토](https://trevari.co.kr/meetings/show?clubID=e5b1f697-524b-4425-8196-421df5a3ddac&order=4) | 압구정 | 08월 24일 | 0 / 2 |  | 
 | 불안 | [무경계-믹스](https://trevari.co.kr/meetings/show?clubID=f7f86c5f-f372-4c8a-9443-d5a7f0c2a6e1&order=2) | 강남 | 08월 24일 | 0 / 4 |  | 
 | 파인 다이닝(바통 2) | [체험독서-맛집](https://trevari.co.kr/meetings/show?clubID=0f25d024-19f7-44b6-bc7f-3a8ece64a25e&order=2) | 강남 | 08월 25일 | 1 / 1 |  | 
-| 유튜브 레볼루션(YouTube Revolution) | [사이드프로젝트-유튜버](https://trevari.co.kr/meetings/show?clubID=12b8ff2e-e3be-4a85-b7d6-20e69c8a7b7d&order=2) | 성수 | 08월 25일 | 0 / 1 |  | 
+| 유튜브 레볼루션(YouTube Revolution) | [사이드프로젝트-유튜버](https://trevari.co.kr/meetings/show?clubID=12b8ff2e-e3be-4a85-b7d6-20e69c8a7b7d&order=2) | 성수 | 08월 25일 | 0 / 2 |  | 
 | 2019.08_스타트업핫이슈뽀개기 | [스타트업 핫이슈 뽀개기](https://trevari.co.kr/meetings/show?clubID=1e655f62-d6c9-4d9b-a4f5-94c38f5d9d24&order=4) | 성수 | 08월 25일 | 0 / 0 | 최용식, 김상우님 | 
 | 굿 라이프 | [마음-넷일](https://trevari.co.kr/meetings/show?clubID=2638b206-e555-4326-8b47-c292de36c7de&order=4) | 안국 | 08월 25일 | 1 / 1 |  | 
 | 롤리타, 어떤 양형 이유 | [문학X비문학-47](https://trevari.co.kr/meetings/show?clubID=28e69e75-fb16-4c44-a37f-81e35ed24e26&order=4) | 압구정 | 08월 25일 | 0 / 0 |  | 
