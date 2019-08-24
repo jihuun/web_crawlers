@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-24 20:01:12  
+> Updated on 2019-08-25 01:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -48,9 +48,9 @@
 | 뉴미디어(완결편) | [뉴미디어-파티](https://trevari.co.kr/meetings/show?clubID=61936089-bd1e-472b-8ad6-409a9b1bb67f&order=4) | 강남 | 08월 28일 | 0 / 0 |  | 
 | DBR 278호 가벼움에 대하여 | [DBR 함께 읽기](https://trevari.co.kr/meetings/show?clubID=75778195-faf5-49ee-9285-b7338f360083&order=4) | 안국 | 08월 28일 | 0 / 1 | 동아비즈니스리뷰, 김남국, 고승연, 이방실, 최한나님 | 
 | 긱 워커로 사는 법 | [사이드프로젝트-해피](https://trevari.co.kr/meetings/show?clubID=7d70fcf5-b864-4bfa-8a5b-18772ce4b1cc&order=4) | 강남 | 08월 28일 | 0 / 0 |  | 
-| 기획자의 습관 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=82ae1c93-990b-4c5b-a257-27c516a1fc73&order=4) | 성수 | 08월 28일 | 1 / 0 |  | 
+| 기획자의 습관 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=82ae1c93-990b-4c5b-a257-27c516a1fc73&order=4) | 성수 | 08월 28일 | 1 / 1 |  | 
 | 글자 풍경, Man Ray | [튜링의 아틀리에](https://trevari.co.kr/meetings/show?clubID=9caf5711-b598-4c20-af92-953251502d4d&order=4) | 안국 | 08월 28일 | 1 / 1 | 유지원님 | 
-| 기획자의 습관 | [마케터즈-하네](https://trevari.co.kr/meetings/show?clubID=9d5d46d1-9e08-4c34-acfd-f4c506378763&order=4) | 강남 | 08월 28일 | 0 / 0 |  | 
+| 기획자의 습관 | [마케터즈-하네](https://trevari.co.kr/meetings/show?clubID=9d5d46d1-9e08-4c34-acfd-f4c506378763&order=4) | 강남 | 08월 28일 | 0 / 1 |  | 
 | 매거진 B(Magazine B) No.50: Seoul(한글판)(Second Edition)(개정판) | [마케팅-보라](https://trevari.co.kr/meetings/show?clubID=d91e450b-5edf-41fe-8f37-b96b82a24280&order=4) | 안국 | 08월 28일 | 1 / 1 |  | 
 | 디자인에 집중하라(양장본 HardCover) | [InVi](https://trevari.co.kr/meetings/show?clubID=eede6f2c-499e-4645-b5d5-8b06a727929d&order=4) | 퍼셉션 | 08월 28일 | 0 / 0 | 최소현님 | 
 | 취향을 설계하는 곳, 츠타야 | [제품/서비스기획자들-팝콘](https://trevari.co.kr/meetings/show?clubID=929ebd4b-9a9f-4deb-a667-83c075be17ab&order=4) | 강남 | 08월 29일 | 0 / 0 |  | 
