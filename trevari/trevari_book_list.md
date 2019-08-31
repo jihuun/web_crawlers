@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-31 01:01:12  
+> Updated on 2019-08-31 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -62,7 +62,7 @@
 | 그로스 아이큐(Growth IQ) : 성공을 위한 10가지 경로 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=ab767d8a-e147-4ce2-96b1-84271030d6e3&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
 | 아들이 사람을 죽였습니다 | [왜애-농장](https://trevari.co.kr/meetings/show?clubID=bb8c6c99-573f-427d-b7ab-9307bc94f620&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
 | 나쁜 소녀의 짓궂음 | [문-라임](https://trevari.co.kr/meetings/show?clubID=d9339f81-fcd8-4bf2-8f8e-02aa205f3042&order=1) | 압구정 | 09월 06일 | 0 / 1 |  | 
-| 국경의 남쪽 태양의 서쪽(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=1) | 압구정 | 09월 06일 | 0 / 2 |  | 
+| 국경의 남쪽 태양의 서쪽(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=1) | 압구정 | 09월 06일 | 0 / 3 |  | 
 | 나를 찾아줘 | [북씨-둘금](https://trevari.co.kr/meetings/show?clubID=f68461a4-2ee1-479f-a46e-0ab100204cca&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
 | 건축예찬(열화당 미술 책방 1) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=1) | 안국 | 09월 06일 | 0 / 1 | 황두진님 | 
 | 그리스인 조르바(열린책들세계문학21) | [첫금](https://trevari.co.kr/meetings/show?clubID=fc96279f-e837-479f-8987-f461ded59233&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
@@ -106,7 +106,7 @@
 | 불평등의 대가 | [국내이슈-26](https://trevari.co.kr/meetings/show?clubID=d2196cda-04a2-43ce-b7d2-b1f8256302ab&order=1) | 압구정 | 09월 07일 | 0 / 0 |  | 
 | The Mastery of Love | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=fa845dc0-ae7d-4801-a061-cf93ba915384&order=1) | 안국 | 09월 07일 | 0 / 1 |  | 
 | 알랭 드 보통의 영혼의 미술관 | [둘일](https://trevari.co.kr/meetings/show?clubID=43fc495b-9cd5-4520-afdc-9fa83f2cdd9e&order=1) | 안국 | 09월 08일 | 0 / 1 |  | 
-| 철학이 필요한 순간 | [진진F](https://trevari.co.kr/meetings/show?clubID=50645c67-9096-4613-b695-85e6814eee49&order=1) | 안국 | 09월 08일 | 0 / 0 |  | 
+| 철학이 필요한 순간 | [진진F](https://trevari.co.kr/meetings/show?clubID=50645c67-9096-4613-b695-85e6814eee49&order=1) | 안국 | 09월 08일 | 0 / 1 |  | 
 | 매일 아침 써봤니? | [사이드프로젝트-파랑](https://trevari.co.kr/meetings/show?clubID=593b6821-64d1-411e-b84e-01b677270a59&order=1) | 압구정 | 09월 08일 | 0 / 2 |  | 
 | 미니멀리스트, 미니멀리즘 | [머구모 2기](https://trevari.co.kr/meetings/show?clubID=59bfb583-0d98-46c0-9aed-fd602a484e5a&order=3) | 강남 | 09월 08일 | 1 / 2 | 신상철님 | 
 | 모든 것이 되는 법 | [사이드프로젝트-행복](https://trevari.co.kr/meetings/show?clubID=68919cb1-f5c6-40fa-a3ec-b41f3a773c4d&order=1) | 강남 | 09월 08일 | 0 / 0 |  | 
