@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-08-31 11:01:13  
+> Updated on 2019-08-31 20:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -23,7 +23,7 @@
 |  손정의 300년 왕국의 야망 | [Unsung Unicorn](https://trevari.co.kr/meetings/show?clubID=16b97f49-c9cf-4939-91db-3e0216fbb571&order=1) | 압구정 | 09월 01일 | 1 / 17 | 정상엽님 | 
 | 머니볼(Money Ball) | [창업과 투자 사이](https://trevari.co.kr/meetings/show?clubID=6128ecc3-9ab7-4eda-b4a4-36acc0908905&order=1) | 성수 | 09월 01일 | 2 / 16 | 박지웅님 | 
 | 눈먼 자들의 도시, 킬링 디어 | [북씨-빨강](https://trevari.co.kr/meetings/show?clubID=6e047921-e4d0-48ae-91e5-7ec0bc3a53a3&order=1) | 안국 | 09월 01일 | 0 / 10 |  | 
-| 다시 찾은 브라이즈헤드(세계문학전집 357) | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=734d0ece-8682-4202-b83a-f698d124ead7&order=1) | 안국 | 09월 01일 | 1 / 17 | 이충걸님 | 
+| 다시 찾은 브라이즈헤드(세계문학전집 357) | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=734d0ece-8682-4202-b83a-f698d124ead7&order=1) | 안국 | 09월 01일 | 1 / 19 | 이충걸님 | 
 | 하마터면 열심히 살 뻔했다 | [나초-해피](https://trevari.co.kr/meetings/show?clubID=772be70e-196e-473a-809b-b7a613917848&order=1) | 강남 | 09월 01일 | 0 / 11 |  | 
 | 대화에 대하여(양장본 HardCover) | [TED읽기-17](https://trevari.co.kr/meetings/show?clubID=7874c59e-dd87-4fc5-9bb3-88a400822ad9&order=1) | 압구정 | 09월 01일 | 0 / 14 |  | 
 | 운다고 달라지는 일은 아무것도 없겠지만 | [씀-화이트](https://trevari.co.kr/meetings/show?clubID=79431d99-76ea-4424-a291-ec6ef3a8347c&order=1) | 압구정 | 09월 01일 | 3 / 8 |  | 
@@ -38,21 +38,20 @@
 | 순박한 마음(쏜살문고) | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=921dca05-0023-4793-95e1-aec41037b7ce&order=1) | 강남 | 09월 04일 | 0 / 2 |  | 
 | 추억의 절반은 맛이다 | [우리는 오늘도 먹기 위해 산다](https://trevari.co.kr/meetings/show?clubID=96c62384-7ce7-47d5-8ef3-34787c324b31&order=1) | 강남 | 09월 04일 | 1 / 1 | 박찬일님 | 
 | 체험 마케팅 | [브랜드 깊알 시즌2](https://trevari.co.kr/meetings/show?clubID=e0b066d7-e90e-45a3-bcf0-5e5492225eec&order=1) | 강남 | 09월 04일 | 0 / 0 | 박항기님 | 
-| 그로잉 업(Growing Up) | [김상헌과 함께 책읽기](https://trevari.co.kr/meetings/show?clubID=f560ec21-9388-4d14-b41e-df741a52f06d&order=1) | 안국 | 09월 04일 | 0 / 0 | 김상헌님 | 
-| 나는 4시간만 일한다. | [사이드프로젝트-첫목](https://trevari.co.kr/meetings/show?clubID=1f57bdfb-c81f-468e-9bd4-d393dcffbb27&order=1) | 안국 | 09월 05일 | 0 / 0 |  | 
+| 그로잉 업(Growing Up) | [김상헌과 함께 책읽기](https://trevari.co.kr/meetings/show?clubID=f560ec21-9388-4d14-b41e-df741a52f06d&order=1) | 안국 | 09월 04일 | 0 / 1 | 김상헌님 | 
+| 나는 4시간만 일한다. | [사이드프로젝트-첫목](https://trevari.co.kr/meetings/show?clubID=1f57bdfb-c81f-468e-9bd4-d393dcffbb27&order=1) | 안국 | 09월 05일 | 0 / 1 |  | 
 | 차이나 이노베이션 | [차이나스토리-첫목](https://trevari.co.kr/meetings/show?clubID=35250bb5-4788-40d2-bc19-3366d2c6cda9&order=1) | 강남 | 09월 05일 | 0 / 3 | 김민지님 | 
 | 설탕을 고발한다(양장본 HardCover) | [넘버스](https://trevari.co.kr/meetings/show?clubID=36d39712-5a92-42af-aeb3-5dc8f3884879&order=1) | 압구정 | 09월 05일 | 0 / 0 | 황승식님 | 
 | 어떻게 원하는 것을 얻는가? | [협상은 어떻게 삶의 무기가 되는가](https://trevari.co.kr/meetings/show?clubID=a86bea8a-37d1-432c-aa2a-1883ee3c252d&order=1) | 성수 | 09월 05일 | 0 / 1 | 류재언님 | 
 | 가족도 리콜이 되나요? | [생존 법률](https://trevari.co.kr/meetings/show?clubID=cc6a1c34-eb87-4001-8d48-4e39d35ab569&order=1) | 안국 | 09월 05일 | 0 / 1 | 노소라님 | 
-| Three Women | [잉잉-14](https://trevari.co.kr/meetings/show?clubID=e84de933-4ca6-4bb0-8c18-71994383cd57&order=1) | 성수 | 09월 05일 | 0 / 0 |  | 
-| 소비중독 바이러스 어플루엔자, 소비를 그만두다 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=1) | 안국 | 09월 05일 | 0 / 0 | 박재용님 | 
+| 소비중독 바이러스 어플루엔자, 소비를 그만두다 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=1) | 안국 | 09월 05일 | 0 / 2 | 박재용님 | 
 | 권도균의 스타트업 경영 수업 | [스타텁-블랙](https://trevari.co.kr/meetings/show?clubID=05a59ea6-d296-47f1-9e58-ade72791bccc&order=1) | 압구정 | 09월 06일 | 0 / 1 |  | 
 | 밤의 피크닉 | [체험독서-15](https://trevari.co.kr/meetings/show?clubID=0f18c6c9-3e69-4abe-9fcb-2b0ca250561f&order=1) | 압구정 | 09월 06일 | 0 / 0 |  | 
 | 나의 한국 현대사 | [력사](https://trevari.co.kr/meetings/show?clubID=11b649e6-a351-4e4e-b153-57e44ea271bd&order=1) | 강남 | 09월 06일 | 0 / 1 |  | 
 | 야구의 인문학 9 | [야구야구-25](https://trevari.co.kr/meetings/show?clubID=205f9ae4-1949-488d-a3c0-e131ba9b6707&order=1) | 압구정 | 09월 06일 | 0 / 0 |  | 
 | 다가오는 말들 | [체험독서-둘금](https://trevari.co.kr/meetings/show?clubID=20d0cedf-a3d1-436b-9145-cea332ce6b32&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
 | 너무 재밌어서 잠 못 드는 심리학 사전 | [마음-레드](https://trevari.co.kr/meetings/show?clubID=44358f22-6166-4bf0-99b8-23d644122138&order=1) | 압구정 | 09월 06일 | 0 / 0 |  | 
-| 차이나 이노베이션 | [차이나스토리-첫금](https://trevari.co.kr/meetings/show?clubID=4674f4e8-ac25-4c68-9f14-ca5879f2a832&order=1) | 강남 | 09월 06일 | 0 / 1 | 김민지님 | 
+| 차이나 이노베이션 | [차이나스토리-첫금](https://trevari.co.kr/meetings/show?clubID=4674f4e8-ac25-4c68-9f14-ca5879f2a832&order=1) | 강남 | 09월 06일 | 0 / 2 | 김민지님 | 
 | 우리가 빛의 속도로 갈 수 없다면(양장본 HardCover) | [문-첫금](https://trevari.co.kr/meetings/show?clubID=5caa6384-97b0-4d43-9ee5-eb803565a979&order=1) | 안국 | 09월 06일 | 0 / 1 |  | 
 | 여행의 이유 | [체험독서-동의](https://trevari.co.kr/meetings/show?clubID=5ebcd47d-8d2e-4af0-a58c-7444d683b4d8&order=1) | 강남 | 09월 06일 | 0 / 2 |  | 
 | 누구나 시 하나쯤 가슴에 품고 산다 | [럽럽-25](https://trevari.co.kr/meetings/show?clubID=6081981a-a5b4-4070-be98-5937f9335941&order=1) | 압구정 | 09월 06일 | 0 / 1 |  | 
@@ -62,15 +61,15 @@
 | 그로스 아이큐(Growth IQ) : 성공을 위한 10가지 경로 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=ab767d8a-e147-4ce2-96b1-84271030d6e3&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
 | 아들이 사람을 죽였습니다 | [왜애-농장](https://trevari.co.kr/meetings/show?clubID=bb8c6c99-573f-427d-b7ab-9307bc94f620&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
 | 나쁜 소녀의 짓궂음 | [문-라임](https://trevari.co.kr/meetings/show?clubID=d9339f81-fcd8-4bf2-8f8e-02aa205f3042&order=1) | 압구정 | 09월 06일 | 0 / 1 |  | 
-| 국경의 남쪽 태양의 서쪽(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=1) | 압구정 | 09월 06일 | 0 / 3 |  | 
-| 나를 찾아줘 | [북씨-둘금](https://trevari.co.kr/meetings/show?clubID=f68461a4-2ee1-479f-a46e-0ab100204cca&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
+| 국경의 남쪽 태양의 서쪽(양장본 HardCover) | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=1) | 압구정 | 09월 06일 | 0 / 4 |  | 
+| 나를 찾아줘 | [북씨-둘금](https://trevari.co.kr/meetings/show?clubID=f68461a4-2ee1-479f-a46e-0ab100204cca&order=1) | 안국 | 09월 06일 | 0 / 1 |  | 
 | 건축예찬(열화당 미술 책방 1) | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=1) | 안국 | 09월 06일 | 0 / 1 | 황두진님 | 
-| 그리스인 조르바(열린책들세계문학21) | [첫금](https://trevari.co.kr/meetings/show?clubID=fc96279f-e837-479f-8987-f461ded59233&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
+| 그리스인 조르바(열린책들세계문학21) | [첫금](https://trevari.co.kr/meetings/show?clubID=fc96279f-e837-479f-8987-f461ded59233&order=1) | 안국 | 09월 06일 | 0 / 1 |  | 
 | 팩트풀니스(양장본 HardCover), 완벽한 타인 | [북씨-리뷰](https://trevari.co.kr/meetings/show?clubID=06e6755d-e279-4cf0-9001-924d0c3b90ef&order=3) | 안국 | 09월 07일 | 0 / 1 |  | 
 | 매경이코노미(8월28일 발행호) | [경제잡지](https://trevari.co.kr/meetings/show?clubID=223049a5-9afb-4f7b-a39e-8403b87f34d2&order=1) | 성수 | 09월 07일 | 0 / 0 |  | 
 | 끌리는 컨셉 만들기 | [마케팅-사과](https://trevari.co.kr/meetings/show?clubID=27bfc827-9928-4d65-a5fc-144fa2561cd3&order=1) | 강남 | 09월 07일 | 0 / 0 |  | 
 | 음악 혐오(양장본 HardCover) | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=283fdaa0-b3e1-4f96-82ad-f5fdc62ef795&order=1) | 안국 | 09월 07일 | 0 / 0 | 이충걸님 | 
-| 언제 들어도 좋은 말(이석원 이야기 산문집)(스페셜 에디션) | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=1) | 압구정 | 09월 07일 | 0 / 2 |  | 
+| 언제 들어도 좋은 말(이석원 이야기 산문집)(스페셜 에디션) | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=1) | 압구정 | 09월 07일 | 0 / 3 |  | 
 | 50대 사건으로 보는 돈의 역사 | [이콘-수박](https://trevari.co.kr/meetings/show?clubID=2ce4aa33-4c09-4681-9153-e285fda0571b&order=1) | 강남 | 09월 07일 | 0 / 0 |  | 
 | 피프티 피플 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=2f730301-1c32-4304-bf74-6092ae8cda33&order=1) | 안국 | 09월 07일 | 0 / 2 |  | 
 | 직장이 없는 시대가 온다 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=3ac21a67-291f-4f64-b5ca-a24f40e88d1f&order=1) | 강남 | 09월 07일 | 1 / 2 |  | 
@@ -125,7 +124,7 @@
 | 고슴도치의 우아함(양장본 HardCover), 마담 프루스트의 비밀정원 | [북씨-27](https://trevari.co.kr/meetings/show?clubID=e15f928a-9598-406f-9a67-cc6e08371da4&order=1) | 성수 | 09월 08일 | 0 / 0 |  | 
 | 루머의 루머의 루머 | [인생+드라마](https://trevari.co.kr/meetings/show?clubID=e2454614-78a0-4014-ab62-95e8ab95d317&order=1) | 성수 | 09월 08일 | 0 / 0 |  | 
 | 고독 깊은 곳(묘보설림 5), 기생충 | [북씨-라임](https://trevari.co.kr/meetings/show?clubID=e2b878d8-74c9-45d4-bafb-085e91150a43&order=1) | 압구정 | 09월 08일 | 0 / 1 |  | 
-| 팩트풀니스(양장본 HardCover) | [무경계-27](https://trevari.co.kr/meetings/show?clubID=fa737179-d91f-46c0-94d4-6e07157524b2&order=1) | 성수 | 09월 08일 | 0 / 0 |  | 
+| 팩트풀니스(양장본 HardCover) | [무경계-27](https://trevari.co.kr/meetings/show?clubID=fa737179-d91f-46c0-94d4-6e07157524b2&order=1) | 성수 | 09월 08일 | 0 / 1 |  | 
 | 실격당한 자들을 위한 변론 | [무경계-고래](https://trevari.co.kr/meetings/show?clubID=39e6389e-9a8b-4b1e-8ea7-3423b0ff8ca3&order=1) | 압구정 | 09월 11일 | 0 / 0 |  | 
 | 어서 와, 리더는 처음이지? | [조직의 쓴맛](https://trevari.co.kr/meetings/show?clubID=4454777b-d827-491c-96fc-d0dfda2dce05&order=1) | 압구정 | 09월 11일 | 0 / 0 | 장영학님 | 
 | 내가 있는 곳(양장본 HardCover) | [씀에세이-23](https://trevari.co.kr/meetings/show?clubID=992a0429-cc5e-4ef7-94a8-5f817365995e&order=1) | 압구정 | 09월 11일 | 0 / 0 |  | 
@@ -136,6 +135,7 @@
 | 매혹당한 사람들 | [무경계-끼리](https://trevari.co.kr/meetings/show?clubID=20b86227-0a29-4bda-ad30-cc54eb6f5560&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 아몬드, 보이후드 | [북씨-체리](https://trevari.co.kr/meetings/show?clubID=29ac3a52-e6c9-40a6-a5b8-84b20ac1b3d4&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 우리 아이들, 다크호스 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=4ca2be5b-1b75-45fd-8d8e-421188225666&order=1) | 압구정 | 09월 18일 | 0 / 0 |  | 
+| 안티프래질 | [투자의 원칙 삶의 원칙](https://trevari.co.kr/meetings/show?clubID=4e48af42-d33d-41ce-991c-38d56e528516&order=3) | 강남 | 09월 18일 | 0 / 0 | 홍진채님 | 
 | 포지셔닝 | [브랜드 깊알 시즌1](https://trevari.co.kr/meetings/show?clubID=71336b34-28bf-4b84-9534-23061c6f9a8d&order=1) | 안국 | 09월 18일 | 0 / 1 | 박항기님 | 
 | 나는 당신들의 아랫사람이 아닙니다, 컨택트 | [북씨-블랙](https://trevari.co.kr/meetings/show?clubID=735766d1-22f2-4b8b-ad25-f465ec34163a&order=1) | 압구정 | 09월 18일 | 0 / 0 |  | 
 | 내 아이가 만날 미래 | [책으로 알아보는 미래사회](https://trevari.co.kr/meetings/show?clubID=8d3b2b66-ff78-41e1-ad6e-5a0c2d1d021f&order=1) | 강남 | 09월 18일 | 0 / 0 | 정지훈님 | 
@@ -274,7 +274,6 @@
 | 전설로 떠나는 월가의 영웅 | [투자입문-37](https://trevari.co.kr/meetings/show?clubID=f038510c-76b2-432c-b155-ecc209f766ce&order=1) | 압구정 | 09월 22일 | 0 / 0 |  | 
 | 그로잉 업(Growing Up) | [마케터즈-하네](https://trevari.co.kr/meetings/show?clubID=07200bfd-e521-4008-8fbe-9a067ff41005&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
 | 위대한 개츠비 | [짧은 문고전-밤](https://trevari.co.kr/meetings/show?clubID=2af55095-1691-4d3e-93b8-9251f78e2f8d&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
-| 안티프래질 | [투자의 원칙 삶의 원칙](https://trevari.co.kr/meetings/show?clubID=4e48af42-d33d-41ce-991c-38d56e528516&order=3) | 강남 | 09월 25일 | 0 / 0 | 홍진채님 | 
 | 기획자의 습관 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=68b277ea-c971-4a60-987b-f8990e219e51&order=1) | 성수 | 09월 25일 | 0 / 0 |  | 
 | 악인, 아이, 토냐 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=8e7e4a42-ae6d-4324-ae4a-9d6fe1c95d17&order=1) | 압구정 | 09월 25일 | 0 / 0 |  | 
 | 스타벅스, 공간을 팝니다 | [InVi](https://trevari.co.kr/meetings/show?clubID=99ae1ab4-993e-4499-a27c-044750f8e8e8&order=1) | 성수 | 09월 25일 | 0 / 0 | 최소현님 | 
@@ -329,7 +328,7 @@
 | 여행의 이유 | [무경계-맑음](https://trevari.co.kr/meetings/show?clubID=a1f8dbc0-da00-46cf-b813-c8b7205c0b68&order=1) | 강남 | 09월 28일 | 0 / 0 |  | 
 | 우리는 취향을 팝니다 | [체험독서-앵두](https://trevari.co.kr/meetings/show?clubID=a338a20a-2929-4014-8aaa-a5c2ffe45d73&order=1) | 강남 | 09월 28일 | 0 / 0 |  | 
 | 제로투원 | [스타텁-46](https://trevari.co.kr/meetings/show?clubID=a79446bf-91e3-46e7-859c-066f602dbb88&order=1) | 성수 | 09월 28일 | 0 / 0 |  | 
-| 마케터의 일 | [마케터즈-블랙](https://trevari.co.kr/meetings/show?clubID=b15b35db-2463-47e5-be45-4c5f16df10c1&order=1) | 압구정 | 09월 28일 | 0 / 0 |  | 
+| 마케터의 일 | [마케터즈-블랙](https://trevari.co.kr/meetings/show?clubID=b15b35db-2463-47e5-be45-4c5f16df10c1&order=1) | 압구정 | 09월 28일 | 0 / 1 |  | 
 | The Beer : 맥주 스타일 사전 | [맥맥](https://trevari.co.kr/meetings/show?clubID=b59499f0-e1ee-4505-a887-137d257cc59a&order=1) | 압구정 | 09월 28일 | 0 / 0 | 김만제님 | 
 | 종이 동물원 | [씀-블랙](https://trevari.co.kr/meetings/show?clubID=ba67d1ac-3ca8-45cf-9caf-3364775552af&order=1) | 압구정 | 09월 28일 | 0 / 0 |  | 
 | 대도시의 사랑법 | [무경계-팝콘](https://trevari.co.kr/meetings/show?clubID=dad56562-7d66-4f9a-a293-b60e96e08050&order=1) | 강남 | 09월 28일 | 0 / 0 |  | 
@@ -362,5 +361,5 @@
 | 도쿄의 디테일 | [BRANDIN’ WORK](https://trevari.co.kr/meetings/show?clubID=ae2805c8-9b11-4dbe-b1ee-0c6a1c5334d4&order=2) | 강남 | 10월 16일 | 0 / 0 | 박창선님 | 
 | Ways to think about machine learning, Debunking The Myths And Reality Of Artificial Intelligence, THE MYTH OF A SUPERHUMAN AI, THE POWER, AND LIMITS, OF ARTIFICIAL INTELLIGENCE, Five questions you can use to cut through AI hype, THE LIFE-THREATENING CONSEQUENCES OF OVERHYPING AI | [에잉?아잉!](https://trevari.co.kr/meetings/show?clubID=689f3159-cf4d-4421-bf3b-307e56277550&order=2) | 안국 | 10월 17일 | 0 / 0 |  | 
 
-총 342 개  
+총 341 개  
 
