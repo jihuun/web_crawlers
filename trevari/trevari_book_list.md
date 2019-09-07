@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-09-07 01:01:12  
+> Updated on 2019-09-07 11:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -80,7 +80,7 @@
 | 고독 깊은 곳(묘보설림 5), 기생충 | [북씨-라임](https://trevari.co.kr/meetings/show?clubID=e2b878d8-74c9-45d4-bafb-085e91150a43&order=1) | 압구정 | 09월 08일 | 0 / 18 |  | 
 | 팩트풀니스(양장본 HardCover) | [무경계-27](https://trevari.co.kr/meetings/show?clubID=fa737179-d91f-46c0-94d4-6e07157524b2&order=1) | 성수 | 09월 08일 | 0 / 16 |  | 
 | 실격당한 자들을 위한 변론 | [무경계-고래](https://trevari.co.kr/meetings/show?clubID=39e6389e-9a8b-4b1e-8ea7-3423b0ff8ca3&order=1) | 압구정 | 09월 11일 | 0 / 1 |  | 
-| 어서 와, 리더는 처음이지? | [조직의 쓴맛](https://trevari.co.kr/meetings/show?clubID=4454777b-d827-491c-96fc-d0dfda2dce05&order=1) | 압구정 | 09월 11일 | 0 / 1 | 장영학님 | 
+| 어서 와, 리더는 처음이지? | [조직의 쓴맛](https://trevari.co.kr/meetings/show?clubID=4454777b-d827-491c-96fc-d0dfda2dce05&order=1) | 압구정 | 09월 11일 | 0 / 2 | 장영학님 | 
 | 내가 있는 곳(양장본 HardCover) | [씀에세이-23](https://trevari.co.kr/meetings/show?clubID=992a0429-cc5e-4ef7-94a8-5f817365995e&order=1) | 압구정 | 09월 11일 | 0 / 2 |  | 
 | 가재가 노래하는 곳 | [문-블랙](https://trevari.co.kr/meetings/show?clubID=c2152cb9-adbc-41f0-9055-c87669a737f6&order=1) | 압구정 | 09월 11일 | 0 / 2 |  | 
 | 전설로 떠나는 월가의 영웅 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=c809d5d8-7bce-4118-b8e8-0ffbbe33cca4&order=1) | 강남 | 09월 11일 | 1 / 0 |  | 
@@ -126,7 +126,7 @@
 | 나를 보내지마, Her-스파이크존스 | [북씨-랜드](https://trevari.co.kr/meetings/show?clubID=2b597b16-736e-4dc2-98c5-7a9c537ff31f&order=1) | 강남 | 09월 20일 | 0 / 0 |  | 
 | 여자 둘이 살고 있습니다, 영화 소공녀 | [북씨-셋금](https://trevari.co.kr/meetings/show?clubID=3599f59a-4455-41a9-be5d-4dec9fbcf0ef&order=1) | 안국 | 09월 20일 | 1 / 0 |  | 
 | 여행의 이유 | [체험독서-자전거](https://trevari.co.kr/meetings/show?clubID=3a9564a0-2e1b-46d3-a96d-fa2e1b2b6efc&order=3) | 강남 | 09월 20일 | 0 / 0 |  | 
-| 빛과 물질에 관한 이론(양장본 HardCover), 우리가 들려줄 이야기 | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=3b1eee98-ad8b-4998-a9e7-ed3fe7e2d631&order=1) | 압구정 | 09월 20일 | 0 / 0 |  | 
+| 빛과 물질에 관한 이론(양장본 HardCover), 우리가 들려줄 이야기, 트윈스터즈 | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=3b1eee98-ad8b-4998-a9e7-ed3fe7e2d631&order=1) | 압구정 | 09월 20일 | 0 / 0 |  | 
 | 레버리지 | [북씨-나는나뻐](https://trevari.co.kr/meetings/show?clubID=40cfbd92-8a35-4a5d-9182-3e03ced01808&order=3) | 강남 | 09월 20일 | 0 / 0 |  | 
 | 폭력의 해부 | [크리미널마인드](https://trevari.co.kr/meetings/show?clubID=4fe20c15-56ce-4c82-9d18-1ec51e233395&order=1) | 안국 | 09월 20일 | 0 / 0 |  | 
 | 지도와 영토 | [읽을지도-35](https://trevari.co.kr/meetings/show?clubID=51691fcb-1994-4134-9a1d-b627f00a75dc&order=1) | 압구정 | 09월 20일 | 0 / 1 |  | 
@@ -314,7 +314,7 @@
 | 건축십서 | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=2) | 안국 | 10월 04일 | 0 / 0 | 황두진님 | 
 | 근세 일본의 경제발전과 근면혁명(양장본 HardCover) | [일본인 이야기](https://trevari.co.kr/meetings/show?clubID=3c0c8ef9-5991-49ef-90c3-3efba61d3005&order=2) | 압구정 | 10월 05일 | 0 / 0 | 김시덕님 | 
 | 디즈니, 세상의 모든 꿈을 팝니다 | [디지털콘텐츠+비즈니스](https://trevari.co.kr/meetings/show?clubID=5fc3f990-8e8a-41d4-acb5-65a3fdcbb664&order=2) | 성수 | 10월 05일 | 0 / 0 | 윤성원님 | 
-| 실용커피서적 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=0a7716e2-1175-466e-aa24-edea6363d1f5&order=2) | 성수 | 10월 06일 | 0 / 0 |  | 
+| 실용커피서적, 커피 한 잔에 이직한 내가 경영전략의 마스터가 되기까지 | [체험독서-17](https://trevari.co.kr/meetings/show?clubID=0a7716e2-1175-466e-aa24-edea6363d1f5&order=2) | 성수 | 10월 06일 | 0 / 0 |  | 
 | 드림 빅(Dream Big) | [창업과 투자 사이](https://trevari.co.kr/meetings/show?clubID=6128ecc3-9ab7-4eda-b4a4-36acc0908905&order=2) | 성수 | 10월 06일 | 1 / 0 | 박지웅님 | 
 | 노르웨이의 숲, 리스트커터스 - 러브 스토리 | [북씨-빨강](https://trevari.co.kr/meetings/show?clubID=6e047921-e4d0-48ae-91e5-7ec0bc3a53a3&order=2) | 안국 | 10월 06일 | 0 / 0 |  | 
 | 스토너 | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=734d0ece-8682-4202-b83a-f698d124ead7&order=2) | 안국 | 10월 06일 | 0 / 0 | 이충걸님 | 
