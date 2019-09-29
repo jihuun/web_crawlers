@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-09-29 01:01:12  
+> Updated on 2019-09-29 11:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -212,6 +212,7 @@
 | 숨, [넷플리스 영화] 어바웃타임 | [북씨-플릭스](https://trevari.co.kr/meetings/show?clubID=a2f31c9e-f0cc-4af0-89bb-2270499b8b40&order=4) | 강남 | 10월 19일 | 0 / 0 |  | 
 | 하버드 사랑학 수업 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=e0506065-b25c-4480-b096-6c4a5fbf52bf&order=2) | 압구정 | 10월 19일 | 0 / 0 | 강윤정, 우승우님 | 
 | 맛(모던 클래식 52) | [그림그림](https://trevari.co.kr/meetings/show?clubID=e0790906-0736-4d53-8293-914b43c3d752&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
+| 좋은지 나쁜지 누가 아는가 | [나초-거북이](https://trevari.co.kr/meetings/show?clubID=e19c3475-cc4b-489e-b7b0-e8f3350d2478&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
 | 광장과 타워(양장본 HardCover) | [InC](https://trevari.co.kr/meetings/show?clubID=ef9551fb-1d85-4da6-8cd5-469669809b73&order=2) | 강남 | 10월 19일 | 0 / 0 | 이승규님 | 
 | 순간의 힘 | [스타텁-완두콩](https://trevari.co.kr/meetings/show?clubID=f6e4b41d-50c1-4ad6-829d-1481c1631734&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
 | 우아하고 호쾌한 여자 축구 | [씀에세이-셋토밤](https://trevari.co.kr/meetings/show?clubID=7e0e45de-e1d2-46c5-b490-09d99eba42d5&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
@@ -231,6 +232,7 @@
 | 템플턴 플랜 | [투자의 원칙 삶의 원칙](https://trevari.co.kr/meetings/show?clubID=4e48af42-d33d-41ce-991c-38d56e528516&order=4) | 강남 | 10월 23일 | 0 / 0 | 홍진채님 | 
 | 디자인 인문학 | [InVi](https://trevari.co.kr/meetings/show?clubID=99ae1ab4-993e-4499-a27c-044750f8e8e8&order=2) | 성수 | 10월 23일 | 0 / 0 | 최소현님 | 
 | 조너선 아이브(양장본 HardCover) | [경영하는 인간](https://trevari.co.kr/meetings/show?clubID=f64621da-59aa-4eaf-a124-811573c9f115&order=2) | 강남 | 10월 23일 | 0 / 0 | 신기주님 | 
+| 형이상학(책세상문고 고전의세계) | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=2) | 압구정 | 10월 24일 | 0 / 0 |  | 
 | 인생학교: 일 | [스타트업 기웃기웃](https://trevari.co.kr/meetings/show?clubID=7f036fbb-3f4a-4b66-a91d-2b1df21e1cb4&order=2) | 강남 | 10월 24일 | 1 / 0 | 최경희님 | 
 | 패션과 명품(살림지식총서 145) | [클럽 박학다식](https://trevari.co.kr/meetings/show?clubID=11c2cd63-944e-47da-a42e-7e819b658b0b&order=2) | 안국 | 10월 25일 | 0 / 0 | 신기주님 | 
 | 아이돌의 작업실 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=3954b58a-9290-4fe7-ab92-123ed5eda30b&order=2) | 안국 | 10월 25일 | 0 / 0 | 차우진님 | 
@@ -276,5 +278,5 @@
 | 슬럼독 밀리어네어, 영화 : 슬럼독 밀리어네어 | [북씨-랜드](https://trevari.co.kr/meetings/show?clubID=2b597b16-736e-4dc2-98c5-7a9c537ff31f&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 비커밍, 비욘세의 HOMECOMING | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=3b1eee98-ad8b-4998-a9e7-ed3fe7e2d631&order=3) | 압구정 | 11월 15일 | 0 / 0 |  | 
 
-총 256 개  
+총 258 개  
 
