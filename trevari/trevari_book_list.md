@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-05 01:01:12  
+> Updated on 2019-10-05 11:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -118,7 +118,7 @@
 | 도덕의 계보 | [진진F](https://trevari.co.kr/meetings/show?clubID=50645c67-9096-4613-b695-85e6814eee49&order=2) | 안국 | 10월 13일 | 0 / 0 |  | 
 | 생각이 돈이 되는 순간 | [사이드프로젝트-파랑](https://trevari.co.kr/meetings/show?clubID=593b6821-64d1-411e-b84e-01b677270a59&order=2) | 압구정 | 10월 13일 | 0 / 0 |  | 
 | 행복의 정복 | [사이드프로젝트-행복](https://trevari.co.kr/meetings/show?clubID=68919cb1-f5c6-40fa-a3ec-b41f3a773c4d&order=2) | 강남 | 10월 13일 | 0 / 0 |  | 
-| 나는 왜 무기력을 되풀이하는가 | [진진-끼리](https://trevari.co.kr/meetings/show?clubID=79b08d71-e407-44eb-90e4-b1b47408a3d9&order=2) | 강남 | 10월 13일 | 0 / 1 |  | 
+| 나는 왜 무기력을 되풀이하는가 | [진진-끼리](https://trevari.co.kr/meetings/show?clubID=79b08d71-e407-44eb-90e4-b1b47408a3d9&order=2) | 강남 | 10월 13일 | 0 / 2 |  | 
 | 피프티 피플 | [체험독서-씀이](https://trevari.co.kr/meetings/show?clubID=7e12feb8-c2a0-4592-8cf5-48c59b2aaafc&order=2) | 강남 | 10월 13일 | 0 / 0 |  | 
 | 변신(일러스트와 함께 읽는 세계명작) | [씀-둘일](https://trevari.co.kr/meetings/show?clubID=879027df-43b5-4af2-92a9-5ef0136fead6&order=2) | 안국 | 10월 13일 | 0 / 2 |  | 
 | Measure What Matters | [잉잉비즈](https://trevari.co.kr/meetings/show?clubID=8cead135-08c3-427e-b534-b4db1c13cf2b&order=2) | 안국 | 10월 13일 | 0 / 0 |  | 
@@ -268,6 +268,7 @@
 | [책읽찌라 추천책] 완벽한 공부법 | [사이드프로젝트-지금](https://trevari.co.kr/meetings/show?clubID=217200c1-35b8-436f-a19f-35a024e1dac0&order=4) | 성수 | 10월 26일 | 0 / 0 |  | 
 | 철학의 위안(양장본 HardCover) | [46](https://trevari.co.kr/meetings/show?clubID=265f03e0-e09e-4cf3-99c8-4ac2bd42c597&order=2) | 압구정 | 10월 26일 | 0 / 0 |  | 
 | 대도시의 사랑법 | [넷토](https://trevari.co.kr/meetings/show?clubID=28f09a7d-78ff-4434-87da-fe2d335796d5&order=2) | 안국 | 10월 26일 | 0 / 0 |  | 
+| 이반 데니소비치, 수용소의 하루(민음사 세계문학전집 13) | [문-레드](https://trevari.co.kr/meetings/show?clubID=2c0238c2-ccf7-439b-9f0f-7d7bf0329179&order=2) | 압구정 | 10월 26일 | 0 / 0 |  | 
 | 너는 나에게 상처를 줄 수 없다 | [마음-46](https://trevari.co.kr/meetings/show?clubID=38cb88eb-01ce-4ab8-8427-868cacc2e1c2&order=2) | 성수 | 10월 26일 | 0 / 0 |  | 
 | 주목하지 않을 권리 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=6e90f76c-c19d-429f-90e5-fc1323103792&order=2) | 강남 | 10월 26일 | 0 / 0 | 전병근님 | 
 | 댄 애리얼리 부의 감각 | [체험독서-체리](https://trevari.co.kr/meetings/show?clubID=77b1bdf8-f593-4d05-a526-b5445c8853b5&order=2) | 강남 | 10월 26일 | 0 / 0 |  | 
@@ -345,5 +346,5 @@
 | 마케팅 천재가 된 맥스 | [파는 사람들](https://trevari.co.kr/meetings/show?clubID=11489b6e-cafb-4853-8c47-3cbff105f2cf&order=1) | 강남 | 11월 16일 | 0 / 0 | 김일도님 | 
 | 하버드 사랑학 수업, [넷플릭스영화]더랍스터 | [북씨-플릭스](https://trevari.co.kr/meetings/show?clubID=33b98a76-7ba0-4f19-a026-91c2887d5f46&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 
-총 325 개  
+총 326 개  
 
