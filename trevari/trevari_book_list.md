@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-09 01:01:13  
+> Updated on 2019-10-09 11:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -53,7 +53,7 @@
 | 밀란 쿤데라, 『참을 수 없는 존재의 가벼움』외 1개의 읽을거리 | [북씨-앵두](https://trevari.co.kr/meetings/show?clubID=0e8bd233-304a-4701-8ae0-7fde9a3e0e31&order=2) | 강남 | 10월 12일 | 0 / 1 |  | 
 | 아니 에르노, 『부끄러움(Modern&Classic)(양장본 HardCover)』 | [현대적인 또는 현재적인 어떤 책](https://trevari.co.kr/meetings/show?clubID=20b6dfcc-beda-4cfd-b03d-6242ead58c2b&order=2) | 안국 | 10월 12일 | 1 / 1 | 이충걸님 | 
 | 이랑주, 『좋아 보이는 것들의 비밀』 | [마케팅-사과](https://trevari.co.kr/meetings/show?clubID=27bfc827-9928-4d65-a5fc-144fa2561cd3&order=2) | 강남 | 10월 12일 | 0 / 2 |  | 
-| 토드 부크홀츠, 『죽은 경제학자의 살아있는 아이디어』 | [이콘-수박](https://trevari.co.kr/meetings/show?clubID=2ce4aa33-4c09-4681-9153-e285fda0571b&order=2) | 강남 | 10월 12일 | 0 / 1 |  | 
+| 토드 부크홀츠, 『죽은 경제학자의 살아있는 아이디어』 | [이콘-수박](https://trevari.co.kr/meetings/show?clubID=2ce4aa33-4c09-4681-9153-e285fda0571b&order=2) | 강남 | 10월 12일 | 0 / 2 |  | 
 | 로맹 가리, 『새들은 페루에 가서 죽다(증보판)(양장본 HardCover)』 | [무경계-26](https://trevari.co.kr/meetings/show?clubID=30e5290c-8d00-4985-b12c-77b09b12b0f9&order=2) | 성수 | 10월 12일 | 0 / 0 |  | 
 | 새뮤얼 존슨, 『라셀라스(세계문학전집 126)』 | [북씨-파랑](https://trevari.co.kr/meetings/show?clubID=3e4176dd-db08-45cb-aeb9-93bdbaaa1b31&order=2) | 안국 | 10월 12일 | 0 / 3 |  | 
 | 리처드 번스타인, 『소음과 투자』 | [이콘-26](https://trevari.co.kr/meetings/show?clubID=4a465ef8-4387-4c61-8c8a-9f965677a502&order=2) | 성수 | 10월 12일 | 1 / 4 |  | 
@@ -172,7 +172,7 @@
 | 맥스 테그마크, 『맥스 테그마크의 라이프 3.0』 | [국경](https://trevari.co.kr/meetings/show?clubID=c8a08679-1bee-485c-8b49-f05a548daea1&order=2) | 압구정 | 10월 19일 | 1 / 0 |  | 
 | 권상미 옮김 / 마리 루티 지음, 『하버드 사랑학 수업』 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=e0506065-b25c-4480-b096-6c4a5fbf52bf&order=2) | 압구정 | 10월 19일 | 1 / 1 | 강윤정, 우승우님 | 
 | 뮈리엘 바르베리, 『맛(모던 클래식 52)』 | [그림그림](https://trevari.co.kr/meetings/show?clubID=e0790906-0736-4d53-8293-914b43c3d752&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
-| 류시화, 『좋은지 나쁜지 누가 아는가』 | [나초-거북이](https://trevari.co.kr/meetings/show?clubID=e19c3475-cc4b-489e-b7b0-e8f3350d2478&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
+| 류시화, 『좋은지 나쁜지 누가 아는가』 | [나초-거북이](https://trevari.co.kr/meetings/show?clubID=e19c3475-cc4b-489e-b7b0-e8f3350d2478&order=2) | 강남 | 10월 19일 | 0 / 1 |  | 
 | 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-맑음](https://trevari.co.kr/meetings/show?clubID=e29dd759-ead2-4c56-91ed-4567f2f4d3dc&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
 | 손원평, 『아몬드』 | [무경계-체리](https://trevari.co.kr/meetings/show?clubID=eda6aa1b-6642-410b-9a4d-68eb77cecc91&order=2) | 강남 | 10월 19일 | 0 / 0 |  | 
 | 니얼 퍼거슨, 『광장과 타워(양장본 HardCover)』 | [InC](https://trevari.co.kr/meetings/show?clubID=ef9551fb-1d85-4da6-8cd5-469669809b73&order=2) | 강남 | 10월 19일 | 0 / 0 | 이승규님 | 
