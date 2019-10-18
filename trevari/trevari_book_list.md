@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-18 20:01:13  
+> Updated on 2019-10-19 01:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -283,7 +283,7 @@
 | 오에 겐자부로, 『읽는 인간』 | [작가와 글과 책의 삼위일체](https://trevari.co.kr/meetings/show?clubID=cd3e6808-9a8e-4b29-879d-631078855a51&order=3) | 안국 | 11월 10일 | 0 / 0 | 이충걸님 | 
 | 아멜리 노통브, 『사랑의 파괴(3판)』 | [문-고래](https://trevari.co.kr/meetings/show?clubID=cf4a8be6-a003-4119-b0b0-102b78e41765&order=3) | 강남 | 11월 10일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』 | [나초-고래](https://trevari.co.kr/meetings/show?clubID=dedbe63d-bf81-4ab8-8667-456e47c1e707&order=3) | 성수 | 11월 10일 | 0 / 0 |  | 
-| 테드 창, 『당신 인생의 이야기』 | [북씨-27](https://trevari.co.kr/meetings/show?clubID=e15f928a-9598-406f-9a67-cc6e08371da4&order=3) | 성수 | 11월 10일 | 0 / 0 |  | 
+| 테드 창, 『당신 인생의 이야기』외 1개의 읽을거리 | [북씨-27](https://trevari.co.kr/meetings/show?clubID=e15f928a-9598-406f-9a67-cc6e08371da4&order=3) | 성수 | 11월 10일 | 0 / 0 |  | 
 | 로버트 기요사키, 『페이크』 | [이콘-끼리](https://trevari.co.kr/meetings/show?clubID=e594735f-6827-4cfb-b208-4e7c63458b52&order=1) | 압구정 | 11월 10일 | 0 / 0 |  | 
 | 아난드 기리다라다스, 『엘리트 독식 사회』 | [무경계-27](https://trevari.co.kr/meetings/show?clubID=fa737179-d91f-46c0-94d4-6e07157524b2&order=3) | 성수 | 11월 10일 | 0 / 0 |  | 
 | 최지훈, 『그래서, 인터널브랜딩』 | [조직의 쓴맛](https://trevari.co.kr/meetings/show?clubID=4454777b-d827-491c-96fc-d0dfda2dce05&order=3) | 압구정 | 11월 13일 | 0 / 0 | 장영학님 | 
