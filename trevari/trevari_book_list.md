@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-20 01:01:12  
+> Updated on 2019-10-20 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -286,6 +286,7 @@
 | 제프 콕스, 하워드 스티븐스, 『마케팅 천재가 된 맥스』 | [파는 사람들](https://trevari.co.kr/meetings/show?clubID=11489b6e-cafb-4853-8c47-3cbff105f2cf&order=1) | 강남 | 11월 16일 | 0 / 0 | 김일도님 | 
 | 유시민, 『역사의 역사』 | [력사-숲](https://trevari.co.kr/meetings/show?clubID=1625e8d4-179e-4e97-b88f-85966dd483a9&order=1) | 안국 | 11월 16일 | 0 / 0 |  | 
 | 권상미 옮김 / 마리 루티 지음, 『하버드 사랑학 수업』외 1개의 읽을거리 | [북씨-플릭스](https://trevari.co.kr/meetings/show?clubID=33b98a76-7ba0-4f19-a026-91c2887d5f46&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
+| 박지리, 『다윈 영의 악의 기원』외 1개의 읽을거리 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=46564f97-4ee7-452d-8430-d980b2b9cc0f&order=3) | 안국 | 11월 16일 | 0 / 0 |  | 
 | 스콧 피츠제럴드, 『위대한 개츠비』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 알랭 드 보통, 『왜 나는 너를 사랑하는가』 | [체험독서-음악](https://trevari.co.kr/meetings/show?clubID=8b0974be-0d52-4ca3-b6c6-19c38942b570&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 편집부, 『잡스 에디터(Jobs Editor)』 | [마케팅-끼리](https://trevari.co.kr/meetings/show?clubID=b858fb23-44f5-41ab-b3d6-b44af02d5b2c&order=1) | 성수 | 11월 16일 | 0 / 0 |  | 
@@ -355,8 +356,6 @@
 | 존 캐리루, 『배드 블러드』 | [스타텁-마피아](https://trevari.co.kr/meetings/show?clubID=e5999bf2-1f18-48b6-8d39-42f3230e2af8&order=4) | 강남 | 12월 12일 | 0 / 0 |  | 
 | 대니얼 J. 레비틴, 『정리하는 뇌』 | [내 인생의 조각모음](https://trevari.co.kr/meetings/show?clubID=bbcfd9a0-44e4-40dc-aecf-a56e95098261&order=2) | 강남 | 12월 13일 | 0 / 0 | 이정원님 | 
 | 패티 맥코드, 『파워풀』 | [디지털콘텐츠+비즈니스](https://trevari.co.kr/meetings/show?clubID=5fc3f990-8e8a-41d4-acb5-65a3fdcbb664&order=4) | 성수 | 12월 14일 | 0 / 0 | 윤성원님 | 
-| 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=c809d5d8-7bce-4118-b8e8-0ffbbe33cca4&order=4) | 강남 | 12월 14일 | 0 / 0 |  | 
-| 제레드 다이아몬드, 『총 균 쇠』 | [자연사](https://trevari.co.kr/meetings/show?clubID=4be456d3-40d5-4c76-9eef-e095d19a3e91&order=4) | 서대문 | 12월 15일 | 0 / 0 | 이정모님 | 
 
-총 338 개  
+총 337 개  
 
