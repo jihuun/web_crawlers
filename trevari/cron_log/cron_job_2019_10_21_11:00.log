@@ -1,0 +1,14 @@
+[LOG]: sync up with origin/master
+M	trevari/cron_log/cron_job_2019_10_21_01:00.log
+브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
+[LOG]: get_trevari_books.py is executed on 11:00:03
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+[LOG]: get_trevari_books.py is finished on 12:39:34.
+[LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+[LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
