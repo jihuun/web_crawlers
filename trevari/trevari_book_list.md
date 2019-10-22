@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-22 01:01:12  
+> Updated on 2019-10-22 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -206,6 +206,7 @@
 | 알랭 드 보통, 『뉴스의 시대』 | [디지털콘텐츠+비즈니스](https://trevari.co.kr/meetings/show?clubID=5fc3f990-8e8a-41d4-acb5-65a3fdcbb664&order=3) | 성수 | 11월 09일 | 0 / 0 | 윤성원님 | 
 | 김남희, 『따뜻한 남쪽 나라에서 살아보기』 | [씀-완두콩](https://trevari.co.kr/meetings/show?clubID=7613b61c-27c6-4cec-9507-1685edb61cf5&order=3) | 강남 | 11월 09일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [짧은 스타텁](https://trevari.co.kr/meetings/show?clubID=7cf8d969-aa31-489f-839e-d93515738e7b&order=1) | 강남 | 11월 09일 | 0 / 0 |  | 
+| 카를로 로벨리, 『시간은 흐르지 않는다(양장본 HardCover)』 | [인간과기술-둘토](https://trevari.co.kr/meetings/show?clubID=893eab87-9f59-4f06-9a61-75ae92bc4826&order=3) | 안국 | 11월 09일 | 0 / 0 |  | 
 | 강준만, 오두진, 『고종 스타벅스에 가다(개정판 2판)(인사 갈마들 총서 1)』 | [카페 키바한](https://trevari.co.kr/meetings/show?clubID=8dd3e435-0dc2-4e0e-ad12-ae17580c6de7&order=3) | 성수 | 11월 09일 | 0 / 0 |  | 
 | 정지원, 원충열, 유지은, 『맥락을 팔아라』 | [마케팅-파랑](https://trevari.co.kr/meetings/show?clubID=8fff3109-977a-49bd-8acc-08f686a95e82&order=3) | 안국 | 11월 09일 | 0 / 0 |  | 
 | 김신지, 『좋아하는 걸 좋아하는 게 취미』 | [나초-끼리](https://trevari.co.kr/meetings/show?clubID=9212a739-0bd4-46d9-8e83-b16d2973e3cd&order=3) | 강남 | 11월 09일 | 0 / 0 |  | 
@@ -254,6 +255,7 @@
 | 알랭 드 보통, 『왜 나는 너를 사랑하는가』외 1개의 읽을거리 | [북씨-지금](https://trevari.co.kr/meetings/show?clubID=2a228795-dddc-4a5e-bc6d-e50fcb557b43&order=1) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 미셸 오바마, 『비커밍』외 1개의 읽을거리 | [북큐-퍼플](https://trevari.co.kr/meetings/show?clubID=3b1eee98-ad8b-4998-a9e7-ed3fe7e2d631&order=3) | 압구정 | 11월 15일 | 0 / 0 |  | 
 | 복길, 『아무튼, 예능(아무튼 시리즈 23)』 | [체험독서-액티브](https://trevari.co.kr/meetings/show?clubID=452eef03-2382-445c-8c02-5dd8a3087bc7&order=1) | 안국 | 11월 15일 | 0 / 0 |  | 
+| 미야베 미유키, 『화차(블랙펜 클럽(Black Pen Club) 24)』 | [크리미널마인드](https://trevari.co.kr/meetings/show?clubID=4fe20c15-56ce-4c82-9d18-1ec51e233395&order=3) | 안국 | 11월 15일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-여행](https://trevari.co.kr/meetings/show?clubID=5381f3a0-f9d3-4314-aecd-f63d97b10748&order=1) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 올더스 헉슬리, 『멋진 신세계』 | [문-바리](https://trevari.co.kr/meetings/show?clubID=7542714b-7174-406e-be0a-d0f00a8b1200&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 리카이푸, 『AI 슈퍼파워』 | [차이나스토리-셋금](https://trevari.co.kr/meetings/show?clubID=997f9300-6167-4f7f-bfe6-01d0a9588e21&order=3) | 강남 | 11월 15일 | 0 / 0 | 김민지님 | 
@@ -293,7 +295,9 @@
 | 김연수, 『청춘의 문장들』 | [짧은 씀에세이](https://trevari.co.kr/meetings/show?clubID=3e6af592-bebf-4787-b9aa-cf67cdc55526&order=1) | 안국 | 11월 21일 | 0 / 0 |  | 
 | Frank Chen, 『Humanity + AI: Better Together』외 1개의 읽을거리 | [에잉?아잉!](https://trevari.co.kr/meetings/show?clubID=689f3159-cf4d-4421-bf3b-307e56277550&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
 | 박종무, 『살아있는 것들의 눈빛은 아름답다』 | [반려피플](https://trevari.co.kr/meetings/show?clubID=68b43db2-88f5-460b-968a-157a975a8c45&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
+| 게리 채프먼, 『5가지 사랑의 언어(개정판)』 | [럽럽-셋목](https://trevari.co.kr/meetings/show?clubID=d3c420d5-66de-4431-aa9a-b8ea1c9ef084&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
 | 김민철, 『모든 요일의 여행』 | [무경계-고민타파](https://trevari.co.kr/meetings/show?clubID=da59d766-7068-462c-977e-912eca37c67f&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
+| 김홍기, 『옷장 속 인문학』 | [짧은 무경계-막차](https://trevari.co.kr/meetings/show?clubID=e9bdebca-a201-4729-b5d6-5398ec92dbb0&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
 | 이재진, 『패션과 명품(살림지식총서 145)』 | [클럽 박학다식](https://trevari.co.kr/meetings/show?clubID=11c2cd63-944e-47da-a42e-7e819b658b0b&order=3) | 안국 | 11월 22일 | 0 / 0 | 신기주님 | 
 | 신윤희, 『팬덤 3.0(북저널리즘 39)』 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=3954b58a-9290-4fe7-ab92-123ed5eda30b&order=3) | 안국 | 11월 22일 | 0 / 0 | 차우진님 | 
 | 박종윤, 『내 운명은 고객이 결정한다』 | [마케팅-맑음](https://trevari.co.kr/meetings/show?clubID=3e1cd320-0f4a-451c-a1d9-ff29eacd3bd1&order=1) | 강남 | 11월 22일 | 0 / 0 |  | 
@@ -349,5 +353,5 @@
 | 박충환, 데보라 J맥기니스, 『브랜드 애드머레이션(양장본 HardCover)』 | [브랜드 깊알 시즌1](https://trevari.co.kr/meetings/show?clubID=71336b34-28bf-4b84-9534-23061c6f9a8d&order=4) | 안국 | 12월 18일 | 0 / 0 | 박항기님 | 
 | 이육헌 지음 / 이승희 지음 / 정혜윤 지음 / 손하빈 지음, 『브랜드 마케터들의 이야기 - 음식, 음악, 여행 그리고 독서』 | [BRANDIN’ WORK](https://trevari.co.kr/meetings/show?clubID=ae2805c8-9b11-4dbe-b1ee-0c6a1c5334d4&order=4) | 강남 | 12월 18일 | 0 / 0 | 박창선님 | 
 
-총 329 개  
+총 333 개  
 
