@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-26 20:01:13  
+> Updated on 2019-10-27 01:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -286,6 +286,7 @@
 | DW깁슨, 『뜨는 동네의 딜레마, 젠트리피케이션』 | [로컬 콘텐츠의 시대](https://trevari.co.kr/meetings/show?clubID=15a76a5e-71ef-41a9-a739-39a23c85a6d7&order=3) | 안국 | 11월 23일 | 0 / 0 | 정지연님 | 
 | 알랭 드 보통, 『뉴스의 시대』외 1개의 읽을거리 | [무경계-46](https://trevari.co.kr/meetings/show?clubID=179acca7-adb6-448a-b44a-39df295c7921&order=3) | 성수 | 11월 23일 | 0 / 0 |  | 
 | 레이먼드 카버, 『대성당(문학동네 세계문학전집 10주년 기념 리커버 특별판)(세계문학전집 119...』 | [문고전-앵두](https://trevari.co.kr/meetings/show?clubID=5b738616-fa03-4e4b-9f3f-03f38203935e&order=1) | 강남 | 11월 23일 | 0 / 0 |  | 
+| 로버트 레빈, 『거울 속의 이방인』 | [사피엔스의미래](https://trevari.co.kr/meetings/show?clubID=6e90f76c-c19d-429f-90e5-fc1323103792&order=3) | 강남 | 11월 23일 | 0 / 0 | 전병근님 | 
 | 존 그린, 『잘못은 우리 별에 있어(개정판)(양장본 HardCover)』외 1개의 읽을거리 | [북씨-번개](https://trevari.co.kr/meetings/show?clubID=778802fe-be6e-47c1-a8eb-771d11b78f13&order=1) | 강남 | 11월 23일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』 | [보통의존재-함께](https://trevari.co.kr/meetings/show?clubID=958993d3-2133-4f89-bb8a-2d2fade5a22e&order=1) | 성수 | 11월 23일 | 0 / 0 |  | 
 | 최용준  사진 / 박찬용 지음, 『요즘 브랜드』 | [제품/서비스 기획자들-레고](https://trevari.co.kr/meetings/show?clubID=c7a82370-c948-42b0-849c-7ead5ef193bc&order=1) | 성수 | 11월 23일 | 0 / 0 |  | 
@@ -308,6 +309,7 @@
 | 월터 아이작슨, 『스티브 잡스』 | [경영하는 인간](https://trevari.co.kr/meetings/show?clubID=f64621da-59aa-4eaf-a124-811573c9f115&order=3) | 강남 | 11월 27일 | 0 / 0 | 신기주님 | 
 | 헤르만 지몬, 『헤르만 지몬의 프라이싱』 | [마케팅-보라](https://trevari.co.kr/meetings/show?clubID=f9e0c7da-b48a-43ba-988b-d02126de530f&order=3) | 안국 | 11월 27일 | 0 / 0 |  | 
 | 김하나, 황선우, 『여자 둘이 살고 있습니다』 | [짧은 무경계-바다](https://trevari.co.kr/meetings/show?clubID=faee1064-1b17-4587-9c79-2d9f3ede8d5a&order=1) | 안국 | 11월 27일 | 0 / 0 |  | 
+| 에피쿠로스, 『쾌락(문지스펙트럼:세계의고전사상 1)』 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=3) | 압구정 | 11월 28일 | 0 / 0 |  | 
 | 정세랑, 『지구에서 한아뿐(양장본 HardCover)』 | [짧은 나초-하늘](https://trevari.co.kr/meetings/show?clubID=bde77e93-8c7c-4974-bcfc-dda3f99cfe57&order=1) | 압구정 | 11월 28일 | 0 / 0 |  | 
 | 존 휘트모어, 『코칭 리더십(성과 향상을 위한)』 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=cf67b549-5484-4d74-a67d-cdb7ee76cbd0&order=3) | 강남 | 11월 28일 | 0 / 0 | 이재왕님 | 
 | 알랭 드 보통, 『여행의 기술』외 1개의 읽을거리 | [북씨-자몽](https://trevari.co.kr/meetings/show?clubID=dd1990f8-4916-4325-97e3-b06858b189c0&order=1) | 안국 | 11월 28일 | 0 / 0 |  | 
@@ -344,5 +346,5 @@
 | 조나 버거, 『컨테이저스 전략적 입소문』 | [파는 사람들](https://trevari.co.kr/meetings/show?clubID=11489b6e-cafb-4853-8c47-3cbff105f2cf&order=2) | 강남 | 12월 21일 | 0 / 0 | 김일도님 | 
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 
-총 324 개  
+총 326 개  
 
