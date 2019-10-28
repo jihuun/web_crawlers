@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-28 01:01:14  
+> Updated on 2019-10-28 11:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -216,6 +216,7 @@
 | 윤성희, 권여선, 『김승옥문학상 수상작품집(2019)』 | [무경계-호두](https://trevari.co.kr/meetings/show?clubID=cceb4d73-bf65-4ca5-98e8-e744c909b289&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 선호빈 지음, 『B급 며느리』 | [부부사기단](https://trevari.co.kr/meetings/show?clubID=e0506065-b25c-4480-b096-6c4a5fbf52bf&order=3) | 압구정 | 11월 16일 | 0 / 0 | 강윤정, 우승우님 | 
 | 윤현희, 『미술관에 간 심리학』 | [그림그림](https://trevari.co.kr/meetings/show?clubID=e0790906-0736-4d53-8293-914b43c3d752&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
+| 제인 오스틴, 『오만과 편견』 | [나초-거북이](https://trevari.co.kr/meetings/show?clubID=e19c3475-cc4b-489e-b7b0-e8f3350d2478&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 아룬다티 로이, 『작은 것들의 신(세계문학전집 135)』외 1개의 읽을거리 | [북씨-맑음](https://trevari.co.kr/meetings/show?clubID=e29dd759-ead2-4c56-91ed-4567f2f4d3dc&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 이언 매큐언, 『속죄』 | [무경계-체리](https://trevari.co.kr/meetings/show?clubID=eda6aa1b-6642-410b-9a4d-68eb77cecc91&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [스타텁-완두콩](https://trevari.co.kr/meetings/show?clubID=f6e4b41d-50c1-4ad6-829d-1481c1631734&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
@@ -226,6 +227,7 @@
 | 박진영, 『박진영의 공룡 열전』외 1개의 읽을거리 | [자연사](https://trevari.co.kr/meetings/show?clubID=4be456d3-40d5-4c76-9eef-e095d19a3e91&order=3) | 서울시립과학관 | 11월 17일 | 0 / 0 | 이정모님 | 
 | 한병철, 『투명사회』외 1개의 읽을거리 | [북씨-노랑](https://trevari.co.kr/meetings/show?clubID=58a2e35f-9c06-40dd-a81c-255602112bd0&order=3) | 안국 | 11월 17일 | 0 / 0 |  | 
 | Monocle 편집부, 『Monocle 2019년 10월호』 | [모노클클](https://trevari.co.kr/meetings/show?clubID=a1b238b0-69bc-4c0b-a35f-772395a52359&order=3) | 강남 | 11월 17일 | 0 / 0 |  | 
+| 윤지영, 『오가닉 마케팅』 | [1코노미](https://trevari.co.kr/meetings/show?clubID=ac50abe7-4b8a-42a5-836f-ae4e9ba88393&order=3) | 강남 | 11월 17일 | 0 / 0 |  | 
 | 티엔 추오, 게이브 와이저트, 『구독과 좋아요의 경제학』 | [콘텐츠+구독 모델](https://trevari.co.kr/meetings/show?clubID=b6d37bb0-a136-4ef7-82f1-ccd71a10928c&order=1) | 강남 | 11월 17일 | 0 / 0 | 윤성원님 | 
 | 스벤야 아이젠브라운, 『너무 재밌어서 잠 못 드는 심리학 사전』 | [무경계-알쓸넓얕](https://trevari.co.kr/meetings/show?clubID=bb7d49fd-7f7f-4d7a-81e3-388984d84357&order=1) | 안국 | 11월 17일 | 0 / 0 |  | 
 | 스콧 갤러웨이, 『플랫폼 제국의 미래』 | [21세기 호구형인재](https://trevari.co.kr/meetings/show?clubID=cd3fc259-b848-490d-9611-b68f5e61547d&order=3) | 압구정 | 11월 17일 | 0 / 0 | 이아연님 | 
@@ -233,6 +235,7 @@
 | 추지나 옮김 / 사카모토 유지 원저 / 모모세 시노부 지음, 『최고의 이혼 1』외 1개의 읽을거리 | [인생+드라마](https://trevari.co.kr/meetings/show?clubID=e2454614-78a0-4014-ab62-95e8ab95d317&order=3) | 성수 | 11월 17일 | 0 / 0 |  | 
 | 레베카 레이즌, 『샹젤리제 거리의 작은 향수가게(로맨틱 파리 컬렉션 3)』 | [체험독서-에용](https://trevari.co.kr/meetings/show?clubID=ef8bbdc3-ddf0-41b3-80bd-d98adcfef1df&order=3) | 강남 | 11월 17일 | 0 / 0 |  | 
 | 나심 니콜라스 탈레브, 『행운에 속지 마라』 | [투자입문-37](https://trevari.co.kr/meetings/show?clubID=f038510c-76b2-432c-b155-ecc209f766ce&order=3) | 압구정 | 11월 17일 | 0 / 0 |  | 
+| 앤드루 포터, 『빛과 물질에 관한 이론(양장본 HardCover)』외 1개의 읽을거리 | [북씨-물개](https://trevari.co.kr/meetings/show?clubID=f7c84522-b090-4f2c-9ab8-d66534fb076e&order=3) | 강남 | 11월 17일 | 0 / 0 |  | 
 | 나탈리 골드버그, 『뼛속까지 내려가서 써라』 | [그 인터뷰](https://trevari.co.kr/meetings/show?clubID=fc951d2c-8ef6-4295-a885-b4475338e8da&order=3) | 강남 | 11월 17일 | 0 / 0 | 손현님 | 
 | 권여선, 『안녕 주정뱅이』 | [음주입문-성수](https://trevari.co.kr/meetings/show?clubID=1fc3a211-296e-47fd-a1a1-95111e177ca4&order=3) | 성수 | 11월 17일 | 0 / 0 | 안상현님 | 
 | 앨런 무어, 『배트맨: 킬링 조크 디럭스 에디션(DC 그래픽 노블)(양장본 HardCover)』 | [무경계-끼리](https://trevari.co.kr/meetings/show?clubID=20b86227-0a29-4bda-ad30-cc54eb6f5560&order=3) | 강남 | 11월 20일 | 0 / 0 |  | 
@@ -336,5 +339,5 @@
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-넷일](https://trevari.co.kr/meetings/show?clubID=393671c8-d6f8-408b-abff-4d3902262567&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
 
-총 316 개  
+총 319 개  
 
