@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-10-31 20:01:14  
+> Updated on 2019-11-01 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -254,6 +254,7 @@
 | 김연수, 『청춘의 문장들』 | [짧은 씀에세이](https://trevari.co.kr/meetings/show?clubID=3e6af592-bebf-4787-b9aa-cf67cdc55526&order=1) | 안국 | 11월 21일 | 0 / 0 |  | 
 | Frank Chen, 『Humanity + AI: Better Together』외 1개의 읽을거리 | [에잉?아잉!](https://trevari.co.kr/meetings/show?clubID=689f3159-cf4d-4421-bf3b-307e56277550&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
 | 박종무, 『살아있는 것들의 눈빛은 아름답다』 | [반려피플](https://trevari.co.kr/meetings/show?clubID=68b43db2-88f5-460b-968a-157a975a8c45&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
+| 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [스타텁-퍼플](https://trevari.co.kr/meetings/show?clubID=745aabb9-a921-43d2-921e-e1372e1c93a7&order=3) | 압구정 | 11월 21일 | 0 / 0 |  | 
 | 임홍빈 옮김 / 무라카미 하루키 지음, 『달리기를 말할 때 내가 하고 싶은 이야기』 | [무경계-행복](https://trevari.co.kr/meetings/show?clubID=8a342ece-ea70-4a63-a73d-34ee3f919c54&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
 | 손원평, 『아몬드(창비청소년문학 78)(반양장)』 | [34](https://trevari.co.kr/meetings/show?clubID=b32426f4-fcf7-4d17-b660-be380d510751&order=3) | 압구정 | 11월 21일 | 0 / 0 |  | 
 | 게리 채프먼, 『5가지 사랑의 언어(개정판)』 | [럽럽-셋목](https://trevari.co.kr/meetings/show?clubID=d3c420d5-66de-4431-aa9a-b8ea1c9ef084&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
@@ -290,6 +291,7 @@
 | 정세랑, 『피프티 피플』 | [보통의존재-함께](https://trevari.co.kr/meetings/show?clubID=958993d3-2133-4f89-bb8a-2d2fade5a22e&order=1) | 성수 | 11월 23일 | 0 / 0 |  | 
 | Chiang Ted, 『Exhalation』 | [잉잉-46](https://trevari.co.kr/meetings/show?clubID=95ab43ce-2a48-4003-808d-b5e5e20b4a8e&order=3) | 성수 | 11월 23일 | 0 / 0 |  | 
 | 윤광준, 『심미안 수업』 | [체험독서-앵두](https://trevari.co.kr/meetings/show?clubID=a338a20a-2929-4014-8aaa-a5c2ffe45d73&order=3) | 강남 | 11월 23일 | 0 / 0 |  | 
+| 이경미, 정은아, 『우리는 취향을 팝니다』 | [마케터즈-블랙](https://trevari.co.kr/meetings/show?clubID=b15b35db-2463-47e5-be45-4c5f16df10c1&order=3) | 압구정 | 11월 23일 | 0 / 0 |  | 
 | 최용준  사진 / 박찬용 지음, 『요즘 브랜드』 | [제품/서비스 기획자들-레고](https://trevari.co.kr/meetings/show?clubID=c7a82370-c948-42b0-849c-7ead5ef193bc&order=1) | 성수 | 11월 23일 | 0 / 0 |  | 
 | 밀란 쿤데라, 『참을 수 없는 존재의 가벼움』 | [럽럽-끼리](https://trevari.co.kr/meetings/show?clubID=db551594-1eff-4c06-a2db-6186d842c816&order=1) | 강남 | 11월 23일 | 0 / 0 |  | 
 | 오가와 요코, 『박사가 사랑한 수식』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=3) | 안국 | 11월 23일 | 0 / 0 | 민용준님 | 
@@ -309,6 +311,7 @@
 | 테크니들, 『인공지능 비즈니스 트렌드』외 1개의 읽을거리 | [에잉?아잉!-오예](https://trevari.co.kr/meetings/show?clubID=b96d157e-75e9-497d-8591-9ff471259c60&order=3) | 강남 | 11월 24일 | 0 / 0 |  | 
 | 마이클 바스카, 『큐레이션』 | [소비자들](https://trevari.co.kr/meetings/show?clubID=c9df6ff8-5df1-4e1a-beb5-57113a3d9089&order=3) | 안국 | 11월 24일 | 0 / 0 |  | 
 | 박경숙, 『어쨌거나 회사를 다녀야 한다면』 | [사이드프로젝트-소풍](https://trevari.co.kr/meetings/show?clubID=d99c2c63-7b3d-48b4-826c-ce837e23abe1&order=1) | 강남 | 11월 24일 | 0 / 0 |  | 
+| 신경숙, 『엄마를 부탁해』외 1개의 읽을거리 | [북씨-완두콩](https://trevari.co.kr/meetings/show?clubID=ecbfba9e-fb87-45cf-81ea-2aaa7adb2dfb&order=3) | 강남 | 11월 24일 | 0 / 0 |  | 
 | 버지니아 울프, 『올랜도(기획 29주년 기념 특별 한정판)(버지니아 울프 전집 3)(양장본...』 | [짧은 문고전-밤](https://trevari.co.kr/meetings/show?clubID=2af55095-1691-4d3e-93b8-9251f78e2f8d&order=3) | 강남 | 11월 27일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』 | [짧은 무경계-우와](https://trevari.co.kr/meetings/show?clubID=3ee922b0-6bc7-45b8-ab06-9c1bd21173fd&order=1) | 강남 | 11월 27일 | 0 / 0 |  | 
 | 앤드루 산텔라, 『미루기의 천재들』외 1개의 읽을거리 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=8e7e4a42-ae6d-4324-ae4a-9d6fe1c95d17&order=3) | 압구정 | 11월 27일 | 0 / 0 |  | 
@@ -360,5 +363,5 @@
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-넷일](https://trevari.co.kr/meetings/show?clubID=393671c8-d6f8-408b-abff-4d3902262567&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리 지음, 『21세기를 위한 21가지 제언』외 5개의 읽을거리 | [에잉?아잉!-오예](https://trevari.co.kr/meetings/show?clubID=b96d157e-75e9-497d-8591-9ff471259c60&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
 
-총 340 개  
+총 343 개  
 
