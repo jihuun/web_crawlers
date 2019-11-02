@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-02 01:01:13  
+> Updated on 2019-11-02 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -166,6 +166,7 @@
 | 올더스 헉슬리, 『멋진 신세계』 | [문-바리](https://trevari.co.kr/meetings/show?clubID=7542714b-7174-406e-be0a-d0f00a8b1200&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 테드 창, 『숨』 | [체험독서-와춤을](https://trevari.co.kr/meetings/show?clubID=7e0d931a-0bfd-453a-aa07-5807334514c7&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 패티 맥코드, 『파워풀』 | [스타텁-셋금](https://trevari.co.kr/meetings/show?clubID=8ac856a6-35e7-4500-87af-a04b52a889ce&order=3) | 안국 | 11월 15일 | 0 / 0 |  | 
+| 손원평, 『아몬드(창비청소년문학 78)(반양장)』 | [무경계-월드](https://trevari.co.kr/meetings/show?clubID=8f72bd16-6e10-4009-ac84-d2208951bf72&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
 | 리카이푸, 『AI 슈퍼파워』 | [차이나스토리-셋금](https://trevari.co.kr/meetings/show?clubID=997f9300-6167-4f7f-bfe6-01d0a9588e21&order=3) | 강남 | 11월 15일 | 0 / 0 | 김민지님 | 
 | 나심 니콜라스 탈레브, 『행운에 속지 마라』 | [투자입문-셋금](https://trevari.co.kr/meetings/show?clubID=bb2f977e-c4a2-4df5-993b-71a70ed2e08e&order=3) | 안국 | 11월 15일 | 0 / 0 |  | 
 | 버지니아 울프, 『댈러웨이 부인』 | [세인트존스고전읽기-앵두](https://trevari.co.kr/meetings/show?clubID=be805a02-8ce0-4252-a4f6-d944629330cf&order=3) | 강남 | 11월 15일 | 0 / 0 |  | 
@@ -186,6 +187,7 @@
 | 권상미 옮김 / 마리 루티 지음, 『하버드 사랑학 수업』외 1개의 읽을거리 | [북씨-플릭스](https://trevari.co.kr/meetings/show?clubID=33b98a76-7ba0-4f19-a026-91c2887d5f46&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 김민철, 『모든 요일의 기록 』 | [체험독서-36](https://trevari.co.kr/meetings/show?clubID=38742b46-b0e9-459d-86c7-1dd3714f60b4&order=3) | 성수 | 11월 16일 | 0 / 0 |  | 
 | 박지리, 『다윈 영의 악의 기원』외 1개의 읽을거리 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=46564f97-4ee7-452d-8430-d980b2b9cc0f&order=3) | 안국 | 11월 16일 | 0 / 0 |  | 
+| 구병모, 『위저드 베이커리(양장본 HardCover)』 | [씀-피쓰](https://trevari.co.kr/meetings/show?clubID=4ed01a1a-183e-45f7-9afe-6641f515bdcb&order=3) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 스콧 피츠제럴드, 『위대한 개츠비』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=1) | 강남 | 11월 16일 | 0 / 0 |  | 
 | 앤서니 버지스, 『시계태엽 오렌지』외 1개의 읽을거리 | [36](https://trevari.co.kr/meetings/show?clubID=5e9338a2-0ad9-4c85-846a-32f50790b831&order=3) | 압구정 | 11월 16일 | 0 / 0 |  | 
 | 알랭 드 보통, 『우리는 사랑일까』외 1개의 읽을거리 | [북씨-민트](https://trevari.co.kr/meetings/show?clubID=60894202-a464-45af-9dc0-a97d9e726783&order=3) | 압구정 | 11월 16일 | 0 / 0 |  | 
@@ -367,5 +369,5 @@
 | 安定医院郝医生, 『你也是蘑菇吗』 | [쭝쭝](https://trevari.co.kr/meetings/show?clubID=76cff246-f27d-40f2-a538-fb2136ddc7fe&order=4) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 킴 스콧, 『실리콘밸리의 팀장들』 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=cf67b549-5484-4d74-a67d-cdb7ee76cbd0&order=4) | 강남 | 12월 26일 | 0 / 0 | 이재왕님 | 
 
-총 347 개  
+총 349 개  
 
