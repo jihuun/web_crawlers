@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-07 20:01:13  
+> Updated on 2019-11-08 01:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -303,7 +303,7 @@
 | 존 휘트모어, 『코칭 리더십(성과 향상을 위한)』 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=cf67b549-5484-4d74-a67d-cdb7ee76cbd0&order=3) | 강남 | 11월 28일 | 0 / 0 | 이재왕님 | 
 | 알랭 드 보통, 『여행의 기술』외 1개의 읽을거리 | [북씨-자몽](https://trevari.co.kr/meetings/show?clubID=dd1990f8-4916-4325-97e3-b06858b189c0&order=1) | 안국 | 11월 28일 | 0 / 0 |  | 
 | 콜린 앨러드, 『공간이 사람을 움직인다』 | [짧은 공간과나](https://trevari.co.kr/meetings/show?clubID=f088ae19-ceb5-4e85-9296-3085fe5130a2&order=1) | 강남 | 11월 28일 | 0 / 0 |  | 
-| Jon Russell, 『Korean e-commerce firm Coupang raises $2 billion from SoftBank’s Vision Fund』외 10개의 읽을거리 | [Unsung Unicorn](https://trevari.co.kr/meetings/show?clubID=16b97f49-c9cf-4939-91db-3e0216fbb571&order=4) | 압구정 | 12월 01일 | 0 / 0 | 정상엽님 | 
+| Jon Russell, 『Korean e-commerce firm Coupang raises $2 billion from SoftBank’s Vision Fund』외 15개의 읽을거리 | [Unsung Unicorn](https://trevari.co.kr/meetings/show?clubID=16b97f49-c9cf-4939-91db-3e0216fbb571&order=4) | 압구정 | 12월 01일 | 0 / 0 | 정상엽님 | 
 | 야마구치 슈, 『철학은 어떻게 삶의 무기가 되는가』 | [씀에세이-맑음](https://trevari.co.kr/meetings/show?clubID=29ea909c-632c-41bc-927e-96ce91364262&order=2) | 안국 | 12월 01일 | 0 / 0 |  | 
 | 제임스 올러클린, 『버핏 신화를 벗다』 | [창업과 투자 사이](https://trevari.co.kr/meetings/show?clubID=6128ecc3-9ab7-4eda-b4a4-36acc0908905&order=4) | 성수 | 12월 01일 | 0 / 0 | 박지웅님 | 
 | 헤르타 뮐러, 『저지대(양장본 HardCover)』 | [웬만해선 잘 모르는 고전](https://trevari.co.kr/meetings/show?clubID=734d0ece-8682-4202-b83a-f698d124ead7&order=4) | 안국 | 12월 01일 | 0 / 0 | 이충걸님 | 
@@ -321,6 +321,8 @@
 | 에릭 포즈너, 글렌 웨일, 『래디컬 마켓』 | [어떤혁신](https://trevari.co.kr/meetings/show?clubID=ad1c6778-0fe1-439a-82e9-64339a50d4a1&order=4) | 안국 | 12월 06일 | 0 / 0 | 윤종수님 | 
 | 보스토크 프레스 편집부, 구병모, 『보스토크(Vostok). 16』 | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=4) | 압구정 | 12월 06일 | 0 / 0 |  | 
 | 황두진, 『무지개떡 건축, 회색 도시의 미래』 | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=4) | 안국 | 12월 06일 | 0 / 0 | 황두진님 | 
+| , 『매경이코노미 11월27일 발행호』 | [경제잡지](https://trevari.co.kr/meetings/show?clubID=223049a5-9afb-4f7b-a39e-8403b87f34d2&order=4) | 성수 | 12월 07일 | 0 / 0 |  | 
+| 마틴 게이퍼드, 『내가 그림이 되다』 | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=283fdaa0-b3e1-4f96-82ad-f5fdc62ef795&order=4) | 안국 | 12월 07일 | 0 / 0 | 이충걸님 | 
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 애덤 그랜트, 『오리지널스』 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=3ac21a67-291f-4f64-b5ca-a24f40e88d1f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 장강명, 『산 자들(반양장)』 | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=42c1d0e3-eab2-4340-a798-19397e23b52f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
@@ -340,7 +342,7 @@
 | 대니얼 J. 레비틴, 『정리하는 뇌』 | [내 인생의 조각모음](https://trevari.co.kr/meetings/show?clubID=bbcfd9a0-44e4-40dc-aecf-a56e95098261&order=2) | 강남 | 12월 13일 | 0 / 0 | 이정원님 | 
 | 패티 맥코드, 『파워풀』 | [디지털콘텐츠+비즈니스](https://trevari.co.kr/meetings/show?clubID=5fc3f990-8e8a-41d4-acb5-65a3fdcbb664&order=4) | 성수 | 12월 14일 | 0 / 0 | 윤성원님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=c809d5d8-7bce-4118-b8e8-0ffbbe33cca4&order=4) | 강남 | 12월 14일 | 0 / 0 |  | 
-| 박승찬, 『아우구스티누스에게 삶의 길을 묻다』 | [진진-레드](https://trevari.co.kr/meetings/show?clubID=ed2a7833-b01b-4c8a-9208-4343d556bbe3&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
+| 박승찬, 『아우구스티누스에게 삶의 길을 묻다』외 1개의 읽을거리 | [진진-레드](https://trevari.co.kr/meetings/show?clubID=ed2a7833-b01b-4c8a-9208-4343d556bbe3&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
 | 제레드 다이아몬드, 『총 균 쇠』 | [자연사](https://trevari.co.kr/meetings/show?clubID=4be456d3-40d5-4c76-9eef-e095d19a3e91&order=4) | 서대문 | 12월 15일 | 0 / 0 | 이정모님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-37](https://trevari.co.kr/meetings/show?clubID=f038510c-76b2-432c-b155-ecc209f766ce&order=4) | 압구정 | 12월 15일 | 0 / 0 |  | 
 | 로베르타 골린코프, 캐시 허시-파섹, 『최고의 교육(4차 산업혁명 시대 미래형 인재를 만드는)』 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=4ca2be5b-1b75-45fd-8d8e-421188225666&order=4) | 압구정 | 12월 18일 | 0 / 0 |  | 
@@ -361,7 +363,7 @@
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-넷일](https://trevari.co.kr/meetings/show?clubID=393671c8-d6f8-408b-abff-4d3902262567&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리 지음, 『21세기를 위한 21가지 제언』외 5개의 읽을거리 | [에잉?아잉!-오예](https://trevari.co.kr/meetings/show?clubID=b96d157e-75e9-497d-8591-9ff471259c60&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
 | 애덤 라신스키, 『Inside Apple(인사이드 애플)(양장본 HardCover)』 | [경영하는 인간](https://trevari.co.kr/meetings/show?clubID=f64621da-59aa-4eaf-a124-811573c9f115&order=4) | 강남 | 12월 25일 | 0 / 0 | 신기주님 | 
-| 가토 신로, 『아우구스티누스 고백록 강의(양장본 HardCover)』 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
+| 가토 신로, 『아우구스티누스 고백록 강의(양장본 HardCover)』외 1개의 읽을거리 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
 | 安定医院郝医生, 『你也是蘑菇吗』 | [쭝쭝](https://trevari.co.kr/meetings/show?clubID=76cff246-f27d-40f2-a538-fb2136ddc7fe&order=4) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 킴 스콧, 『실리콘밸리의 팀장들』 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=cf67b549-5484-4d74-a67d-cdb7ee76cbd0&order=4) | 강남 | 12월 26일 | 0 / 0 | 이재왕님 | 
 | 로버트 킨슬, 마니 페이반, 『유튜브 레볼루션(YouTube Revolution)』 | [글로벌 마케터스 클럽](https://trevari.co.kr/meetings/show?clubID=0f24fff3-3949-41d5-977c-ac19a096fa4c&order=4) | 강남 | 12월 27일 | 0 / 0 | 진민규님 | 
@@ -369,5 +371,5 @@
 | 노상규, 『오가닉 비즈니스』 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=3954b58a-9290-4fe7-ab92-123ed5eda30b&order=4) | 안국 | 12월 27일 | 0 / 0 | 차우진님 | 
 | 김민철, 『모든 요일의 기록 』 | [씀에세이-45](https://trevari.co.kr/meetings/show?clubID=5886aa6d-2810-4d7d-ae7c-8a96e2b2c3d4&order=4) | 성수 | 12월 27일 | 0 / 0 |  | 
 
-총 349 개  
+총 351 개  
 
