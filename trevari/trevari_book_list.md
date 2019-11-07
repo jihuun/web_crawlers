@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-07 01:01:13  
+> Updated on 2019-11-07 11:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -21,7 +21,6 @@
 | --- | --- | --- | --- | --- | --- |  
 | 최윤섭, 『그렇게 나는 스스로 기업이 되었다』 | [사이드프로젝트-첫목](https://trevari.co.kr/meetings/show?clubID=1f57bdfb-c81f-468e-9bd4-d393dcffbb27&order=3) | 안국 | 11월 07일 | 0 / 0 |  | 
 | 임정훈, 남상춘, 『알리바바가 온다(20억 소비자의 24시간을 지배하는)』 | [차이나스토리-첫목](https://trevari.co.kr/meetings/show?clubID=35250bb5-4788-40d2-bc19-3366d2c6cda9&order=3) | 강남 | 11월 07일 | 0 / 0 | 김민지님 | 
-| 심재광, 『소년을 위한 재판』 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=cc6a1c34-eb87-4001-8d48-4e39d35ab569&order=3) | 안국 | 11월 07일 | 0 / 0 | 노소라님 | 
 | 이반 일리치 , 『누가 나를 쓸모없게 만드는가』외 1개의 읽을거리 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=3) | 안국 | 11월 07일 | 0 / 0 | 박재용님 | 
 | 기시미 이치로, 고가 후미타케, 『[트윈북전용]  [ePub3.0] 미움받을 용기. 1 (7일 대여)』외 1개의 읽을거리 | [나알기-행복](https://trevari.co.kr/meetings/show?clubID=0d492885-96ec-4d08-9d27-a307a5fef61d&order=1) | 안국 | 11월 08일 | 0 / 0 |  | 
 | 서효인, 『이게 다 야구 때문이다』 | [야구야구-25](https://trevari.co.kr/meetings/show?clubID=205f9ae4-1949-488d-a3c0-e131ba9b6707&order=3) | 압구정 | 11월 08일 | 0 / 0 |  | 
@@ -311,6 +310,7 @@
 | 탈레스 S 테이셰이라, 『디커플링(양장본 HardCover)』 | [스타텁-구름](https://trevari.co.kr/meetings/show?clubID=75e7b43f-77ba-4a87-8756-4562b57b5d9e&order=2) | 강남 | 12월 01일 | 0 / 0 |  | 
 | 위화, 『제7일』 | [문-블루](https://trevari.co.kr/meetings/show?clubID=9439bcea-7b3a-4314-b621-ee9e332d02cb&order=4) | 압구정 | 12월 01일 | 0 / 0 |  | 
 | 윌리엄 포크너, 『압살롬 압살롬(세계문학전집 299)』 | [세계-문학](https://trevari.co.kr/meetings/show?clubID=ee7dc505-aa5c-44df-8962-c5bbe27ca87b&order=4) | 안국 | 12월 01일 | 0 / 0 | 윤경희님 | 
+| 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-거북이](https://trevari.co.kr/meetings/show?clubID=fabdac37-7785-4f20-bde2-a90e2d3ec90f&order=4) | 안국 | 12월 01일 | 0 / 0 |  | 
 | 프리드리히 니체, 『차라투스트라는 이렇게 말했다(세계문학전집 94)』 | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=921dca05-0023-4793-95e1-aec41037b7ce&order=4) | 강남 | 12월 04일 | 0 / 0 |  | 
 | 리처드 랭엄, 『요리 본능』 | [우리는 오늘도 먹기 위해 산다](https://trevari.co.kr/meetings/show?clubID=96c62384-7ce7-47d5-8ef3-34787c324b31&order=4) | 강남 | 12월 04일 | 0 / 0 | 박찬일님 | 
 | 장노엘 캐퍼러, 『브랜드와 유통의 전쟁』 | [브랜드 깊알 시즌2](https://trevari.co.kr/meetings/show?clubID=e0b066d7-e90e-45a3-bcf0-5e5492225eec&order=4) | 강남 | 12월 04일 | 0 / 0 | 박항기님 | 
@@ -318,6 +318,7 @@
 | 소스타인 베블런, 『베블런의 과시적 소비』외 1개의 읽을거리 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=4) | 안국 | 12월 05일 | 0 / 0 | 박재용님 | 
 | 에밀 아자르, 『자기 앞의 생』 | [문-첫금](https://trevari.co.kr/meetings/show?clubID=5caa6384-97b0-4d43-9ee5-eb803565a979&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 에릭 포즈너, 글렌 웨일, 『래디컬 마켓』 | [어떤혁신](https://trevari.co.kr/meetings/show?clubID=ad1c6778-0fe1-439a-82e9-64339a50d4a1&order=4) | 안국 | 12월 06일 | 0 / 0 | 윤종수님 | 
+| 보스토크 프레스 편집부, 구병모, 『보스토크(Vostok). 16』 | [문-옐로](https://trevari.co.kr/meetings/show?clubID=db9b2ff9-7c06-4afb-896e-b093ec3c35e4&order=4) | 압구정 | 12월 06일 | 0 / 0 |  | 
 | 황두진, 『무지개떡 건축, 회색 도시의 미래』 | [그래, 도시!](https://trevari.co.kr/meetings/show?clubID=f8eac17f-8dc0-455b-a248-232dde8e9553&order=4) | 안국 | 12월 06일 | 0 / 0 | 황두진님 | 
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 장강명, 『산 자들(반양장)』 | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=42c1d0e3-eab2-4340-a798-19397e23b52f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
@@ -363,5 +364,5 @@
 | 노상규, 『오가닉 비즈니스』 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=3954b58a-9290-4fe7-ab92-123ed5eda30b&order=4) | 안국 | 12월 27일 | 0 / 0 | 차우진님 | 
 | 김민철, 『모든 요일의 기록 』 | [씀에세이-45](https://trevari.co.kr/meetings/show?clubID=5886aa6d-2810-4d7d-ae7c-8a96e2b2c3d4&order=4) | 성수 | 12월 27일 | 0 / 0 |  | 
 
-총 343 개  
+총 344 개  
 
