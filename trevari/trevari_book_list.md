@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-08 20:01:13  
+> Updated on 2019-11-09 01:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -321,6 +321,7 @@
 | 아서 코난 도일, 『셜록 홈즈 주홍색 연구(펭귄클래식 58)』 | [런던](https://trevari.co.kr/meetings/show?clubID=7dc17e95-c5da-4cbb-ba8a-0fdb938bdd83&order=2) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 파트리크 쥐스킨트, 『향수(양장본 HardCover)』 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=875da0b6-8e15-464e-896a-e9582bf2e41d&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-첫토](https://trevari.co.kr/meetings/show?clubID=8bbb0d6d-5ed2-4428-be6f-c09f6e6e31fb&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
+| 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=ba38e877-717d-4b17-a5ce-19f5205f2fea&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 김영하, 『빛의 제국』 | [문-그린](https://trevari.co.kr/meetings/show?clubID=d8c41962-9dff-4996-b70e-be00a36b6440&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 히가시노 게이고, 『인어가 잠든 집』 | [무경계-구름](https://trevari.co.kr/meetings/show?clubID=f437937e-d06f-46a9-8cc7-13952daa1ad5&order=2) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 오르한 파묵, 『내 이름은 빨강. 1(모던 클래식 1)』외 1개의 읽을거리 | [문-보라](https://trevari.co.kr/meetings/show?clubID=fe21d33f-8b80-4703-8bc6-7a38fe725520&order=4) | 안국 | 12월 07일 | 0 / 0 |  | 
@@ -364,5 +365,5 @@
 | 제임스 R 핸슨, 『퍼스트맨』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=4) | 안국 | 12월 28일 | 0 / 0 | 민용준님 | 
 | 유키 소노마, 『하버드 행복 수업』 | [지식생산자](https://trevari.co.kr/meetings/show?clubID=f80833ec-148d-4f91-bbf6-ce9800076cb7&order=4) | 강남 | 12월 28일 | 0 / 0 | 예병일님 | 
 
-총 344 개  
+총 345 개  
 
