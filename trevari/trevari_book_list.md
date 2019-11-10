@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-10 20:01:13  
+> Updated on 2019-11-11 01:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -243,6 +243,7 @@
 | 존 휘트모어, 『코칭 리더십(성과 향상을 위한)』 | [애자일 조직 만들기](https://trevari.co.kr/meetings/show?clubID=cf67b549-5484-4d74-a67d-cdb7ee76cbd0&order=3) | 강남 | 11월 28일 | 0 / 0 | 이재왕님 | 
 | 알랭 드 보통, 『여행의 기술』외 1개의 읽을거리 | [북씨-자몽](https://trevari.co.kr/meetings/show?clubID=dd1990f8-4916-4325-97e3-b06858b189c0&order=1) | 안국 | 11월 28일 | 0 / 0 |  | 
 | 콜린 앨러드, 『공간이 사람을 움직인다』 | [짧은 공간과나](https://trevari.co.kr/meetings/show?clubID=f088ae19-ceb5-4e85-9296-3085fe5130a2&order=1) | 강남 | 11월 28일 | 0 / 0 |  | 
+| 문유석, 『개인주의자 선언』 | [나혼자산다](https://trevari.co.kr/meetings/show?clubID=123f0369-57d8-4ca7-bc45-472e326fc5eb&order=2) | 강남 | 12월 01일 | 0 / 0 |  | 
 | Jon Russell, 『Korean e-commerce firm Coupang raises $2 billion from SoftBank’s Vision Fund』외 15개의 읽을거리 | [Unsung Unicorn](https://trevari.co.kr/meetings/show?clubID=16b97f49-c9cf-4939-91db-3e0216fbb571&order=4) | 압구정 | 12월 01일 | 0 / 0 | 정상엽님 | 
 | 야마구치 슈, 『철학은 어떻게 삶의 무기가 되는가』 | [씀에세이-맑음](https://trevari.co.kr/meetings/show?clubID=29ea909c-632c-41bc-927e-96ce91364262&order=2) | 안국 | 12월 01일 | 0 / 0 |  | 
 | 제임스 올러클린, 『버핏 신화를 벗다』 | [창업과 투자 사이](https://trevari.co.kr/meetings/show?clubID=6128ecc3-9ab7-4eda-b4a4-36acc0908905&order=4) | 성수 | 12월 01일 | 0 / 0 | 박지웅님 | 
@@ -332,5 +333,5 @@
 | 제임스 R 핸슨, 『퍼스트맨』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=4) | 안국 | 12월 28일 | 0 / 0 | 민용준님 | 
 | 유키 소노마, 『하버드 행복 수업』 | [지식생산자](https://trevari.co.kr/meetings/show?clubID=f80833ec-148d-4f91-bbf6-ce9800076cb7&order=4) | 강남 | 12월 28일 | 0 / 0 | 예병일님 | 
 
-총 312 개  
+총 313 개  
 
