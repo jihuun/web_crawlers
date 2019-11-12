@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-12 11:01:13  
+> Updated on 2019-11-12 20:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -227,6 +227,7 @@
 | 버지니아 울프, 『올랜도(기획 29주년 기념 특별 한정판)(버지니아 울프 전집 3)(양장본...』 | [짧은 문고전-밤](https://trevari.co.kr/meetings/show?clubID=2af55095-1691-4d3e-93b8-9251f78e2f8d&order=3) | 강남 | 11월 27일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』 | [짧은 무경계-우와](https://trevari.co.kr/meetings/show?clubID=3ee922b0-6bc7-45b8-ab06-9c1bd21173fd&order=1) | 강남 | 11월 27일 | 0 / 0 |  | 
 | 팀 하포드 , 『당신이 경제학자라면』외 1개의 읽을거리 | [돈돈Q](https://trevari.co.kr/meetings/show?clubID=51561399-01ce-44ff-ac7d-fb6475845a20&order=1) | 강남 | 11월 27일 | 0 / 0 | 홍진채님 | 
+| 김상훈, 박선미, 『진정성 마케팅』 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=68b277ea-c971-4a60-987b-f8990e219e51&order=3) | 성수 | 11월 27일 | 0 / 0 |  | 
 | 앤드루 산텔라, 『미루기의 천재들』외 1개의 읽을거리 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=8e7e4a42-ae6d-4324-ae4a-9d6fe1c95d17&order=3) | 압구정 | 11월 27일 | 0 / 0 |  | 
 | 염한결, 이원희, 『트렌드 노트(2020)』 | [InVi](https://trevari.co.kr/meetings/show?clubID=99ae1ab4-993e-4499-a27c-044750f8e8e8&order=3) | 성수 | 11월 27일 | 0 / 0 | 최소현님 | 
 | 수 클리볼드, 『나는 가해자의 엄마입니다』외 1개의 읽을거리 | [북씨-베리](https://trevari.co.kr/meetings/show?clubID=bdb1eb9a-f685-46da-89d0-216fac6d698d&order=1) | 압구정 | 11월 27일 | 0 / 0 |  | 
@@ -264,6 +265,7 @@
 | 김원영 지음, 『실격당한 자들을 위한 변론』 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=cc6a1c34-eb87-4001-8d48-4e39d35ab569&order=4) | 안국 | 12월 05일 | 0 / 0 | 노소라님 | 
 | 소스타인 베블런, 『베블런의 과시적 소비』외 1개의 읽을거리 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=4) | 안국 | 12월 05일 | 0 / 0 | 박재용님 | 
 | 에밀 아자르, 『자기 앞의 생』 | [문-첫금](https://trevari.co.kr/meetings/show?clubID=5caa6384-97b0-4d43-9ee5-eb803565a979&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
+| 김위찬, 르네 마보안, 『블루오션 시프트(양장본 HardCover)』 | [제품/서비스 기획자들-끼리](https://trevari.co.kr/meetings/show?clubID=a26cc921-ac98-4a3a-9d73-0910ad5d7802&order=2) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 후안 마요르가, 『맨 끝줄 소년』 | [극극-첫금](https://trevari.co.kr/meetings/show?clubID=a2df796e-8942-4e62-ac8e-eed2973ac474&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 바라트 아난드, 『콘텐츠의 미래』 | [비즈-에용](https://trevari.co.kr/meetings/show?clubID=ab767d8a-e147-4ce2-96b1-84271030d6e3&order=4) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 에릭 포즈너, 글렌 웨일, 『래디컬 마켓』 | [어떤혁신](https://trevari.co.kr/meetings/show?clubID=ad1c6778-0fe1-439a-82e9-64339a50d4a1&order=4) | 안국 | 12월 06일 | 0 / 0 | 윤종수님 | 
@@ -342,5 +344,5 @@
 | 제임스 R 핸슨, 『퍼스트맨』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=4) | 안국 | 12월 28일 | 0 / 0 | 민용준님 | 
 | 유키 소노마, 『하버드 행복 수업』 | [지식생산자](https://trevari.co.kr/meetings/show?clubID=f80833ec-148d-4f91-bbf6-ce9800076cb7&order=4) | 강남 | 12월 28일 | 0 / 0 | 예병일님 | 
 
-총 322 개  
+총 324 개  
 
