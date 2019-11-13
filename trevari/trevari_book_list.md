@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-13 11:01:14  
+> Updated on 2019-11-13 20:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -19,11 +19,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 대런 애쓰모글루 외 2인, 『국가는 왜 실패하는가』 | [무경계-고래](https://trevari.co.kr/meetings/show?clubID=39e6389e-9a8b-4b1e-8ea7-3423b0ff8ca3&order=3) | 압구정 | 11월 13일 | 0 / 0 |  | 
-| 최지훈, 『그래서, 인터널브랜딩』 | [조직의 쓴맛](https://trevari.co.kr/meetings/show?clubID=4454777b-d827-491c-96fc-d0dfda2dce05&order=3) | 압구정 | 11월 13일 | 0 / 0 | 장영학님 | 
-| 페터 한트케, 『관객모독(세계문학전집 306)』 | [씀에세이-23](https://trevari.co.kr/meetings/show?clubID=992a0429-cc5e-4ef7-94a8-5f817365995e&order=3) | 압구정 | 11월 13일 | 0 / 0 |  | 
-| 이언 매큐언, 『속죄』 | [문-블랙](https://trevari.co.kr/meetings/show?clubID=c2152cb9-adbc-41f0-9055-c87669a737f6&order=3) | 압구정 | 11월 13일 | 0 / 0 |  | 
-| 페터 한트케, 『긴 이별을 위한 짧은 편지(세계문학전집 68)』 | [짧은 무경계-숲](https://trevari.co.kr/meetings/show?clubID=d3792d8f-7d7e-4e68-a538-95873c3fcfed&order=3) | 강남 | 11월 13일 | 0 / 0 |  | 
 | 피터 괴체, 『위험한 제약회사』 | [넘버스](https://trevari.co.kr/meetings/show?clubID=36d39712-5a92-42af-aeb3-5dc8f3884879&order=3) | 압구정 | 11월 14일 | 0 / 0 | 황승식님 | 
 | 박상영, 『대도시의 사랑법』 | [둘목](https://trevari.co.kr/meetings/show?clubID=524b2e15-1a11-4888-a1b6-7068894b92c3&order=3) | 안국 | 11월 14일 | 0 / 0 |  | 
 | 오비디우스, 『변신 이야기(개정판)(원전으로 읽는 순수 고전 세계)(양장본 HardCover)』 | [신화창조](https://trevari.co.kr/meetings/show?clubID=6f7b8b80-36cf-4649-b664-2e23c0ae9921&order=3) | 강남 | 11월 14일 | 0 / 0 |  | 
@@ -262,6 +257,7 @@
 | 프리드리히 니체, 『차라투스트라는 이렇게 말했다(세계문학전집 94)』 | [세인트존스고전읽기](https://trevari.co.kr/meetings/show?clubID=921dca05-0023-4793-95e1-aec41037b7ce&order=4) | 강남 | 12월 04일 | 0 / 0 |  | 
 | 리처드 랭엄, 『요리 본능』 | [우리는 오늘도 먹기 위해 산다](https://trevari.co.kr/meetings/show?clubID=96c62384-7ce7-47d5-8ef3-34787c324b31&order=4) | 강남 | 12월 04일 | 0 / 0 | 박찬일님 | 
 | 곽준식, 『브랜드 행동경제학을 만나다』 | [브랜드 깊알 시즌2](https://trevari.co.kr/meetings/show?clubID=e0b066d7-e90e-45a3-bcf0-5e5492225eec&order=4) | 강남 | 12월 04일 | 0 / 0 | 박항기님 | 
+| 김만기, 박보현, 『중국의 젊은 부자들』 | [차이나스토리-첫목](https://trevari.co.kr/meetings/show?clubID=35250bb5-4788-40d2-bc19-3366d2c6cda9&order=4) | 강남 | 12월 05일 | 0 / 0 | 김민지님 | 
 | 김원영 지음, 『실격당한 자들을 위한 변론』 | [생존 법률](https://trevari.co.kr/meetings/show?clubID=cc6a1c34-eb87-4001-8d48-4e39d35ab569&order=4) | 안국 | 12월 05일 | 0 / 0 | 노소라님 | 
 | 소스타인 베블런, 『베블런의 과시적 소비』외 1개의 읽을거리 | [취향있냥](https://trevari.co.kr/meetings/show?clubID=fe343235-9c3c-417a-89dc-0d9107221217&order=4) | 안국 | 12월 05일 | 0 / 0 | 박재용님 | 
 | 문유석, 『개인주의자 선언』 | [마음-레드](https://trevari.co.kr/meetings/show?clubID=44358f22-6166-4bf0-99b8-23d644122138&order=4) | 압구정 | 12월 06일 | 0 / 0 |  | 
@@ -288,8 +284,10 @@
 | 마이클 부스, 『거의 완벽에 가까운 사람들』 | [덕덕](https://trevari.co.kr/meetings/show?clubID=6e156a0e-88c4-4b01-8ec9-b7fc7ff8de8d&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 아서 코난 도일, 『셜록 홈즈 주홍색 연구(펭귄클래식 58)』 | [런던](https://trevari.co.kr/meetings/show?clubID=7dc17e95-c5da-4cbb-ba8a-0fdb938bdd83&order=2) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 파트리크 쥐스킨트, 『향수(양장본 HardCover)』 | [체험독서-파티](https://trevari.co.kr/meetings/show?clubID=875da0b6-8e15-464e-896a-e9582bf2e41d&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
+| 최은영, 『쇼코의 미소』 | [체험독서-16](https://trevari.co.kr/meetings/show?clubID=88c6c4a1-de2a-41f4-8f5b-91e3b14e1d1b&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-첫토](https://trevari.co.kr/meetings/show?clubID=8bbb0d6d-5ed2-4428-be6f-c09f6e6e31fb&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 페터 한트케, 『긴 이별을 위한 짧은 편지(세계문학전집 68)』 | [첫토](https://trevari.co.kr/meetings/show?clubID=98ec8037-3055-4e13-9021-318a7f490262&order=4) | 안국 | 12월 07일 | 0 / 0 |  | 
+| 미야쓰 다이스케, 『월급쟁이, 컬렉터 되다』 | [미술아냥](https://trevari.co.kr/meetings/show?clubID=992b8acd-33c3-49e4-bac1-7a6a9da8495b&order=4) | 안국 | 12월 07일 | 0 / 0 | 박재용, 송고은님 | 
 | 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-골드](https://trevari.co.kr/meetings/show?clubID=ba38e877-717d-4b17-a5ce-19f5205f2fea&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 김영하, 『빛의 제국』 | [문-그린](https://trevari.co.kr/meetings/show?clubID=d8c41962-9dff-4996-b70e-be00a36b6440&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
 | 히가시노 게이고, 『나미야 잡화점의 기적 』외 1개의 읽을거리 | [북씨-16](https://trevari.co.kr/meetings/show?clubID=dc75cfa9-92d8-4dc7-b972-3268a9ea618a&order=4) | 성수 | 12월 07일 | 0 / 0 |  | 
@@ -319,8 +317,10 @@
 | 박완서, 『한 길 사람 속(박완서 산문집 8)(양장본 HardCover)』 | [씀-완두콩](https://trevari.co.kr/meetings/show?clubID=7613b61c-27c6-4cec-9507-1685edb61cf5&order=4) | 강남 | 12월 14일 | 0 / 0 |  | 
 | 피터 드러커, 『피터 드러커 매니지먼트(양장본 HardCover)』 | [안 망하는 클럽](https://trevari.co.kr/meetings/show?clubID=9390b652-8d9a-4dec-a36e-fc78badda44b&order=2) | 성수 | 12월 14일 | 0 / 0 | 이길상님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-타임](https://trevari.co.kr/meetings/show?clubID=c809d5d8-7bce-4118-b8e8-0ffbbe33cca4&order=4) | 강남 | 12월 14일 | 0 / 0 |  | 
+| 어슐러 K. 르귄, 『바람의 열두 방향(어슐러 K. 르 귄 걸작선 3)(양장본 HardCover)』 | [체험독서-하네](https://trevari.co.kr/meetings/show?clubID=cf3536c1-927f-4c6f-9d15-fad0a113f74a&order=4) | 강남 | 12월 14일 | 0 / 0 |  | 
 | 안도현, 『간절하게 참 철없이(창비시선 283)』 | [둘토](https://trevari.co.kr/meetings/show?clubID=d4d43963-0a90-406c-8e58-42fd38de2336&order=4) | 안국 | 12월 14일 | 0 / 0 |  | 
 | 박승찬, 『아우구스티누스에게 삶의 길을 묻다』외 1개의 읽을거리 | [진진-레드](https://trevari.co.kr/meetings/show?clubID=ed2a7833-b01b-4c8a-9208-4343d556bbe3&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
+| 임세원, 『죽고 싶은 사람은 없다』 | [마음-옐로](https://trevari.co.kr/meetings/show?clubID=ee22cffd-18bb-4008-a260-441008b66c99&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
 | 마크 해던, 『The Curious Incident of the Dog in the Night-Time』 | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=fa845dc0-ae7d-4801-a061-cf93ba915384&order=4) | 안국 | 12월 14일 | 0 / 0 |  | 
 | 제레드 다이아몬드, 『총 균 쇠』 | [자연사](https://trevari.co.kr/meetings/show?clubID=4be456d3-40d5-4c76-9eef-e095d19a3e91&order=4) | 서대문 | 12월 15일 | 0 / 0 | 이정모님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-37](https://trevari.co.kr/meetings/show?clubID=f038510c-76b2-432c-b155-ecc209f766ce&order=4) | 압구정 | 12월 15일 | 0 / 0 |  | 
