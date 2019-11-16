@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-16 20:01:12  
+> Updated on 2019-11-17 01:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -213,7 +213,6 @@
 | , 『매경이코노미 11월27일 발행호』 | [경제잡지](https://trevari.co.kr/meetings/show?clubID=223049a5-9afb-4f7b-a39e-8403b87f34d2&order=4) | 성수 | 12월 07일 | 0 / 0 |  | 
 | 마틴 게이퍼드, 『내가 그림이 되다』 | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=283fdaa0-b3e1-4f96-82ad-f5fdc62ef795&order=4) | 안국 | 12월 07일 | 0 / 0 | 이충걸님 | 
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
-| 윌리엄 서머셋 모옴, 『달과 6펜스』 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=2f730301-1c32-4304-bf74-6092ae8cda33&order=4) | 안국 | 12월 07일 | 0 / 0 |  | 
 | 애덤 그랜트, 『오리지널스』 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=3ac21a67-291f-4f64-b5ca-a24f40e88d1f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 장강명, 『산 자들(반양장)』 | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=42c1d0e3-eab2-4340-a798-19397e23b52f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 손열음, 『하노버에서 온 음악 편지』 | [음악의힘-경청](https://trevari.co.kr/meetings/show?clubID=44da8c65-36db-4d2a-a54e-b9b8f4430ee9&order=4) | 성수 | 12월 07일 | 0 / 0 | 조은아 님 | 
@@ -309,6 +308,7 @@
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-35](https://trevari.co.kr/meetings/show?clubID=edff5525-a0d8-472a-b31f-803843b57573&order=4) | 강남 | 12월 20일 | 0 / 0 |  | 
 | 조나 버거, 『컨테이저스 전략적 입소문』 | [파는 사람들](https://trevari.co.kr/meetings/show?clubID=11489b6e-cafb-4853-8c47-3cbff105f2cf&order=2) | 강남 | 12월 21일 | 0 / 0 | 김일도님 | 
 | 문유석, 『개인주의자 선언』 | [TED읽기-셋토](https://trevari.co.kr/meetings/show?clubID=2e5ae18d-9704-4e60-b39c-447ff97fca3b&order=4) | 안국 | 12월 21일 | 0 / 0 |  | 
+| 아델베르트 폰 샤미소, 『그림자를 판 사나이(이삭줍기 환상문학 1)』외 1개의 읽을거리 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=46564f97-4ee7-452d-8430-d980b2b9cc0f&order=4) | 안국 | 12월 21일 | 0 / 0 |  | 
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 제러미 하이먼즈, 헨리 팀스, 『뉴파워: 새로운 권력의 탄생』 | [InC](https://trevari.co.kr/meetings/show?clubID=ef9551fb-1d85-4da6-8cd5-469669809b73&order=4) | 강남 | 12월 21일 | 0 / 0 | 이승규님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-넷일](https://trevari.co.kr/meetings/show?clubID=393671c8-d6f8-408b-abff-4d3902262567&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
