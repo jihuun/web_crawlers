@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-17 01:01:12  
+> Updated on 2019-11-17 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -213,6 +213,7 @@
 | , 『매경이코노미 11월27일 발행호』 | [경제잡지](https://trevari.co.kr/meetings/show?clubID=223049a5-9afb-4f7b-a39e-8403b87f34d2&order=4) | 성수 | 12월 07일 | 0 / 0 |  | 
 | 마틴 게이퍼드, 『내가 그림이 되다』 | [예술로 좀 더 들어갈 수 있을까](https://trevari.co.kr/meetings/show?clubID=283fdaa0-b3e1-4f96-82ad-f5fdc62ef795&order=4) | 안국 | 12월 07일 | 0 / 0 | 이충걸님 | 
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [16](https://trevari.co.kr/meetings/show?clubID=2a4e9270-2f23-4ada-8696-d79de745ad6e&order=4) | 압구정 | 12월 07일 | 0 / 0 |  | 
+| 윌리엄 서머셋 모옴, 『달과 6펜스』 | [체험독서-첫토](https://trevari.co.kr/meetings/show?clubID=2f730301-1c32-4304-bf74-6092ae8cda33&order=4) | 안국 | 12월 07일 | 0 / 0 |  | 
 | 애덤 그랜트, 『오리지널스』 | [사이드프로젝트-하네](https://trevari.co.kr/meetings/show?clubID=3ac21a67-291f-4f64-b5ca-a24f40e88d1f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 장강명, 『산 자들(반양장)』 | [무경계-타임](https://trevari.co.kr/meetings/show?clubID=42c1d0e3-eab2-4340-a798-19397e23b52f&order=4) | 강남 | 12월 07일 | 0 / 0 |  | 
 | 손열음, 『하노버에서 온 음악 편지』 | [음악의힘-경청](https://trevari.co.kr/meetings/show?clubID=44da8c65-36db-4d2a-a54e-b9b8f4430ee9&order=4) | 성수 | 12월 07일 | 0 / 0 | 조은아 님 | 
@@ -282,6 +283,7 @@
 | 박승찬, 『아우구스티누스에게 삶의 길을 묻다』외 1개의 읽을거리 | [진진-레드](https://trevari.co.kr/meetings/show?clubID=ed2a7833-b01b-4c8a-9208-4343d556bbe3&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
 | 임세원, 『죽고 싶은 사람은 없다』 | [마음-옐로](https://trevari.co.kr/meetings/show?clubID=ee22cffd-18bb-4008-a260-441008b66c99&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
 | 마크 해던, 『The Curious Incident of the Dog in the Night-Time』 | [잉잉-둘토](https://trevari.co.kr/meetings/show?clubID=fa845dc0-ae7d-4801-a061-cf93ba915384&order=4) | 안국 | 12월 14일 | 0 / 0 |  | 
+| 보흐밀 흐라발, 『너무 시끄러운 고독』외 1개의 읽을거리 | [북씨-26밤](https://trevari.co.kr/meetings/show?clubID=eaee72db-85cd-425c-b932-86ff74bd3f06&order=4) | 압구정 | 12월 14일 | 0 / 0 |  | 
 | 제레드 다이아몬드, 『총 균 쇠』 | [자연사](https://trevari.co.kr/meetings/show?clubID=4be456d3-40d5-4c76-9eef-e095d19a3e91&order=4) | 서대문 | 12월 15일 | 0 / 0 | 이정모님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-37](https://trevari.co.kr/meetings/show?clubID=f038510c-76b2-432c-b155-ecc209f766ce&order=4) | 압구정 | 12월 15일 | 0 / 0 |  | 
 | 로베르타 골린코프, 캐시 허시-파섹, 『최고의 교육(4차 산업혁명 시대 미래형 인재를 만드는)』 | [교육읽기-33](https://trevari.co.kr/meetings/show?clubID=4ca2be5b-1b75-45fd-8d8e-421188225666&order=4) | 압구정 | 12월 18일 | 0 / 0 |  | 
@@ -325,5 +327,5 @@
 | 제임스 R 핸슨, 『퍼스트맨』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=4) | 안국 | 12월 28일 | 0 / 0 | 민용준님 | 
 | 유키 소노마, 『하버드 행복 수업』 | [지식생산자](https://trevari.co.kr/meetings/show?clubID=f80833ec-148d-4f91-bbf6-ce9800076cb7&order=4) | 강남 | 12월 28일 | 0 / 0 | 예병일님 | 
 
-총 305 개  
+총 307 개  
 
