@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-11-21 01:01:13  
+> Updated on 2019-11-21 11:01:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -282,6 +282,7 @@
 | 조지 애커로프, 로버트 쉴러, 『야성적 충동(양장본 HardCover)』 | [돈돈Q](https://trevari.co.kr/meetings/show?clubID=51561399-01ce-44ff-ac7d-fb6475845a20&order=2) | 강남 | 12월 18일 | 0 / 0 | 홍진채님 | 
 | 박충환, 데보라 J맥기니스, 『브랜드 애드머레이션(양장본 HardCover)』 | [브랜드 깊알 시즌1](https://trevari.co.kr/meetings/show?clubID=71336b34-28bf-4b84-9534-23061c6f9a8d&order=4) | 안국 | 12월 18일 | 0 / 0 | 박항기님 | 
 | 이육헌 지음 / 이승희 지음 / 정혜윤 지음 / 손하빈 지음, 『브랜드 마케터들의 이야기 - 음식, 음악, 여행 그리고 독서』 | [BRANDIN’ WORK](https://trevari.co.kr/meetings/show?clubID=ae2805c8-9b11-4dbe-b1ee-0c6a1c5334d4&order=4) | 강남 | 12월 18일 | 0 / 0 | 박창선님 | 
+| 조나 버거, 『컨테이저스 전략적 입소문』 | [짧은 콘텐츠츠](https://trevari.co.kr/meetings/show?clubID=f381d44b-01fa-4909-a300-19b4a8357dba&order=2) | 압구정 | 12월 18일 | 0 / 0 |  | 
 | 김재식, 『사랑하게 해줘서, 고마워』 | [짧은 씀에세이](https://trevari.co.kr/meetings/show?clubID=3e6af592-bebf-4787-b9aa-cf67cdc55526&order=2) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리 지음, 『21세기를 위한 21가지 제언』외 5개의 읽을거리 | [에잉?아잉!](https://trevari.co.kr/meetings/show?clubID=689f3159-cf4d-4421-bf3b-307e56277550&order=4) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 반 K. 타프, 『슈퍼 트레이더』 | [돈돈](https://trevari.co.kr/meetings/show?clubID=0c4dc6af-c089-4f63-892e-ad4aa9da406a&order=4) | 강남 | 12월 20일 | 0 / 0 | 홍진채님 | 
@@ -311,6 +312,7 @@
 | 아델베르트 폰 샤미소, 『그림자를 판 사나이(이삭줍기 환상문학 1)』외 1개의 읽을거리 | [북뮤지컬](https://trevari.co.kr/meetings/show?clubID=46564f97-4ee7-452d-8430-d980b2b9cc0f&order=4) | 안국 | 12월 21일 | 0 / 0 |  | 
 | 정인성, 『소설 마시는 시간』 | [체험독서 패키지-셋토](https://trevari.co.kr/meetings/show?clubID=5d61e726-54b1-4330-8cab-02e3304bcdd6&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 카롤린 엠케, 『혐오사회』 | [36](https://trevari.co.kr/meetings/show?clubID=5e9338a2-0ad9-4c85-846a-32f50790b831&order=4) | 압구정 | 12월 21일 | 0 / 0 |  | 
+| 나심 니콜라스 탈레브, 『스킨 인 더 게임(Skin in the Game)』 | [나초-36](https://trevari.co.kr/meetings/show?clubID=88def43f-aed0-4508-b487-28d6ef347658&order=4) | 성수 | 12월 21일 | 0 / 0 |  | 
 | 헤르만 헤세, 『데미안』 | [체험독서-음악](https://trevari.co.kr/meetings/show?clubID=8b0974be-0d52-4ca3-b6c6-19c38942b570&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 장강명, 『그믐, 또는 당신이 세계를 기억하는 방식』외 1개의 읽을거리 | [북씨-거북이](https://trevari.co.kr/meetings/show?clubID=9d9474d9-30cc-494d-bbb9-ea0cad69e116&order=4) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 김지혜, 『선량한 차별주의자』 | [무경계-체리](https://trevari.co.kr/meetings/show?clubID=eda6aa1b-6642-410b-9a4d-68eb77cecc91&order=4) | 강남 | 12월 21일 | 0 / 0 |  | 
@@ -332,5 +334,5 @@
 | 제임스 R 핸슨, 『퍼스트맨』 | [천일영화](https://trevari.co.kr/meetings/show?clubID=dcf3e8f9-e793-491a-8626-09f521b46078&order=4) | 안국 | 12월 28일 | 0 / 0 | 민용준님 | 
 | 유키 소노마, 『하버드 행복 수업』 | [지식생산자](https://trevari.co.kr/meetings/show?clubID=f80833ec-148d-4f91-bbf6-ce9800076cb7&order=4) | 강남 | 12월 28일 | 0 / 0 | 예병일님 | 
 
-총 312 개  
+총 314 개  
 
