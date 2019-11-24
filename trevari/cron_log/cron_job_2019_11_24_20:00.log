@@ -248,3 +248,9 @@ M	trevari/cron_log/cron_job_2019_11_24_11:00.log
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 Binary files a/trevari/trevari_book_list.md and b/trevari/trevari_book_list.md differ
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+[master 0c12283] script: trevari: update book list on  (auto generated commit)
+ 4 files changed, 259 insertions(+)
+ create mode 100644 trevari/cron_log/cron_job_2019_11_24_20:00.log
+ create mode 100644 trevari/cron_log/cron_job_2019_11_25_01:00.log
+ rewrite trevari/trevari_book_list.md (87%)
+[LOG]: update commit - script: trevari: update book list on 2019-11-25, 02:37:01
