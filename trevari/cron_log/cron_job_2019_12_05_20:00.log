@@ -1,7 +1,7 @@
 [LOG]: sync up with origin/master
-M	trevari/cron_log/cron_job_2019_12_04_11:00.log
+M	trevari/cron_log/cron_job_2019_12_04_20:00.log
 브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
-[LOG]: get_trevari_books.py is executed on 20:00:04
+[LOG]: get_trevari_books.py is executed on 20:00:05
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
@@ -265,35 +265,4 @@ M	trevari/cron_log/cron_job_2019_12_04_11:00.log
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', IndexError('list index out of range',))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
-[LOG]: get_trevari_books.py is finished on 17:26:17.
-[LOG]: diff: 이진파일 (표준 입력) 와(과) 일치
-[LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
-[master 41b41ee] script: trevari: update book list on  (auto generated commit)
- 3 files changed, 54 insertions(+), 1 deletion(-)
-[LOG]: update commit - script: trevari: update book list on 2019-12-05, 17:26:22
+('Exception occured', IndexEr
