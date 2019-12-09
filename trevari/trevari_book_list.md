@@ -166,7 +166,10 @@
 | 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=edbc2f8d-915f-41dd-bec3-50bf874f5975&order=4) | 안국 | 12월 20일 | 0 / 0 | 신기주님 | 
 | 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-35](https://trevari.co.kr/meetings/show?clubID=edff5525-a0d8-472a-b31f-803843b57573&order=4) | 강남 | 12월 20일 | 0 / 0 |  | 
 | Peter, 『회사언어 번역기』외 1개의 읽을거리 | [비즈-레드](https://trevari.co.kr/meetings/show?clubID=ef024e7d-13fc-46e6-a7a5-39fce4be935b&order=4) | 성수 | 12월 20일 | 0 / 0 |  | 
-| 은유, 『쓰기의 말들』 | [씀-퍼플](https://trevari.co.kr/meetings/show?clubID=f2e91239-b5c9-4ec8-8e8d-be965364ef46&order=4) | 압구정 | 12월 20일 | 0 / 0 |  | 
+
+총 147 개  
+
+기의 말들』 | [씀-퍼플](https://trevari.co.kr/meetings/show?clubID=f2e91239-b5c9-4ec8-8e8d-be965364ef46&order=4) | 압구정 | 12월 20일 | 0 / 0 |  | 
 | 김보라(쓰고 엮음), 최은영, 『벌새』외 1개의 읽을거리 | [북씨-퍼플](https://trevari.co.kr/meetings/show?clubID=f9896d72-61c6-413e-83c9-d209f905aebd&order=4) | 압구정 | 12월 20일 | 0 / 0 |  | 
 | 반다나 시바, 『살아남기』 | [GD-셋토](https://trevari.co.kr/meetings/show?clubID=02eef841-79af-4cf3-8c18-bfc175e1d7c0&order=4) | 안국 | 12월 21일 | 0 / 0 |  | 
 | 에드워드 글레이저, 『도시의 승리』 | [시민의 도시 대서울을 걷다](https://trevari.co.kr/meetings/show?clubID=0b20f3e3-668d-4bb4-a92c-969186e26d53&order=4) | 압구정 | 12월 21일 | 0 / 0 | 김시덕님 | 
