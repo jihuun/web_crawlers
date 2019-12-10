@@ -22,3 +22,7 @@ M	trevari/trevari_book_list.md
 [LOG]: get_trevari_books.py is finished on 03:29:16.
 [LOG]: diff: 이진파일 (표준 입력) 와(과) 일치
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+[master 375856e] script: trevari: update book list on  (auto generated commit)
+ 4 files changed, 77 insertions(+), 10 deletions(-)
+ create mode 100644 trevari/cron_log/cron_job_2019_12_11_01:00.log
+[LOG]: update commit - script: trevari: update book list on 2019-12-11, 03:29:28
