@@ -23,3 +23,7 @@ M	trevari/trevari_book_list.md
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 Binary files a/trevari/trevari_book_list.md and b/trevari/trevari_book_list.md differ
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+[master 393091b] script: trevari: update book list on  (auto generated commit)
+ 4 files changed, 160 insertions(+), 1 deletion(-)
+ rewrite trevari/trevari_book_list.md (68%)
+[LOG]: update commit - script: trevari: update book list on 2019-12-12, 18:25:13
