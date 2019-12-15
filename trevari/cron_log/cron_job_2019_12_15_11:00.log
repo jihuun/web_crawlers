@@ -3,3 +3,23 @@ M	trevari/cron_log/cron_job_2019_12_14_20:00.log
 M	trevari/trevari_book_list.md
 브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
 [LOG]: get_trevari_books.py is executed on 11:00:08
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', NameError("name 'book_name' is not defined",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+[LOG]: get_trevari_books.py is finished on 16:34:54.
+[LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
+Binary files a/trevari/trevari_book_list.md and b/trevari/trevari_book_list.md differ
+[LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
