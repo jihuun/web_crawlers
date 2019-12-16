@@ -104,7 +104,7 @@
 | 헤르만 헤세, 『데미안』 | [체험독서-음악](https://trevari.co.kr/meetings/show?clubID=8b0974be-0d52-4ca3-b6c6-19c38942b570&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 허지원, 『나도 아직 나를 모른다(교보문고 단독 스페셜 에디션)(리커버:K)(양장본...』 | [체험독서-귤](https://trevari.co.kr/meetings/show?clubID=9badc6d1-6c44-4ac9-b797-8e8a9f96a320&order=4) | 강남 | 12월 21일 | 0 / 0 |  | 
 | 장강명, 『그믐, 또는 당신이 세계를 기억하는 방식』외 1개의 읽을거리 | [북씨-거북이](https://trevari.co.kr/meetings/show?clubID=9d9474d9-30cc-494d-bbb9-ea0cad69e116&order=4) | 강남 | 12월 21일 | 0 / 0 |  | 
-| 레프 톨스토이, 『이반 일리치의 죽음(창비세계문학 7)』 | [무경계-버킷리스트](https://trevari.co.kr/meetings/show?clubID=9fd7047c-12ec-419f-84fd-309d860c8381&order=2) | 성수 | 12월 21일 | 0 / 0 |  | �세계문학 7)』 | [무경계-버킷리스트](https://trevari.co.kr/meetings/show?clubID=9fd7047c-12ec-419f-84fd-309d860c8381&order=2) | 성수 | 12월 21일 | 0 / 0 |  | 
+| 레프 톨스토이, 『이반 일리치의 죽음(창비세계문학 7)』 | [무경계-버킷리스트](https://trevari.co.kr/meetings/show?clubID=9fd7047c-12ec-419f-84fd-309d860c8381&order=2) | 성수 | 12월 21일 | 0 / 0 |  | 
 | 강민호, 『변하는 것과 변하지 않는 것』 | [마케팅-끼리](https://trevari.co.kr/meetings/show?clubID=b858fb23-44f5-41ab-b3d6-b44af02d5b2c&order=2) | 성수 | 12월 21일 | 0 / 0 |  | 
 | 니콜라스 카, 『생각하지 않는 사람들』외 1개의 읽을거리 | [국경](https://trevari.co.kr/meetings/show?clubID=c8a08679-1bee-485c-8b49-f05a548daea1&order=4) | 압구정 | 12월 21일 | 0 / 0 |  | 
 | 알랭 드 보통, 『불안』 | [무경계-호두](https://trevari.co.kr/meetings/show?clubID=cceb4d73-bf65-4ca5-98e8-e744c909b289&order=2) | 강남 | 12월 21일 | 0 / 0 |  | 
@@ -143,6 +143,10 @@
 | 찬호께이, 『염소가 웃는 순간』외 1개의 읽을거리 | [셜록-44](https://trevari.co.kr/meetings/show?clubID=530f0d33-627d-4b51-96a8-b37b68a640fa&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
 | 윤광준, 『심미안 수업』 | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=5c5d4c9a-ff9b-4b65-b3f8-f4c08d9cef72&order=4) | 안국 | 12월 26일 | 0 / 0 |  | 
 | 가토 신로, 『아우구스티누스 고백록 강의(양장본 HardCover)』외 1개의 읽을거리 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
+
+총 124 개  
+
+��을거리 | [진진-블루](https://trevari.co.kr/meetings/show?clubID=7683b82b-8b39-4ea7-bbac-0b17aa16a9c5&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
 | 安定医院郝医生, 『你也是蘑菇吗』 | [쭝쭝](https://trevari.co.kr/meetings/show?clubID=76cff246-f27d-40f2-a538-fb2136ddc7fe&order=4) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 권도균 지음, 『권도균의 스타트업 경영 수업』 | [스타트업 기웃기웃](https://trevari.co.kr/meetings/show?clubID=7f036fbb-3f4a-4b66-a91d-2b1df21e1cb4&order=4) | 강남 | 12월 26일 | 0 / 0 | 최경희님 | 
 | 욘게이 밍규르 린포체, 『티베트의 즐거운 지혜』 | [마인드풀니스](https://trevari.co.kr/meetings/show?clubID=9e114493-1071-4152-92c4-7ca1f814f936&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
