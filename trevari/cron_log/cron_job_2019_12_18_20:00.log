@@ -343,3 +343,8 @@ M	trevari/cron_log/cron_job_2019_12_18_11:00.log
 [LOG]: get_trevari_books.py is finished on 06:09:59.
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
+[master 3533557] script: trevari: update book list on  (auto generated commit)
+ 4 files changed, 357 insertions(+), 98 deletions(-)
+ create mode 100644 trevari/cron_log/cron_job_2019_12_18_20:00.log
+ create mode 100644 trevari/cron_log/cron_job_2019_12_19_01:00.log
+[LOG]: update commit - script: trevari: update book list on 2019-12-19, 06:10:11
