@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-12-22 11:01:13  
+> Updated on 2019-12-23 01:03:13  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -19,25 +19,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 올리버 색스, 『아내를 모자로 착각한 남자』 | [마음-넷일](https://trevari.co.kr/meetings/show?clubID=00cdd3db-3743-4491-8fe7-4ac258f82bb5&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 줌파 라히리, 『그저 좋은 사람』 | [무경계-와춤을](https://trevari.co.kr/meetings/show?clubID=151ef0ad-24ae-478c-abc2-e6df3a69667a&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 무라카미 하루키, 『기사단장 죽이기. 1: 현현하는 이데아(양장본 HardCover)』외 1개의 읽을거리 | [작가들-하루키](https://trevari.co.kr/meetings/show?clubID=39265acf-78cb-446a-b854-16f96b78f670&order=4) | 성수 | 12월 22일 | 0 / 0 |  | 
-| 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-넷일](https://trevari.co.kr/meetings/show?clubID=393671c8-d6f8-408b-abff-4d3902262567&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 알랭 드 보통, 『왜 나는 너를 사랑하는가』 | [럽럽-맑음](https://trevari.co.kr/meetings/show?clubID=4660e04f-bad0-4f71-8ca7-c801273c7747&order=2) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 정세랑, 『지구에서 한아뿐(양장본 HardCover)』외 1개의 읽을거리 | [문학X비문학-넷일](https://trevari.co.kr/meetings/show?clubID=5181d32d-3c56-467a-92ba-fbfb89c03f16&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 무라카미 하루키, 『위스키 성지여행』 | [책바살롱](https://trevari.co.kr/meetings/show?clubID=591a80ea-9844-46c4-ae5a-7407b609a5cb&order=4) | 압구정 | 12월 22일 | 0 / 0 | 정인성님 | 
-| 캐서린 슬레이드브루킹, 『브랜드 디자인』 | [사이드프로젝트-스타트](https://trevari.co.kr/meetings/show?clubID=59b01464-bb07-4e59-b030-09a661c646c1&order=2) | 성수 | 12월 22일 | 0 / 0 |  | 
-| 장류진, 『일의 기쁨과 슬픔』 | [문-골드](https://trevari.co.kr/meetings/show?clubID=73dc9ad0-d3c3-4bda-b9ee-792640e227ab&order=2) | 압구정 | 12월 22일 | 0 / 0 |  | 
-| 윌 스티어시, 『찍지 못한 순간에 관하여』 | [찰칵](https://trevari.co.kr/meetings/show?clubID=7bab7db3-e898-4557-ac06-3e6e69c1f2ff&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 이지영, 『BTS 예술혁명』 | [진진-47](https://trevari.co.kr/meetings/show?clubID=82480fc9-64ed-40d9-b7eb-8e887432e0a2&order=4) | 성수 | 12월 22일 | 0 / 0 |  | 
-| 김경미 옮김 / 하워드 막스 지음, 『투자에 대한 생각』 | [투자입문-고고](https://trevari.co.kr/meetings/show?clubID=9319ef68-acac-418d-8dc2-a885c3385ea6&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 전병근 옮김 / 유발 하라리 지음, 『21세기를 위한 21가지 제언』외 5개의 읽을거리 | [에잉?아잉!-오예](https://trevari.co.kr/meetings/show?clubID=b96d157e-75e9-497d-8591-9ff471259c60&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 정나영, 『오래된 작은 가게 이야기』 | [소비자들](https://trevari.co.kr/meetings/show?clubID=c9df6ff8-5df1-4e1a-beb5-57113a3d9089&order=4) | 안국 | 12월 22일 | 0 / 0 |  | 
-| 조시 맬러먼, 『버드 박스』외 1개의 읽을거리 | [북씨-47](https://trevari.co.kr/meetings/show?clubID=d4fc87c6-df97-4f77-ba4e-ef57f64fa2ff&order=4) | 압구정 | 12월 22일 | 0 / 0 |  | 
-| 도널드 클리프턴, 톰 래스, 『위대한 나의 발견 강점혁명(양장본 HardCover)』 | [사이드프로젝트-소풍](https://trevari.co.kr/meetings/show?clubID=d99c2c63-7b3d-48b4-826c-ce837e23abe1&order=2) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 차현나, 『데이터 읽기의 기술(숫자를 돈으로 바꾸는)』 | [제품/서비스기획자들-예용](https://trevari.co.kr/meetings/show?clubID=e1ec2ede-a820-4fe5-b71e-000760b351da&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-완두콩](https://trevari.co.kr/meetings/show?clubID=ecbfba9e-fb87-45cf-81ea-2aaa7adb2dfb&order=4) | 강남 | 12월 22일 | 0 / 0 |  | 
-| 이수정, 김경옥, 『사이코패스는 일상의 그늘에 숨어 지낸다』 | [법법](https://trevari.co.kr/meetings/show?clubID=ffca79eb-25e6-4996-8c38-8ea584343482&order=4) | 안국 | 12월 22일 | 0 / 0 | 이성규님 | 
 | 신형철, 『정확한 사랑의 실험』 | [짧은 무경계-바다](https://trevari.co.kr/meetings/show?clubID=faee1064-1b17-4587-9c79-2d9f3ede8d5a&order=2) | 안국 | 12월 25일 | 0 / 0 |  | 
 | 안성은(Brand Boy), 『드디어 팔리기 시작했다』 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=68b277ea-c971-4a60-987b-f8990e219e51&order=4) | 성수 | 12월 25일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=8e7e4a42-ae6d-4324-ae4a-9d6fe1c95d17&order=4) | 압구정 | 12월 25일 | 0 / 0 |  | 
@@ -111,5 +92,5 @@
 | 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=edbc2f8d-915f-41dd-bec3-50bf874f5975&order=4) | 안국 | 12월 28일 | 0 / 0 | 신기주님 | 
 | 러셀 로버츠, 이현주, 『내 안에서 나를 만드는 것들』 | [마음-이야](https://trevari.co.kr/meetings/show?clubID=82bcf970-9f80-44c2-b4ab-bedcd0a4af17&order=4) | 강남 | 12월 29일 | 0 / 0 |  | 
 
-총 91 개  
+총 72 개  
 
