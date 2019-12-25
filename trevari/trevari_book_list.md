@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-12-25 11:01:14  
+> Updated on 2019-12-25 20:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -19,9 +19,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 신형철, 『정확한 사랑의 실험』 | [짧은 무경계-바다](https://trevari.co.kr/meetings/show?clubID=faee1064-1b17-4587-9c79-2d9f3ede8d5a&order=2) | 안국 | 12월 25일 | 0 / 0 |  | 
-| 안성은(Brand Boy), 『드디어 팔리기 시작했다』 | [제품/서비스기획자들-43](https://trevari.co.kr/meetings/show?clubID=68b277ea-c971-4a60-987b-f8990e219e51&order=4) | 성수 | 12월 25일 | 0 / 0 |  | 
-| 김영하, 『여행의 이유』외 1개의 읽을거리 | [북씨-레드](https://trevari.co.kr/meetings/show?clubID=8e7e4a42-ae6d-4324-ae4a-9d6fe1c95d17&order=4) | 압구정 | 12월 25일 | 0 / 0 |  | 
 | 김영란, 『판결과 정의』 | [나초-셋목](https://trevari.co.kr/meetings/show?clubID=20a5ff62-8e9a-4c14-a8fe-4cd68e21f62e&order=4) | 안국 | 12월 26일 | 0 / 0 |  | 
 | 찬호께이, 『염소가 웃는 순간』외 1개의 읽을거리 | [셜록-44](https://trevari.co.kr/meetings/show?clubID=530f0d33-627d-4b51-96a8-b37b68a640fa&order=4) | 압구정 | 12월 26일 | 0 / 0 |  | 
 | 윤광준, 『심미안 수업』 | [체험독서-넷목](https://trevari.co.kr/meetings/show?clubID=5c5d4c9a-ff9b-4b65-b3f8-f4c08d9cef72&order=4) | 안국 | 12월 26일 | 0 / 0 |  | 
@@ -92,5 +89,5 @@
 | 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=edbc2f8d-915f-41dd-bec3-50bf874f5975&order=4) | 안국 | 12월 28일 | 0 / 0 | 신기주님 | 
 | 러셀 로버츠, 이현주, 『내 안에서 나를 만드는 것들』 | [마음-이야](https://trevari.co.kr/meetings/show?clubID=82bcf970-9f80-44c2-b4ab-bedcd0a4af17&order=4) | 강남 | 12월 29일 | 0 / 0 |  | 
 
-총 72 개  
+총 69 개  
 
