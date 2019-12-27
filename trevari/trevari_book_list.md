@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2019-12-27 11:01:14  
+> Updated on 2019-12-27 20:01:12  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -19,26 +19,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 알랭 드 보통, 『낭만적 연애와 그 후의 일상』외 1개의 읽을거리 | [북씨-45](https://trevari.co.kr/meetings/show?clubID=07af9e02-ce72-4949-b8f6-7aad610480e3&order=4) | 압구정 | 12월 27일 | 0 / 0 |  | 
-| 로버트 킨슬, 마니 페이반, 『유튜브 레볼루션(YouTube Revolution)』 | [글로벌 마케터스 클럽](https://trevari.co.kr/meetings/show?clubID=0f24fff3-3949-41d5-977c-ac19a096fa4c&order=4) | 강남 | 12월 27일 | 0 / 0 | 진민규님 | 
-| 리처드 도킨스, 『만들어진 신』 | [45](https://trevari.co.kr/meetings/show?clubID=116c29b4-ddd0-41d9-85f1-79648d82e8a8&order=4) | 압구정 | 12월 27일 | 0 / 0 |  | 
-| 남정욱, 『결혼(살림지식총서 500)』외 1개의 읽을거리 | [클럽 박학다식](https://trevari.co.kr/meetings/show?clubID=11c2cd63-944e-47da-a42e-7e819b658b0b&order=4) | 안국 | 12월 27일 | 0 / 0 | 신기주님 | 
-| 천관율, 정한울, 『20대 남자』 | [기막힌 논픽션](https://trevari.co.kr/meetings/show?clubID=3369f61c-5d48-43d9-ab9b-e8d134bd64b9&order=4) | 안국 | 12월 27일 | 0 / 0 | 정혜승님 | 
-| 줄리언 반스, 『예감은 틀리지 않는다』 | [무경계-45](https://trevari.co.kr/meetings/show?clubID=33a3565f-95a6-455d-a9df-ced09fb25929&order=4) | 성수 | 12월 27일 | 0 / 0 |  | 
-| 노상규, 『오가닉 비즈니스』 | [K-POP 인사이트](https://trevari.co.kr/meetings/show?clubID=3954b58a-9290-4fe7-ab92-123ed5eda30b&order=4) | 안국 | 12월 27일 | 0 / 0 | 차우진님 | 
-| 조나 버거, 『컨테이저스 전략적 입소문』 | [마케팅-맑음](https://trevari.co.kr/meetings/show?clubID=3e1cd320-0f4a-451c-a1d9-ff29eacd3bd1&order=2) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 다케야리 유키오, 『넥스트 실리콘밸리』 | [실리콘밸리스토리-와우](https://trevari.co.kr/meetings/show?clubID=3edb2e96-dd72-403a-8138-4e86dd1626ae&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 김민철, 『모든 요일의 기록 』 | [씀에세이-45](https://trevari.co.kr/meetings/show?clubID=5886aa6d-2810-4d7d-ae7c-8a96e2b2c3d4&order=4) | 성수 | 12월 27일 | 0 / 0 |  | 
-| 마이클 바스카, 『큐레이션』 | [콘텐츠츠-넷금](https://trevari.co.kr/meetings/show?clubID=64e20b20-cb1b-4d90-b0e2-058d4217a7fa&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
-| 콜린 앨러드, 『공간이 사람을 움직인다』 | [공간과나-넷금](https://trevari.co.kr/meetings/show?clubID=726ed528-0b9a-4afb-9f38-d8aaf0fe59d9&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
-| 홍성국, 『수축사회』 | [이콘-45](https://trevari.co.kr/meetings/show?clubID=8d87743f-9d2b-4761-bbdc-8c4c8ed740d2&order=4) | 성수 | 12월 27일 | 0 / 0 |  | 
-| 백가흠, 『조대리의 트렁크』 | [짧은 문-맑음](https://trevari.co.kr/meetings/show?clubID=a2307285-1166-4aa9-b516-4277e1e5321c&order=2) | 성수 | 12월 27일 | 0 / 0 |  | 
-| 김태훈, 『야구하자, 이상훈』 | [야구야구-임당](https://trevari.co.kr/meetings/show?clubID=a7862a3f-9b98-43f3-ac64-0ceae1ff4a7c&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 한동일, 『로마법 수업(양장본 HardCover)』 | [넷금](https://trevari.co.kr/meetings/show?clubID=c9a07558-9c70-489a-a934-ea0592d76f4b&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
-| 김태관, 『곁에 두고 읽는 그리스신화』외 1개의 읽을거리 | [북씨-공장](https://trevari.co.kr/meetings/show?clubID=ca3ef87e-c849-4ccd-91a9-336dffb70fd7&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 최윤식, 『앞으로 5년 미중전쟁 시나리오(양장본 HardCover)』 | [돈돈](https://trevari.co.kr/meetings/show?clubID=df9ce64a-9199-4b57-bdb1-e2f9c2939ef3&order=4) | 강남 | 12월 27일 | 0 / 0 | 홍진채님 | 
-| 줄리언 반스, 『예감은 틀리지 않는다(큰글자)(다산 리더스 원)』 | [콘텐츠츠-피쓰](https://trevari.co.kr/meetings/show?clubID=fcaa4eb4-24fa-4e75-8895-04aba2bfcd88&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 신현암, 『설렘을 팝니다』 | [사이드프로젝트-45](https://trevari.co.kr/meetings/show?clubID=fe67f841-8558-45e4-b045-c17238bf8cac&order=4) | 압구정 | 12월 27일 | 0 / 0 |  | 
 | 올리비아 랭, 『작가와 술』 | [독토](https://trevari.co.kr/meetings/show?clubID=0e4937fe-acc6-4c15-b46f-392a0e8f644a&order=4) | 압구정 | 12월 28일 | 0 / 0 |  | 
 | 모종린, 『골목길 자본론』 | [로컬 콘텐츠의 시대](https://trevari.co.kr/meetings/show?clubID=15a76a5e-71ef-41a9-a739-39a23c85a6d7&order=4) | 안국 | 12월 28일 | 0 / 0 | 정지연님 | 
 | 정세현, 황방열, 『담대한 여정』 | [북한읽기](https://trevari.co.kr/meetings/show?clubID=1755effd-5d91-401a-bf2e-4b6d70bff049&order=4) | 안국 | 12월 28일 | 0 / 0 | 강현숙님 | 
@@ -76,5 +56,5 @@
 | 레이 크록, 손정의 (해설), 『사업을 한다는 것(CEO의 서재 시리즈 16)』 | [무엇을 팔 것인가](https://trevari.co.kr/meetings/show?clubID=edbc2f8d-915f-41dd-bec3-50bf874f5975&order=4) | 안국 | 12월 28일 | 0 / 0 | 신기주님 | 
 | 러셀 로버츠, 이현주, 『내 안에서 나를 만드는 것들』 | [마음-이야](https://trevari.co.kr/meetings/show?clubID=82bcf970-9f80-44c2-b4ab-bedcd0a4af17&order=4) | 강남 | 12월 29일 | 0 / 0 |  | 
 
-총 56 개  
+총 36 개  
 
