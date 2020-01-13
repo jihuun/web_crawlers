@@ -1,7 +1,7 @@
 [LOG]: sync up with origin/master
-M	trevari/cron_log/cron_job_2020_01_12_20:00.log
+M	trevari/cron_log/cron_job_2020_01_13_01:00.log
 브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
-[LOG]: get_trevari_books.py is executed on 01:00:04
+[LOG]: get_trevari_books.py is executed on 11:00:04
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
@@ -305,10 +305,7 @@ M	trevari/cron_log/cron_job_2020_01_12_20:00.log
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
-[LOG]: get_trevari_books.py is finished on 02:28:21.
+('Exception occured', IndexError('list index out of range',))
+[LOG]: get_trevari_books.py is finished on 12:28:46.
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
-[master f95223a] script: trevari: update book list on  (auto generated commit)
- 3 files changed, 315 insertions(+), 1 deletion(-)
- create mode 100644 trevari/cron_log/cron_job_2020_01_13_01:00.log
-[LOG]: update commit - script: trevari: update book list on 2020-01-13, 02:28:25
