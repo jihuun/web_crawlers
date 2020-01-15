@@ -1,7 +1,7 @@
 [LOG]: sync up with origin/master
-M	trevari/cron_log/cron_job_2020_01_15_11:00.log
+M	trevari/cron_log/cron_job_2020_01_15_20:00.log
 브랜치가 'origin/master'에 맞게 업데이트된 상태입니다.
-[LOG]: get_trevari_books.py is executed on 20:00:03
+[LOG]: get_trevari_books.py is executed on 01:00:04
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
 ('Exception occured', NameError("name 'book_name' is not defined",))
@@ -324,10 +324,22 @@ M	trevari/cron_log/cron_job_2020_01_15_11:00.log
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
 ('Exception occured', IndexError('list index out of range',))
-[LOG]: get_trevari_books.py is finished on 21:34:04.
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', IndexError('list index out of range',))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+('Exception occured', TypeError("'NoneType' object has no attribute '__getitem__'",))
+[LOG]: get_trevari_books.py is finished on 02:39:00.
 [LOG]: diff: diff --git a/trevari/trevari_book_list.md b/trevari/trevari_book_list.md
 [LOG]: dir: /home/ubuntu/project/web_crawlers/trevari pwd: /home/ubuntu/project/web_crawlers/trevari
-[master c1b7541] script: trevari: update book list on  (auto generated commit)
- 3 files changed, 334 insertions(+), 1 deletion(-)
- create mode 100644 trevari/cron_log/cron_job_2020_01_15_20:00.log
-[LOG]: update commit - script: trevari: update book list on 2020-01-15, 21:34:09
