@@ -3,7 +3,7 @@
 # Scraping all of the book list on trevari meetings
 # Run with python 2.7
 # Author: Ji-Hun Kim (jihuun.k@gmail.com)
-# v 0.3.1
+# v 0.3.2
 
 import time
 import urllib
@@ -44,12 +44,17 @@ def get_g_id_pw():
 
 def auto_login(drv):
         if g_id and g_pw:
-                drv = get_url(drv, g_url_login)
-                drv.find_element_by_xpath(id_xpath).send_keys(g_id) #FIXME: needs cryption
-                drv.find_element_by_xpath(pw_xpath).send_keys(g_pw)
-                drv.find_element_by_xpath(login_button_xpath).click()
-                # TODO: Do not wait with a static time
-                time.sleep(5) # TODO: needs wait ? yes
+		try:
+			drv = get_url(drv, g_url_login)
+			drv.find_element_by_xpath(id_xpath).send_keys(g_id) #FIXME: needs cryption
+			drv.find_element_by_xpath(pw_xpath).send_keys(g_pw)
+			drv.find_element_by_xpath(login_button_xpath).click()
+			'''
+			# TODO: Do not wait with a static time
+			time.sleep(5) # TODO: needs wait ? yes
+			'''
+                except Exception as ex:
+                        print('Exception occured from login', ex)
         else:
                 print 'Can not login because of no ID/PW'
 
@@ -66,24 +71,25 @@ def get_webdriver():
 
 # Get number of reviews on each club page
 def get_review_count(url):
+	member_cnt = 0
+	travler_cnt = 0
+	club_leader_list = None
+	club_name_text = None
+
 	driver_club = get_webdriver()
         auto_login(driver_club)
         driver_club = get_url(driver_club, url)
 	soup = BeautifulSoup(driver_club.page_source, "html.parser")
 
-        member_cnt = 0
-        travler_cnt = 0
-	club_leader_list = None
-	club_name_text = None
+	club_name = soup.find('h1', {'class':'jsx-533500443'})
 
-	club_name = soup.find('h1', {'class':'jsx-2691116476'})
 	if club_name:
 		club_name_text = club_name.get_text()
 		club_name_text = club_name_text.split(':')
 
-        for review in soup.find_all('div', {'class':'jsx-4121886606 bookreview-item'}):
+        for review in soup.find_all('div', {'class':'jsx-2177646097 bookreview-item'}):
 		try:
-                        member_classify_tag = review.find('div', {'style':'color:#ff8906;margin-bottom:3px'})
+                        member_classify_tag = review.find('div', {'style':'color:#FF6600;margin-bottom:3px'})
                         if member_classify_tag:
                                 who = member_classify_tag.get_text() # get_text return unicode
                                 #print who.encode('utf-8') # get_text().encode('utf-8') make 'str'
@@ -133,15 +139,9 @@ def print_subject(f):
 	f.write("> Updated on %s  \n\n" %(print_current_time()))
 	f.write("> 이 페이지는 트레바리 모임정보를 추출하는 %s 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   \n" %(md_make_hyperlink("Python Script", "https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py")))
         f.write("> The script and this page are maintained by %s @soopsaram  \n\n" %(md_make_hyperlink("김지훈", "mailto:jihuun.k@gmail.com")))
-        f.write("> **신규 기능**  \n" )
-        f.write("> * **독후감 수 (19.05.19)**  \n" )
-        f.write("> 우측 열에 각 클럽의 현재 독후감 갯수가 표기 됩니다(놀러가기 독후감 수 / 멤버 독후감 수). 독후감 수는 이 페이지가 업데이트 된 시점의 갯수임에 유의 하시기 바랍니다.  \n" )
-        f.write("> * **클럽장 유무 (19.05.30)**  \n" )
-        f.write("> 맨 우측 열에 해당 클럽의 클럽장 이름이 표기 됩니다(없다면 공백). 클럽장이 있는 클럽인지, 클럽장은 누구인지 쉽게 확인이 가능합니다.  \n\n" )
-        f.write("> **버그 수정**  \n" )
-        f.write("> * 트레바리 웹 페이지 업데이트로인한 버그 수정 (19.06.03)  \n\n" )
-	f.write("> 이 페이지가 유용 하셨다면 :)  \n")
-	f.write("> [![img](coffee.png)](https://www.buymeacoffee.com/OykLbDd0J)  \n")
+        f.write("> **버그 항목**  \n" )
+        f.write("> * ~~선정도서, 클럽링크, 아지트, 날짜~~ (수정 완료, 2020/03/24)  \n\n" )
+        f.write("> * 클럽명, 독후감 수, 클럽장 (soon)  \n\n" )
 	f.write("---\n\n")
 	f.write("| 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  \n")
 	f.write("| --- | --- | --- | --- | --- | --- |  \n")
@@ -155,7 +155,7 @@ def get_href(meeting):
 
 def split_place_date(word_list):
         str_by_list = ' '.join(word_list)
-        split_str = str_by_list.split(u'2019년')
+        split_str = str_by_list.split(u'2020년')
 	place = split_str[0].split()
 	place_result = '%s' %place[0]
 	date = split_str[1].split()
@@ -187,7 +187,9 @@ if __name__  == "__main__":
 
 			if book_name != u"읽을거리 정하는 중":
                                 group_name_url = get_href(meeting)
-				travler_cnt, member_cnt, club_leader, group_name = get_review_count(group_name_url)
+				# FIXME: webdriver exception on xpath in login
+				#travler_cnt, member_cnt, club_leader, group_name = get_review_count(group_name_url)
+				group_name = u"클럽 바로가기" #FIXME
 				group_name_link = md_make_hyperlink(group_name, group_name_url)
 				club_leader_string = ''
 				if club_leader:
