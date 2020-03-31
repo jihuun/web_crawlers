@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-03-31 20:01:17  
+> Updated on 2020-04-01 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -371,11 +371,12 @@
 | 유발 하라리, 『사피엔스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=69a25ff4-da92-41db-9cd1-6ac2d32e1c11&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 서윤영, 『대중의 시대 보통의 건축』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7cc982e0-81cb-4fe9-a998-a5b8bad9cf21&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 잭 트라우트, 앨 리스, 『포지셔닝』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9b50ae49-034b-4be0-9ec1-aa44e3c6f1d0&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
+| 대학내일20대연구소, 『밀레니얼-Z세대 트렌드 2020』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 김성필, 『딥러닝 첫걸음』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e229df8b-c33f-467f-acec-f61ff00d8f62&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 최경철, 『모든 공간에는 비밀이 있다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f995e215-3a24-42b4-ba94-e8dc95ef9b46&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 존 버거, 『다른 방식으로 보기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=44fc4455-4131-41c5-bd7a-a8f35f48ba5b&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b409b4c5-bc3b-477a-8503-8110610a7da8&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
-| 김영하, 『여행의 이유』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b438613b-92f1-4a7b-946f-835a98a17473&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
+| 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b409b4c5-bc3b-477a-8503-8110610a7da8&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b438613b-92f1-4a7b-946f-835a98a17473&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 툴라 카르얄라이넨, 『토베 얀손, 일과 사랑』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cbcc33ca-c58f-4007-af9d-56167ebdeb91&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 이신영, 『한국의 젊은 부자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d6339959-ccf0-43a4-9b4d-31fbdb8d5db1&order=3) | 강남 | 05월 07일 | 0 / 0 |  | 
@@ -596,11 +597,10 @@
 | 엠제이 드마코, 『부의 추월차선』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=93ca980e-e93d-4d81-9720-d9633ebd818a&order=1) | 안국 | 05월 22일 | 0 / 0 |  | 
 | 장류진, 『일의 기쁨과 슬픔』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ba053472-04db-4464-9741-be3154a28ac0&order=1) | 안국 | 05월 22일 | 0 / 0 |  | 
 | 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=be3e7137-24c4-4891-8930-5164d3c7e21e&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
-| 미나토 가나에, 『고백』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c992a762-75d5-412e-9c68-cb71ab22de21&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
-| 미나토 가나에, 『고백』 | [클럽 바로가기](https://trevari.co.krmailto:contact@trevari.co.kr) | 강남 | 05월 22일 | 0 / 0 |  | 
-| 미나토 가나에, 『고백』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 05월 22일 | 0 / 0 |  | 
-| 미나토 가나에, 『고백』 | [클럽 바로가기](https://trevari.co.krmailto:contact@trevari.co.kr) | 강남 | 05월 22일 | 0 / 0 |  | 
-| 미나토 가나에, 『고백』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 05월 22일 | 0 / 0 |  | 
+| 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.krmailto:contact@trevari.co.kr) | 강남 | 05월 22일 | 0 / 0 |  | 
+| 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 05월 22일 | 0 / 0 |  | 
+| 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.krmailto:contact@trevari.co.kr) | 강남 | 05월 22일 | 0 / 0 |  | 
+| 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 05월 22일 | 0 / 0 |  | 
 
 총 588 개  
 
