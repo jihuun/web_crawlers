@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-04-05 20:01:14  
+> Updated on 2020-04-06 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -19,7 +19,6 @@
 | 아룬다티 로이, 『작은 것들의 신』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3c223c8d-434f-4f2a-afad-5c21cd22050a&order=3) | 온라인 | 04월 08일 | 0 / 0 |  | 
 | 탈레스 S 테이셰이라, 『디커플링(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=487d628a-7eb3-42ba-9d7f-1467adc76a62&order=2) | 온라인 | 04월 08일 | 0 / 0 |  | 
 | 페터 한트케, 『긴 이별을 위한 짧은 편지(세계문학전집 68)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=49f8d3be-a5ed-4806-a921-8107d80d3661&order=3) | 온라인 | 04월 08일 | 0 / 0 |  | 
-| 김하나, 황선우, 『여자 둘이 살고 있습니다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9c21965f-f66b-4c92-a8fb-f6f3749e2a67&order=3) | 온라인 | 04월 08일 | 0 / 0 |  | 
 | 헬레나 노르베리 호지, 『로컬의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=abd100f6-fcea-4594-ad68-626d8dc179b1&order=3) | 온라인 | 04월 08일 | 0 / 0 |  | 
 | 송인혁, 『창조력 주식회사』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=aeb3a515-78f1-4548-b8f8-bd9463d97cff&order=2) | 온라인 | 04월 08일 | 0 / 0 |  | 
 | 수잔 웨인쉔크, 『사람에 대한 100가지 사실(모든 기획자와 디자이너가 알아야 할)(위키북스 UX...』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bc98575a-f85e-4f84-be26-e2b1357f41bf&order=2) | 온라인 | 04월 08일 | 0 / 0 |  | 
@@ -189,7 +188,7 @@
 | 김현경, 『사람, 장소, 환대(현대의 지성 159)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3d1bd708-2509-4c7c-8e41-69e908b2c05e&order=3) | 강남 | 04월 22일 | 0 / 0 |  | 
 | 애덤 그랜트, 『오리지널스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=487d628a-7eb3-42ba-9d7f-1467adc76a62&order=3) | 강남 | 04월 22일 | 0 / 0 |  | 
 | 오자와 료스케, 『덴마크 사람은 왜 첫 월급으로 의자를 살까』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=87de0f3b-9342-457e-bcff-1cfc9b1e575e&order=3) | 강남 | 04월 22일 | 0 / 0 |  | 
-| 엄지혜, 『태도의 말들: 사소한 것이 언제나 더 중요하다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9c21965f-f66b-4c92-a8fb-f6f3749e2a67&order=4) | 압구정 | 04월 22일 | 0 / 0 |  | 
+| 김하나, 황선우, 『여자 둘이 살고 있습니다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9c21965f-f66b-4c92-a8fb-f6f3749e2a67&order=4) | 압구정 | 04월 22일 | 0 / 0 |  | 
 | 하노 벡, 『경제학자의 생각법』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ad9fe137-13e3-47e7-ade2-fe3242866a6a&order=3) | 강남 | 04월 22일 | 0 / 0 |  | 
 | 안근용, 조원규, 『조직문화가 전략을 살린다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=aeb3a515-78f1-4548-b8f8-bd9463d97cff&order=3) | 강남 | 04월 22일 | 0 / 0 |  | 
 | 개리 비숍, 『시작의 기술(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bea3a4fc-6fc3-4ed5-89f2-2360646fb52c&order=4) | 강남 | 04월 22일 | 0 / 0 |  | 
@@ -594,5 +593,5 @@
 | 우치다 타츠루, 『곤란한 성숙』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=646aac4e-24af-49fd-b7b3-bb5602b3deb8&order=4) | 강남 | 05월 29일 | 0 / 0 |  | 
 | 로버트 P마일스, 『워렌 버핏이 선택한 CEO들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9473c485-009f-47f5-871b-aee72bafcafb&order=4) | 강남 | 05월 29일 | 0 / 0 |  | 
 
-총 580 개  
+총 579 개  
 
