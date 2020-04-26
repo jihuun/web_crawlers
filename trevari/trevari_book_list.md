@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-04-26 01:01:14  
+> Updated on 2020-04-26 20:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -13,18 +13,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 존 스튜어트 밀, 『자유론(현대지성 클래식 20)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3bcc6021-4f3e-48dd-b371-1e67336e96ac&order=4) | 강남 | 04월 26일 | 0 / 0 |  | 
-| 페터 한트케, 『페널티킥 앞에 선 골키퍼의 불안(세계문학전집 233)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=485b069b-5301-4820-8450-77bbbcc668c9&order=3) | 안국 | 04월 26일 | 0 / 0 |  | 
-| 쓰쓰미 구미코, 『책임은 어떻게 삶을 성장시키는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=616dda8b-4762-41f4-b005-2965bf7531d6&order=4) | 안국 | 04월 26일 | 0 / 0 |  | 
-| 롭 무어, 『레버리지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=81716b47-d448-4320-8a05-cf0e6c1868cf&order=4) | 안국 | 04월 26일 | 0 / 0 |  | 
-| 김금희, 『경애의 마음』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ac60fe2a-bec6-427b-81c5-be6f8da9eaa5&order=4) | 안국 | 04월 26일 | 0 / 0 |  | 
-| 레이첼 보츠먼, 『신뢰 이동』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=adf76d3d-7726-4c14-9f33-72db5ecfa8c8&order=3) | 강남 | 04월 26일 | 0 / 0 |  | 
-| 김영하, 『여행의 이유』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b4179597-9512-440a-b510-e91866ff26e6&order=4) | 성수 | 04월 26일 | 0 / 0 |  | 
-| 닐 슈빈, 『내 안의 물고기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c0a2490b-0861-43e8-bc81-3c3db776aad5&order=3) | 강남 | 04월 26일 | 0 / 0 |  | 
-| 니코스 카잔차키스, 『그리스인 조르바』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d2d24f8e-995d-40d1-83cf-07b977469edd&order=4) | 안국 | 04월 26일 | 0 / 0 |  | 
-| 미셸 오바마, 『비커밍』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ddbc019e-a59d-4268-9bc2-0e4e87062b09&order=3) | 강남 | 04월 26일 | 0 / 0 |  | 
-| 킴 스콧, 『실리콘밸리의 팀장들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=def2c4bd-0c08-47e0-baab-dd192c54b39f&order=3) | 강남 | 04월 26일 | 0 / 0 |  | 
-| 테크니들, 『인공지능 비즈니스 트렌드』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e64e4d64-0c6d-499c-9f66-8b8783ee9474&order=3) | 강남 | 04월 26일 | 0 / 0 |  | 
 | 사마광, 푸챵 (편역), 『자치통감(한 권으로 읽는)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=30226b8a-77f8-4c2e-9a6b-ce0ca1a2198d&order=3) | 강남 | 04월 28일 | 0 / 0 |  | 
 | 오니시 야스유키, 『이나모리 가즈오 1155일간의 투쟁(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=dc1dca49-f49a-42e4-a002-2202d282d557&order=4) | 강남 | 04월 28일 | 0 / 0 |  | 
 | 알베르 카뮈, 『페스트』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0d9cf1bb-7333-410f-8777-f79c56097f3b&order=4) | 압구정 | 04월 29일 | 0 / 0 |  | 
@@ -54,7 +42,6 @@
 | 존 버거, 『A가 X에게』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fdc5ef13-a65a-469a-bd6e-1b558f975a90&order=1) | 강남 | 05월 01일 | 0 / 0 |  | 
 | 레베카 레이즌, 『샹젤리제 거리의 작은 향수가게(로맨틱 파리 컬렉션 3)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=caa2d909-57f1-40dd-a4fd-862b960d07e3&order=3) | 안국 | 05월 02일 | 0 / 0 |  | 
 | 피터 린치, 『전설로 떠나는 월가의 영웅』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=086770ae-df94-4b55-ad1a-cd5ad5ef430a&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
-| 피터 린치, 『전설로 떠나는 월가의 영웅』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=086770ae-df94-4b55-ad1a-cd5ad5ef430a&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 김영하, 『읽다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=26acde26-9d7a-4f13-87a9-1445100bb65e&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 아민 말루프, 『동방의 항구들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=282b240d-bb4a-4377-814b-6d591cd109c0&order=4) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 바버라 립스카, 일레인 맥아들, 『나는 정신병에 걸린 뇌 과학자입니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=34a1d31b-7f17-493d-b7a3-fc9d79320bb3&order=3) | 강남 | 05월 02일 | 0 / 0 |  | 
@@ -65,6 +52,7 @@
 | 엘레나 페란테, 『잃어버린 아이 이야기(나폴리 4부작 4)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7d91f7ab-92e2-4ff9-9003-19b97dc949ba&order=4) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 선호빈, 『B급 며느리』외 2개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=88b3d2db-6d8f-4559-837c-28ee10f0f5d1&order=3) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 장류진, 『일의 기쁨과 슬픔』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=912a6193-93f3-4d0f-b25e-82033e30d598&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
+| 테사 모리스 스즈키, 『변경에서 바라본 근대(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9eb4ebd5-e6a7-43dd-8d7e-71993d631f5e&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 테사 모리스 스즈키, 『변경에서 바라본 근대(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9eb4ebd5-e6a7-43dd-8d7e-71993d631f5e&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 전순예, 『강원도의 맛』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a358c19f-e1b4-459b-87cd-dca36bbe2007&order=1) | 강남 | 05월 02일 | 0 / 0 |  | 
 | 스티븐 기즈, 『지금의 조건에서 시작하는 힘』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=aa69b498-46ad-44eb-a13d-b3dbf950c468&order=3) | 강남 | 05월 02일 | 0 / 0 |  | 
@@ -95,7 +83,6 @@
 | 강신주, 『철학이 필요한 시간』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f6e097b4-466f-418e-97f0-624c5d9ac06a&order=1) | 안국 | 05월 03일 | 0 / 0 |  | 
 | 조남주, 『82년생 김지영(오늘의 젊은 작가 13)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=354a53c7-01da-4c55-9dba-18709f077093&order=4) | 안국 | 05월 04일 | 0 / 0 |  | 
 | 로저 마틴, 제니퍼 리엘, 『최고의 리더는 반드시 답을 찾는다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=065eccc0-e214-4db8-9b5d-471e322fb216&order=1) | 성수 | 05월 06일 | 0 / 0 |  | 
-| 로저 마틴, 제니퍼 리엘, 『최고의 리더는 반드시 답을 찾는다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=065eccc0-e214-4db8-9b5d-471e322fb216&order=1) | 성수 | 05월 06일 | 0 / 0 |  | 
 | 서진석, 유승권, 『넥스트 csr 파타고니아』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1519589d-e021-4f89-938e-07a83e655d91&order=1) | 성수 | 05월 06일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6918c327-5780-435d-95e3-66410d272a19&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 유발 하라리, 『사피엔스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=69a25ff4-da92-41db-9cd1-6ac2d32e1c11&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
@@ -106,6 +93,7 @@
 | 존 버거, 『다른 방식으로 보기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=44fc4455-4131-41c5-bd7a-a8f35f48ba5b&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 비 윌슨, 『식사에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4df38287-ee66-4600-8906-2d6a66e791ef&order=1) | 안국 | 05월 07일 | 0 / 0 |  | 
 | 위앤커, 『중국신화전설 1(세계문학전집 16)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6c9c90ad-42d9-4481-8e93-785248cf102a&order=3) | 강남 | 05월 07일 | 0 / 0 |  | 
+| , 『판결이 궁금해요?! 판사들과 함께하는 판례 산책 : 민사편』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=82cdf1d6-42dc-4ef1-9493-f309888eea7c&order=1) | 안국 | 05월 07일 | 0 / 0 |  | 
 | , 『판결이 궁금해요?! 판사들과 함께하는 판례 산책 : 민사편』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=82cdf1d6-42dc-4ef1-9493-f309888eea7c&order=1) | 안국 | 05월 07일 | 0 / 0 |  | 
 | 김금희, 『너무 한낮의 연애』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=832887e8-ad19-4eaf-8423-a50302db01ba&order=3) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b409b4c5-bc3b-477a-8503-8110610a7da8&order=1) | 강남 | 05월 07일 | 0 / 0 |  | 
@@ -126,7 +114,6 @@
 | 박산호 옮김 / 맥스 브룩스, 『세계 대전 Z』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cb10d257-10b1-4cc6-ae31-68e07840c12e&order=1) | 강남 | 05월 08일 | 0 / 0 |  | 
 | Palacio R J, 『Wonder』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d4880e6b-236d-49c3-92b1-61c617874b6c&order=1) | 강남 | 05월 08일 | 0 / 0 |  | 
 | 제인 오스틴, 『오만과 편견』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ebd82498-91ee-49ff-90ba-197313c8637f&order=1) | 강남 | 05월 08일 | 0 / 0 |  | 
-| 한승태, 『고기로 태어나서』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=14028df6-3dd5-4f6a-a0fc-daf443ec14cb&order=1) | 성수 | 05월 08일 | 0 / 0 |  | 
 | 손원평, 『아몬드(창비청소년문학 78)(반양장)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1c9338e0-892b-41d1-a06d-8fd5fd82c024&order=1) | 강남 | 05월 09일 | 0 / 0 |  | 
 | 오후, 『주인공은 선을 넘는다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1f17b145-1045-4134-837f-c69f6c5b742b&order=4) | 강남 | 05월 09일 | 0 / 0 |  | 
 | Rosling Hans, 『Factfulness』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2dfbe298-6f0f-4e41-b8e6-cd358f196e49&order=3) | 성수 | 05월 09일 | 0 / 0 |  | 
@@ -154,7 +141,6 @@
 | 임정민, 『창업가의 일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f2a08d90-8e26-41a8-8da0-14df7decacf7&order=1) | 강남 | 05월 09일 | 0 / 0 |  | 
 | 톰 밴더빌트, 『취향의 탄생』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=13be020c-fe41-4bf7-957c-5e01155b7e13&order=1) | 강남 | 05월 10일 | 0 / 0 |  | 
 | 롭 무어, 『레버리지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=19c64cbd-e330-4c91-903a-227e4e139572&order=3) | 압구정 | 05월 10일 | 0 / 0 |  | 
-| 정인성, 『소설 마시는 시간』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=208a85cf-d924-4904-a1e3-31a79a7ad920&order=1) | 한국술집 | 05월 10일 | 0 / 0 |  | 
 | 장류진, 『일의 기쁨과 슬픔』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=26a18725-5a45-4175-8236-0c1166b17540&order=1) | 성수 | 05월 10일 | 0 / 0 |  | 
 | 진저 래피드 보그다, 『리더십 성격이 결정한다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2a7ddc0b-62fa-4201-a27b-b03281271845&order=3) | 강남 | 05월 10일 | 0 / 0 |  | 
 | 무라카미 하루키, 『달리기를 말할 때 내가 하고 싶은 이야기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=491b7340-63e9-4ead-b6fd-8612a29ce27e&order=1) | 안국 | 05월 10일 | 0 / 0 |  | 
@@ -217,8 +203,6 @@
 | 존 더럼 피터스, 『자연과 미디어(컬처룩 미디어 총서 12)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b4945fd5-2c87-486b-bfb8-46152fa95f2f&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
 | 이도우, 『날씨가 좋으면 찾아가겠어요』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=17af5603-0ecb-4e91-b80f-b615f011846a&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
 | 앤드루 포터, 『빛과 물질에 관한 이론(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=258a8366-3f41-4aa3-bcb0-679b09acf85c&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
-| 이도우, 『날씨가 좋으면 찾아가겠어요』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=17af5603-0ecb-4e91-b80f-b615f011846a&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
-| 앤드루 포터, 『빛과 물질에 관한 이론(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=258a8366-3f41-4aa3-bcb0-679b09acf85c&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
 | 가즈오 이시구로, 『남아 있는 나날』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2ee08c3f-5cba-437f-9899-602c5c122b37&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
 | 오카다 다카시, 『나는 왜 혼자가 편할까』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3c8ce4cb-fc64-4acb-a87a-cebcdd3b1d0c&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
 | 밥 배철러, 『더 마블 맨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40f4785e-34e5-4c0f-859a-d6948f8f8c07&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
@@ -230,6 +214,8 @@
 | EBS 자본주의 제작팀, 『자본주의』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5f5ec919-9c69-4a6e-a0a1-39baf369515e&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
 | 테드 창, 『숨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=70030772-5453-42b6-ad4c-9a9afd204957&order=3) | 안국 | 05월 16일 | 0 / 0 |  | 
 | 민주사회를 위한 변호사모임 여성인권위원회, 『세상을 바꾼 성평등 판결(여성학 총서 17)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=704592a5-084f-4112-be0d-04bf5cbc2f31&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
+| 조너선 하이트, 그레그 루키아노프, 『나쁜 교육』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7622e226-189e-4125-ac0c-2cac05c32f30&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
+| 알렉스 바나얀, 『나는 7년 동안 세계 최고를 만났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8db4740e-f921-4854-aa06-b50f3860d57c&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
 | 조너선 하이트, 그레그 루키아노프, 『나쁜 교육』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7622e226-189e-4125-ac0c-2cac05c32f30&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
 | 알렉스 바나얀, 『나는 7년 동안 세계 최고를 만났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8db4740e-f921-4854-aa06-b50f3860d57c&order=1) | 안국 | 05월 16일 | 0 / 0 |  | 
 | 김초엽, 『우리가 빛의 속도로 갈 수 없다면(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=90d917f2-b1e1-4558-9fd1-8f80aae0f51e&order=1) | 강남 | 05월 16일 | 0 / 0 |  | 
@@ -256,7 +242,6 @@
 | 리 매킨타이어, 정준희 (해제), 『포스트트루스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=43d0ca18-1568-4a2b-87bb-a980107a4ddd&order=1) | 안국 | 05월 20일 | 0 / 0 |  | 
 | 에밀리 브론테, 『폭풍의 언덕』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=842a1d8c-49eb-471c-862a-517b7c40d4cc&order=1) | 강남 | 05월 20일 | 0 / 0 |  | 
 | 일자 샌드, 『센서티브』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9d7aad4d-17d1-477d-9141-2e29fe3f88b2&order=1) | 강남 | 05월 20일 | 0 / 0 |  | 
-| 일자 샌드, 『센서티브』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9d7aad4d-17d1-477d-9141-2e29fe3f88b2&order=1) | 강남 | 05월 20일 | 0 / 0 |  | 
 | 클레이튼 M. 크리스텐슨, 제임스 올워스, 『하버드 인생학 특강』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a34548aa-ac95-4a81-8bc2-7d1b1e0cd5ba&order=1) | 안국 | 05월 20일 | 0 / 0 |  | 
 | 야마구치 슈, 『철학은 어떻게 삶의 무기가 되는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b667d256-2171-43bc-894b-2d2549c0596f&order=1) | 성수 | 05월 20일 | 0 / 0 |  | 
 | 제러미 하이먼즈, 헨리 팀스, 『뉴파워: 새로운 권력의 탄생』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ba484994-df82-41cb-a3a6-53c026651c28&order=4) | 강남 | 05월 20일 | 0 / 0 |  | 
@@ -270,12 +255,12 @@
 | 야마구치 슈, 『철학은 어떻게 삶의 무기가 되는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=697737f9-b06b-49c8-9336-fa55e3d6f05a&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
 | 다자이 오사무, 『인간 실격』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7bf22776-e8c2-42c3-83cd-797203d4504f&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
 | 엘리자베스 길버트, 『먹고 기도하고 사랑하라』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=873dcee6-4b7a-4cfa-a194-402426df54f6&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
+| 엘리자베스 길버트, 『먹고 기도하고 사랑하라』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=873dcee6-4b7a-4cfa-a194-402426df54f6&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
 | 파트리크 쥐스킨트, 『향수(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a74e55ef-f79c-4dc4-8183-674248a739b0&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
 | 염한결, 이원희, 『트렌드 노트(2020)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c5333f9a-4921-4526-8b88-e0466ae906c1&order=1) | 강남 | 05월 21일 | 0 / 0 |  | 
 | 김원영, 『실격당한 자들을 위한 변론』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f84c6f30-7829-4c15-be60-a53f0dac6ad2&order=1) | 안국 | 05월 21일 | 0 / 0 |  | 
 | 이용균, 최혁곤, 『수상한 에이스는 유니폼이 없다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=02055a36-599d-4206-bbde-dd5dc72e9f0c&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 롤프 모리엔, 하인츠 핀켈라우, 『워런 버핏(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0872f1e9-8d27-45d8-8635-6a53dfd25383&order=1) | 안국 | 05월 22일 | 0 / 0 |  | 
-| 홍성태, 조수용, 『나음보다 다름』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21559193-1200-4e9c-b450-06323310ac83&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 홍성태, 조수용, 『나음보다 다름』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21559193-1200-4e9c-b450-06323310ac83&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 김태웅, 김대호, 『한국 근대사를 꿰뚫는 질문 29』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2cd67de9-9e02-4d22-b541-c51bd1ff6d71&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 鲁迅, 『《阿Q正传》』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=694d36a3-f0f1-4dd1-acc1-22fe6a6c598a&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
@@ -289,6 +274,7 @@
 | 김지혜, 『선량한 차별주의자』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=be3e7137-24c4-4891-8930-5164d3c7e21e&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 미나토 가나에, 『고백』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c992a762-75d5-412e-9c68-cb71ab22de21&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 정세랑, 『이만큼 가까이』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f7a8f957-2304-4df8-8f39-74db0f31c39b&order=1) | 성수 | 05월 22일 | 0 / 0 |  | 
+| 켄 피셔, 제니퍼 추, 『주식시장을 이기다(3개의 질문으로)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ff542a42-36c9-4091-b1e5-0ddef86b9d3f&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 켄 피셔, 제니퍼 추, 『주식시장을 이기다(3개의 질문으로)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ff542a42-36c9-4091-b1e5-0ddef86b9d3f&order=1) | 강남 | 05월 22일 | 0 / 0 |  | 
 | 이용균, 최혁곤, 『수상한 에이스는 유니폼이 없다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=610c8965-af32-4bdd-9883-86fd278359c1&order=3) | 강남 | 05월 23일 | 0 / 0 |  | 
 | 구본권, 『공부의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21700895-cc42-41a8-a20f-f046c8b1e43e&order=1) | 안국 | 05월 23일 | 0 / 0 |  | 
@@ -357,11 +343,13 @@
 | 수키 노보그라츠, 엘라자베스 노보그라츠, 『Just Sit 일단 앉으면』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e8421e44-ca1c-475e-861a-e5f9b3f46726&order=1) | 강남 | 05월 28일 | 0 / 0 |  | 
 | 우치다 타츠루, 『곤란한 성숙』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=646aac4e-24af-49fd-b7b3-bb5602b3deb8&order=4) | 강남 | 05월 29일 | 0 / 0 |  | 
 | 보 벌링엄, 『스몰 자이언츠가 온다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cf27a713-9ebc-437f-848e-f868d63067ff&order=3) | 안국 | 05월 29일 | 0 / 0 |  | 
+| 알베르 카뮈, 『페스트』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e66a80d0-ee55-4eb2-8572-d1155bf0b3fc&order=4) | 강남 | 05월 29일 | 0 / 0 |  | 
 | 조나단 스위프트, 『걸리버 여행기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f7b1670d-60c3-4b6d-baca-e6b89dbcfda1&order=3) | 강남 | 05월 29일 | 0 / 0 |  | 
 | 헤르만 헤세, 『데미안(초판본)(리커버 한정판)(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=02b86b38-e960-4092-8778-1988168b9ccc&order=4) | 안국 | 05월 30일 | 0 / 0 |  | 
 | 무라카미 하루키, 『라오스에 대체 뭐가 있는데요?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=36b39ebc-b228-491f-8dfd-9e939d273343&order=3) | 강남 | 05월 30일 | 0 / 0 |  | 
 | 강주헌 옮김 / 조던 B 피터슨, 『12가지 인생의 법칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ddbc019e-a59d-4268-9bc2-0e4e87062b09&order=4) | 강남 | 05월 31일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리, 『21세기를 위한 21가지 제언』외 5개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e64e4d64-0c6d-499c-9f66-8b8783ee9474&order=4) | 강남 | 05월 31일 | 0 / 0 |  | 
+| 비크람 만샤라마니, 『붐버스톨로지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ee73bdc2-39ea-4277-b5f9-2081a1f1d7f1&order=3) | 강남 | 05월 31일 | 0 / 0 |  | 
 | 박현선, 『핀란드 사람들은 왜 중고 가게에 갈까?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1519589d-e021-4f89-938e-07a83e655d91&order=2) | 성수 | 06월 03일 | 0 / 0 |  | 
 | 김수현, 『나는 나로 살기로 했다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=2) | 강남 | 06월 03일 | 0 / 0 |  | 
 | 미야케 요이치로, 모리카와 유키히토, 『인공지능 70(제이펍의 인공지능 시리즈 6)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e229df8b-c33f-467f-acec-f61ff00d8f62&order=2) | 강남 | 06월 03일 | 0 / 0 |  | 
@@ -402,10 +390,8 @@
 | 이수정, 이다혜, 『이수정 이다혜의 범죄 영화 프로파일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b5fd1b1a-52f5-4533-b59a-901d1cdbcb80&order=4) | 안국 | 06월 19일 | 0 / 0 |  | 
 | 양귀자, 『모순』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bcfd3679-e3a5-4a83-8c8f-584411940ed7&order=2) | 강남 | 06월 19일 | 0 / 0 |  | 
 | 테크니들, 『인공지능 비즈니스 트렌드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=beede7c2-5b2a-436e-bcc9-45d1fd1c00f9&order=2) | 강남 | 06월 19일 | 0 / 0 |  | 
-| 테크니들, 『인공지능 비즈니스 트렌드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=beede7c2-5b2a-436e-bcc9-45d1fd1c00f9&order=2) | 강남 | 06월 19일 | 0 / 0 |  | 
 | 도스토예프스키, 『카라마조프가의 형제들 세트(전3권)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f7b1670d-60c3-4b6d-baca-e6b89dbcfda1&order=4) | 강남 | 06월 19일 | 0 / 0 |  | 
 | 고레에다 히로카즈, 『영화를 찍으며 생각한 것』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40f4785e-34e5-4c0f-859a-d6948f8f8c07&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
-| 임미리, 『경기동부』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=50ccdb2e-1dfe-40d2-b509-bedaf5806fdd&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
 | 임미리, 『경기동부』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=50ccdb2e-1dfe-40d2-b509-bedaf5806fdd&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
 | 예병일, 『세상을 바꾼 전염병(세계사 가로지르기 14)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cab5d9ea-24dc-4436-8212-8e7c3a9801d8&order=2) | 강남 | 06월 20일 | 0 / 0 |  | 
 | 임태수, 『날마다, 브랜드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fbc595b8-af30-4f1c-b85d-5bafb8aa4a27&order=4) | 강남 | 06월 20일 | 0 / 0 |  | 
@@ -421,6 +407,9 @@
 | 가쿠다 미쓰요, 『종이달』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3f5514db-0691-4b1e-a575-9567b0aa0863&order=4) | 안국 | 06월 27일 | 0 / 0 |  | 
 | 앤디 위어, 『마션』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5cad4d14-cd59-4372-a350-63c142b10521&order=2) | 안국 | 06월 27일 | 0 / 0 |  | 
 | 조나 버거, 『컨테이저스 전략적 입소문』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7807e4f7-90ac-4652-b727-a501ca1bbda1&order=2) | 강남 | 06월 27일 | 0 / 0 |  | 
+| 박지원, 『열하일기. 1(개정신판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ebdc2d64-ac21-42ec-963d-aad94a58dd92&order=2) | 안국 | 06월 27일 | 0 / 0 |  | 
+| 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4cd2fc3-7bb9-40b9-b263-7e99f09498f8&order=2) | 강남 | 06월 27일 | 0 / 0 |  | 
+| 한지혜, 『참 괜찮은 눈이 온다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=36b39ebc-b228-491f-8dfd-9e939d273343&order=4) | 강남 | 06월 27일 | 0 / 0 |  | 
 
-총 408 개  
+총 397 개  
 
