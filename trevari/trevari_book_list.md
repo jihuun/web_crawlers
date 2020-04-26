@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-04-26 20:01:16  
+> Updated on 2020-04-27 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -169,6 +169,7 @@
 | 김병기, 이세라, 『프릳츠에서 일합니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=51d811f2-a0c4-4879-8441-2a51d60aa58b&order=1) | 강남 | 05월 14일 | 0 / 0 |  | 
 | 브로드컬리 편집부, 『서울의 3년 이하 퇴사자의 가게들 : 하고 싶은 일 해서 행복하냐 묻는다면?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=61893148-9feb-4321-8edd-7bc4f6fc2518&order=4) | 안국 | 05월 14일 | 0 / 0 |  | 
 | 김병기,이세라, 『프릳츠에서 일합니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6ee9f69f-b7bb-4c2c-9908-2e81b4ed71ce&order=1) | 안국 | 05월 14일 | 0 / 0 |  | 
+| 김현경, 『사람, 장소, 환대(현대의 지성 159)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8c97e24b-c978-4a9f-af97-560b4613d72b&order=4) | 강남 | 05월 14일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=94935ace-7d40-4966-881d-39e4a83d81c9&order=1) | 강남 | 05월 14일 | 0 / 0 |  | 
 | 마릴리 피터스, 『탐정이 된 과학자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9ace5070-fb43-4cf2-b9bc-069309d6899f&order=1) | 강남 | 05월 14일 | 0 / 0 |  | 
 | 권석천, 『대법원, 이의 있습니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a1fdf317-ff57-4a69-859b-b4c0ede1c4b5&order=4) | 강남 | 05월 14일 | 0 / 0 |  | 
@@ -411,5 +412,5 @@
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4cd2fc3-7bb9-40b9-b263-7e99f09498f8&order=2) | 강남 | 06월 27일 | 0 / 0 |  | 
 | 한지혜, 『참 괜찮은 눈이 온다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=36b39ebc-b228-491f-8dfd-9e939d273343&order=4) | 강남 | 06월 27일 | 0 / 0 |  | 
 
-총 397 개  
+총 398 개  
 
