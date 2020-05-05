@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-05-05 20:01:16  
+> Updated on 2020-05-06 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -17,7 +17,7 @@
 | 서진석, 유승권, 『넥스트 csr 파타고니아』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1519589d-e021-4f89-938e-07a83e655d91&order=1) | 성수 | 05월 06일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6918c327-5780-435d-95e3-66410d272a19&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 유발 하라리, 『사피엔스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=69a25ff4-da92-41db-9cd1-6ac2d32e1c11&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
-| 대학내일20대연구소, 『밀레니얼-Z세대 트렌드 2020』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
+| 대학내일20대연구소, 『밀레니얼-Z세대 트렌드 2020』외 7개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 김성필, 『딥러닝 첫걸음』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e229df8b-c33f-467f-acec-f61ff00d8f62&order=1) | 강남 | 05월 06일 | 0 / 0 |  | 
 | 션 엘리스, 모건 브라운, 『진화된 마케팅 그로스 해킹』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=05ba14b9-24c5-4a3b-b7a1-e1398b742297&order=3) | 강남 | 05월 07일 | 0 / 0 |  | 
 | 최장순, 『기획자의 습관』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1f33883a-0155-4d83-9bca-a8e0845a91cd&order=4) | 강남 | 05월 07일 | 0 / 0 |  | 
@@ -161,7 +161,7 @@
 | 마리 루티, 『하버드 사랑학 수업』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=481ef4c0-0ac8-4748-b7c8-01b3030c637f&order=1) | 안국 | 05월 17일 | 0 / 0 |  | 
 | 필립 로스, 『에브리맨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=69e83584-7f32-4149-9453-a414ea3dfc86&order=4) | 안국 | 05월 17일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e24a4085-2eff-4d5c-9680-6e4153a69835&order=1) | 강남 | 05월 17일 | 0 / 0 |  | 
-| Monocle 편집부, 『Monocle 2020년 4월호(issue132) 』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e3661c7f-b785-4a1f-90d5-371e0eed0566&order=1) | 강남 | 05월 17일 | 0 / 0 |  | 
+| Monocle 편집부, 『Monocle 2020년 4월호(issue132) 』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e3661c7f-b785-4a1f-90d5-371e0eed0566&order=1) | 강남 | 05월 17일 | 0 / 0 |  | 
 | 스콧 피츠제럴드, 『위대한 개츠비(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f6e6d7ad-c8bd-44b7-90de-1751013648a6&order=1) | 강남 | 05월 17일 | 0 / 0 |  | 
 | 김금희, 『경애의 마음』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=242a24e9-3096-4c10-9870-b7ba0db8bf15&order=1) | 강남 | 05월 20일 | 0 / 0 |  | 
 | 제이오에이치 편집부, 『매거진 B(Magazine B) No.83: YOUTUBE(한글판)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3dc9bb2a-6cec-4011-96c5-c889d77fb33d&order=1) | 강남 | 05월 20일 | 0 / 0 |  | 
