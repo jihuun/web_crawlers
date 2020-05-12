@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-05-12 20:01:17  
+> Updated on 2020-05-13 01:01:17  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -334,6 +334,8 @@
 | 에우리피데스, 『에우리피데스 비극전집. 1(원전으로 읽는 순수 고전 세계)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ad592984-21bf-4fb9-8205-e224b0240c3a&order=3) | 안국 | 07월 08일 | 0 / 0 |  | 
 | 나오미 클라인, 『슈퍼 브랜드의 불편한 진실 NO LOGO(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cd817c72-b792-435c-af48-558b1fd9ed6c&order=3) | 성수 | 07월 08일 | 0 / 0 |  | 
 | 마르쿠스 아우렐리우스, 『명상록(원전으로 읽는 순수고전세계)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2a257f91-35b9-465c-aeb4-1c40208bd85a&order=3) | 강남 | 07월 09일 | 0 / 0 |  | 
+| 딘 버넷, 『행복할 때 뇌 속에서 일어나는 모든 것』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=66ed984e-2122-4e65-93de-10dae643ffcb&order=1) | 강남 | 07월 09일 | 0 / 0 |  | 
+| 딘 버넷, 『행복할 때 뇌 속에서 일어나는 모든 것』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=66ed984e-2122-4e65-93de-10dae643ffcb&order=1) | 강남 | 07월 09일 | 0 / 0 |  | 
 | 탈레스 S 테이셰이라, 『디커플링(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b70193c7-cfcb-438a-bc9d-3a0013760193&order=3) | 강남 | 07월 09일 | 0 / 0 |  | 
 | 스티븐 기즈, 『지금의 조건에서 시작하는 힘』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b79f5f68-2380-4ab3-95ec-5bdd5056f9f3&order=1) | 강남 | 07월 09일 | 0 / 0 |  | 
 | 델리아 오언스, 『가재가 노래하는 곳』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=da0650e6-f91e-4d93-9807-bf9d3e26a89c&order=1) | 강남 | 07월 09일 | 0 / 0 |  | 
@@ -364,5 +366,5 @@
 | 캐스 R. 선스타인, 리처드 H. 탈러(리처드 세일러), 최정규, 리처드 탈러, 캐스 선스타인, 『넛지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c5333f9a-4921-4526-8b88-e0466ae906c1&order=3) | 강남 | 07월 16일 | 0 / 0 |  | 
 | 로버트 킨슬, 마니 페이반, 『유튜브 레볼루션(YouTube Revolution)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=07aa33a0-362e-4575-bd24-68757ac04f2e&order=3) | 강남 | 07월 17일 | 0 / 0 |  | 
 
-총 350 개  
+총 352 개  
 
