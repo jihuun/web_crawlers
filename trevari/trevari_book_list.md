@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-05-23 20:01:17  
+> Updated on 2020-05-24 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -186,6 +186,7 @@
 | 올리버 색스, 『아내를 모자로 착각한 남자』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=491b7340-63e9-4ead-b6fd-8612a29ce27e&order=2) | 안국 | 06월 14일 | 0 / 0 |  | 
 | 우종영, 한성수 (엮음), 『나는 나무에게 인생을 배웠다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5510abc3-fbe4-4a79-b43c-ac28a72c88b0&order=2) | 성수 | 06월 14일 | 0 / 0 |  | 
 | 말콤 글래드웰, 『타인의 해석』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=68b6f40d-4b94-4edb-9e66-7ee4d30b37eb&order=2) | 강남 | 06월 14일 | 0 / 0 |  | 
+| 에리히 프롬, 『나는 왜 무기력을 되풀이하는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7f8cf355-1fa3-405f-858c-5e240ed9e81e&order=2) | 안국 | 06월 14일 | 0 / 0 |  | 
 | 김난도, TVN shift 제작팀, 『김난도의 트렌드 로드: 뉴욕 임파서블』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9c961d34-b4ae-48bb-8d23-a8f51e9a7de3&order=2) | 강남 | 06월 14일 | 0 / 0 |  | 
 | 김초엽, 『우리가 빛의 속도로 갈 수 없다면(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cc1c6c89-1db4-48dd-a7ec-cbd78f0e901b&order=2) | 안국 | 06월 14일 | 0 / 0 |  | 
 | Brown Brene, 『Dare to Lead』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e022949b-2262-4902-8702-dce1510a71ad&order=2) | 강남 | 06월 14일 | 0 / 0 |  | 
@@ -338,5 +339,5 @@
 | 탈레스 S 테이셰이라, 『디커플링(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=722d717b-9739-4609-80be-f6c78dffeb7b&order=4) | 강남 | 08월 01일 | 0 / 0 |  | 
 | 무라야마 도시오, 『천년 교토의 오래된 가게 이야기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a358c19f-e1b4-459b-87cd-dca36bbe2007&order=4) | 강남 | 08월 01일 | 0 / 0 |  | 
 
-총 324 개  
+총 325 개  
 
