@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-05-31 20:01:17  
+> Updated on 2020-06-01 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -107,6 +107,7 @@
 | Eagleman David, 『The Brain』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2dfbe298-6f0f-4e41-b8e6-cd358f196e49&order=4) | 성수 | 06월 13일 | 0 / 0 |  | 
 | 존 밴빌, 『바다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3409e266-607f-452c-92b5-6055ecb56ebc&order=2) | 안국 | 06월 13일 | 0 / 0 |  | 
 | 팻 도시, 『모닝스타 성공투자 5원칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=36928b95-a153-4688-823b-7d616f0b74ba&order=2) | 강남 | 06월 13일 | 0 / 0 |  | 
+| 테드 창, 『당신 인생의 이야기』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=49e06212-02bf-445a-88cc-7f44f8272dfe&order=2) | 안국 | 06월 13일 | 0 / 0 |  | 
 | 손정목, 『서울 도시계획 이야기 2』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=56db8acf-c4d0-4f3c-bfc3-b40b84b3f871&order=2) | 강남 | 06월 13일 | 0 / 0 |  | 
 | 김경미 옮김 / 하워드 막스, 『투자에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6e7d9b58-74df-40b8-8edd-1114f274d413&order=4) | 성수 | 06월 13일 | 0 / 0 |  | 
 | 김진우, 『경험 디자인』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6f80a94b-ff64-4bfc-8bd6-f38818c4ac9b&order=2) | 강남 | 06월 13일 | 0 / 0 |  | 
@@ -363,5 +364,5 @@
 | Clear James, 『Atomic Habits』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=989116aa-3b08-4af1-aea6-099e06d847f0&order=4) | 안국 | 08월 08일 | 0 / 0 |  | 
 | 구정은, 『사라진, 버려진, 남겨진(우리시대의 논리 26)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9a030587-eebe-4460-8377-60f18ffcdca8&order=4) | 강남 | 08월 08일 | 0 / 0 |  | 
 
-총 349 개  
+총 350 개  
 
