@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-06-03 20:01:17  
+> Updated on 2020-06-04 01:01:19  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -258,6 +258,7 @@
 | 한스 로슬링, 올라 로슬링, 『팩트풀니스(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4cd2fc3-7bb9-40b9-b263-7e99f09498f8&order=2) | 강남 | 06월 27일 | 0 / 0 |  | 
 | 한지혜, 『참 괜찮은 눈이 온다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=36b39ebc-b228-491f-8dfd-9e939d273343&order=4) | 강남 | 06월 27일 | 0 / 0 |  | 
 | 테드 창, 『숨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=29655a33-a751-44a8-b860-f5356bc34084&order=4) | 강남 | 06월 28일 | 0 / 0 |  | 
+| 안성은(Brand Boy), 『드디어 팔리기 시작했다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=68090cd6-ce8c-417f-a99c-6bd544a14906&order=2) | 강남 | 06월 28일 | 0 / 0 |  | 
 | 팻 도시, 『모닝스타 성공투자 5원칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7625c7e1-92ba-49b4-b375-893eec0c3056&order=2) | 강남 | 06월 28일 | 0 / 0 |  | 
 | 한스 게오르크 호이젤, 『뇌, 욕망의 비밀을 풀다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=778f0a28-ba8c-480b-99ad-8932e5769d2f&order=2) | 강남 | 06월 28일 | 0 / 0 |  | 
 | 조지 오웰, 『1984』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=88b0582f-afbe-47ef-8b4c-777cd62769b2&order=2) | 강남 | 06월 28일 | 0 / 0 |  | 
@@ -392,5 +393,5 @@
 | 김춘미 옮김 / 마쓰이에 마사시, 『여름은 오래 그곳에 남아』 | [클럽 바로가기](https://trevari.co.krmailto:contact@trevari.co.kr) | 강남 | 08월 08일 | 0 / 0 |  | 
 | 김춘미 옮김 / 마쓰이에 마사시, 『여름은 오래 그곳에 남아』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 08월 08일 | 0 / 0 |  | 
 
-총 378 개  
+총 379 개  
 
