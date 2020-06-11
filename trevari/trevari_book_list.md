@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-06-11 20:01:18  
+> Updated on 2020-06-12 01:01:17  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -235,7 +235,10 @@
 | 정세랑, 『시선으로부터,』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6814ecb3-e82e-4921-9fe3-b79f2627b68b&order=3) | 안국 | 07월 04일 | 0 / 0 |  | 
 | 바라트 아난드, 『콘텐츠의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=722d717b-9739-4609-80be-f6c78dffeb7b&order=3) | 강남 | 07월 04일 | 0 / 0 |  | 
 | 알랭 드 보통, 『왜 나는 너를 사랑하는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=82201fd3-7545-4eb9-b65b-91f9936c1803&order=4) | 강남 | 07월 04일 | 0 / 0 |  | 
+| 밀란 쿤데라, 『참을 수 없는 존재의 가벼움』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=912a6193-93f3-4d0f-b25e-82033e30d598&order=3) | 강남 | 07월 04일 | 0 / 0 |  | 
 | 레퍼런스 바이 비 편집부, 『잡스(Jobs). 2: 셰프(Chef)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a358c19f-e1b4-459b-87cd-dca36bbe2007&order=3) | 강남 | 07월 04일 | 0 / 0 |  | 
+| M. 스캇 펙, 『아직도 가야 할 길(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d79a6dbf-70c1-4818-8a2b-6c7e970e8b7c&order=3) | 강남 | 07월 04일 | 0 / 0 |  | 
+| 김성중, 『개그맨(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=dd7f5a4b-5158-4bf9-a1bd-8f9a1eae62e6&order=3) | 안국 | 07월 04일 | 0 / 0 |  | 
 | 구보타 시게코, 남정호, 『나의 사랑 백남준』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e43b423c-dec7-4bb0-b6e2-491283afca18&order=3) | 안국 | 07월 04일 | 0 / 0 |  | 
 | 이언 매큐언, 『속죄』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4afb339-1d99-43a4-83bb-b3ea1066e914&order=1) | 안국 | 07월 04일 | 0 / 0 |  | 
 | 에린 K 레너드, 『우리의 관계를 생각하는 시간』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=33d3b301-001a-4532-a0bf-8ffd14dae597&order=3) | 강남 | 07월 05일 | 0 / 0 |  | 
@@ -371,5 +374,5 @@
 | 김재인, 『생각의 싸움』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2a257f91-35b9-465c-aeb4-1c40208bd85a&order=4) | 강남 | 08월 13일 | 0 / 0 |  | 
 | 이소영, 『홀로 성장하는 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b70193c7-cfcb-438a-bc9d-3a0013760193&order=4) | 강남 | 08월 13일 | 0 / 0 |  | 
 
-총 357 개  
+총 360 개  
 
