@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-06-29 20:01:17  
+> Updated on 2020-06-30 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -241,6 +241,8 @@
 | , 『[행복한 뇌는 무엇이 다를까] 클럽은 읽을거리가 정해져 있지 않습니다.』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a859ba8-a2e0-4a53-9bbc-b0d852d2fcfa&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
 | 로버트 아이거, 『디즈니만이 하는 것』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5a2d1871-d013-44bd-8c5b-3108577adb73&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
 | 김나이, 『어차피 하는 일, 재밌게 하고 싶어』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6a3117d9-6fdc-469d-96fc-e702b106e32f&order=1) | 강남 | 07월 22일 | 0 / 0 |  | 
+| 장강명, 『댓글부대』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=83fbb654-8386-46b2-abc4-ffa43cb6ba32&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
+| 장강명, 『댓글부대』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=83fbb654-8386-46b2-abc4-ffa43cb6ba32&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
 | 니콜라스 카, 『유리감옥』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8b8ec942-7e8e-4f0d-afd9-6f5f46a5efbc&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
 | 신형철, 『슬픔을 공부하는 슬픔』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8bb99122-75bc-44b3-8aaf-42f019e1449e&order=3) | 안국 | 07월 22일 | 0 / 0 |  | 
 | 안근용, 조원규, 『조직문화가 전략을 살린다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9beb5691-385d-452f-a668-82812a89a4e8&order=3) | 강남 | 07월 22일 | 0 / 0 |  | 
@@ -265,6 +267,7 @@
 | 문유석, 『판사유감』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=be3e7137-24c4-4891-8930-5164d3c7e21e&order=3) | 강남 | 07월 24일 | 0 / 0 |  | 
 | 피천득, 『인연』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e20971bd-4bcd-4bb0-be4d-74efe7bd1f54&order=1) | 안국 | 07월 24일 | 0 / 0 |  | 
 | 이승희, 『기록의 쓸모』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=09cf09ee-4df7-476b-978a-b6c73f950fdb&order=1) | 안국 | 07월 25일 | 0 / 0 |  | 
+| 엘리 프레이저, 『생각 조종자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21700895-cc42-41a8-a20f-f046c8b1e43e&order=3) | 안국 | 07월 25일 | 0 / 0 |  | 
 | 김애란, 『바깥은 여름』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=30938add-db8c-4e25-8351-8c4e7a35b1b0&order=1) | 강남 | 07월 25일 | 0 / 0 |  | 
 | 고금숙, 『우린 일회용이 아니니까』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=32c8e86a-5598-4e45-9783-c091cbca3ce1&order=1) | 안국 | 07월 25일 | 0 / 0 |  | 
 | 부너미, 『페미니스트도 결혼하나요?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=38dcbf24-ff55-49a7-9f6f-553be0430855&order=3) | 강남 | 07월 25일 | 0 / 0 |  | 
@@ -354,5 +357,5 @@
 | 리처드 나일즈, 『팻 메시니』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=19fd3df3-c504-4724-aa91-3df91de9fe75&order=4) | 강남 | 08월 27일 | 0 / 0 |  | 
 | 김경미 옮김 / 하워드 막스, 『투자에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=61f37b8b-8c35-4f25-a6f4-a6d6a06041fd&order=2) | 강남 | 08월 27일 | 0 / 0 |  | 
 
-총 340 개  
+총 343 개  
 
