@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-06-30 20:01:17  
+> Updated on 2020-07-01 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -266,6 +266,7 @@
 | 제이슨 솅커, 『코로나 이후의 세계』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21ac5108-406a-4765-abd8-5782be45d6b9&order=1) | 강남 | 07월 24일 | 0 / 0 |  | 
 | 피터 홉커크, 『실크로드의 악마들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2d070355-5675-4905-aaae-6be6ff98e1da&order=1) | 안국 | 07월 24일 | 0 / 0 |  | 
 | 김연수, 『소설가의 일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4355edbc-c88c-4fb7-b5e1-6a02139fdca7&order=1) | 강남 | 07월 24일 | 0 / 0 |  | 
+| 강원국, 『강원국의 글쓰기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6ff17ebd-e7cd-4864-b11e-b83ffae96b1d&order=3) | 성수 | 07월 24일 | 0 / 0 |  | 
 | 알베르 카뮈, 『이방인』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8186376f-5ade-47ee-92e5-fc2bf4cfc4b2&order=3) | 성수 | 07월 24일 | 0 / 0 |  | 
 | 숙향, 『이웃집 워런 버핏, 숙향의 투자 일기(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=93ca980e-e93d-4d81-9720-d9633ebd818a&order=3) | 안국 | 07월 24일 | 0 / 0 |  | 
 | 데이비드 크리스털, 『힘 있는 말하기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9e2d2b9d-4a7a-444e-8633-8b47643199ad&order=1) | 강남 | 07월 24일 | 0 / 0 |  | 
@@ -297,21 +298,21 @@
 | 무레 요코, 『모모요는 아직 아흔 살』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bb6f9f26-e71d-448c-8627-1288dc5467a8&order=1) | 안국 | 07월 26일 | 0 / 0 |  | 
 | Ahmed El Adl, 『Debunking The Myths And Reality Of Artificial Intelligence 』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ce11bfe9-911b-4f47-bee4-293211cf1c52&order=3) | 강남 | 07월 26일 | 0 / 0 |  | 
 | 승현준, 『커넥톰 뇌의 지도』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=faa0435b-3782-4aad-9989-c15312ff93c3&order=3) | 강남 | 07월 26일 | 0 / 0 |  | 
+| 장류진, 『일의 기쁨과 슬픔』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fb7b202f-340a-4af5-aca7-ad423ce70247&order=1) | 강남 | 07월 26일 | 0 / 0 |  | 
 | 리처드 맥그레거, 『미국, 새로운 동아시아 질서를 꿈꾸는가(메디치 WEA 총서 7)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a92b08ab-2a41-427f-a5e5-754d27fef338&order=3) | 안국 | 07월 30일 | 0 / 0 |  | 
 | 안토니오 타부키, 『집시와 르네상스(안토니오 타부키 선집 5)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40ab044b-9d51-4dba-8906-1e49d6b30714&order=4) | 안국 | 08월 01일 | 0 / 0 |  | 
 | 탈레스 S 테이셰이라, 『디커플링(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=722d717b-9739-4609-80be-f6c78dffeb7b&order=4) | 강남 | 08월 01일 | 0 / 0 |  | 
 | 무라야마 도시오, 『천년 교토의 오래된 가게 이야기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a358c19f-e1b4-459b-87cd-dca36bbe2007&order=4) | 강남 | 08월 01일 | 0 / 0 |  | 
-| 도리스 레싱, 『다섯째 아이』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4afb339-1d99-43a4-83bb-b3ea1066e914&order=2) | 안국 | 08월 01일 | 0 / 0 |  | 
 | 도리스 레싱, 『다섯째 아이』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4afb339-1d99-43a4-83bb-b3ea1066e914&order=2) | 안국 | 08월 01일 | 0 / 0 |  | 
 | 제이오에이치 편집부, 『매거진 B(Magazine B) No.75: lululemon(한글판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=543973f1-29bf-4301-a0eb-860bd879908d&order=4) | 강남 | 08월 02일 | 0 / 0 |  | 
 | 대니얼 카너먼, 『생각에 관한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a907903f-fe73-45b0-8a1d-88a37c21b81c&order=4) | 강남 | 08월 02일 | 0 / 0 |  | 
 | 마거릿 애트우드, 『오릭스와 크레이크(미친 아담 3부작 1)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d07cff06-96d0-44d9-a7be-ca421fd62984&order=4) | 안국 | 08월 02일 | 0 / 0 |  | 
 | 루스 스타일스, 『에콜로지스트 가이드 패션』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1519589d-e021-4f89-938e-07a83e655d91&order=4) | 성수 | 08월 05일 | 0 / 0 |  | 
 | 박소영, 이찬, 『밀레니얼은 처음이라서』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=4) | 강남 | 08월 05일 | 0 / 0 |  | 
-| 박소영, 이찬, 『밀레니얼은 처음이라서』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b645ccbc-5330-4d15-84b7-4c17720d89e7&order=4) | 강남 | 08월 05일 | 0 / 0 |  | 
 | 헬레나 노르베리 호지, 『로컬의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=44fc4455-4131-41c5-bd7a-a8f35f48ba5b&order=4) | 강남 | 08월 06일 | 0 / 0 |  | 
 | 김용국, 『판결 VS 판결』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=82cdf1d6-42dc-4ef1-9493-f309888eea7c&order=4) | 안국 | 08월 06일 | 0 / 0 |  | 
 | 고레에다 히로카즈, 『걷는 듯 천천히』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c5733cfa-a3ff-434c-8029-01fe3dd26c90&order=2) | 강남 | 08월 06일 | 0 / 0 |  | 
+| 데이비드 몽고메리, 앤 비클레, 『발밑의 미생물 몸속의 미생물』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=34a8f250-6d80-4df4-83ef-ed60ec7a17dc&order=2) | 강남 | 08월 08일 | 0 / 0 |  | 
 | 데이비드 몽고메리, 앤 비클레, 『발밑의 미생물 몸속의 미생물』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=34a8f250-6d80-4df4-83ef-ed60ec7a17dc&order=2) | 강남 | 08월 08일 | 0 / 0 |  | 
 | 모종린, 『골목길 자본론』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=463aa151-8fd3-4192-b807-aff054bbd91b&order=2) | 강남 | 08월 08일 | 0 / 0 |  | 
 | 손정목, 『서울 도시계획 이야기 4』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=56db8acf-c4d0-4f3c-bfc3-b40b84b3f871&order=4) | 강남 | 08월 08일 | 0 / 0 |  | 
@@ -356,6 +357,7 @@
 | 바라트 아난드, 『콘텐츠의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4cd2fc3-7bb9-40b9-b263-7e99f09498f8&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
 | 유발 하라리, 재레드 다이아몬드, 『초예측(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0f462fc3-4688-44ad-b039-97826d3a03d1&order=2) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리, 『21세기를 위한 21가지 제언』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ce11bfe9-911b-4f47-bee4-293211cf1c52&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
+| 앤디 퍼디컴, 『당신의 삶에 명상이 필요할 때』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fb7b202f-340a-4af5-aca7-ad423ce70247&order=2) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 에드워드 글레이저, 『도시의 승리』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=26dbfb22-9224-4c51-8c33-49cbf3a333a9&order=4) | 강남 | 08월 26일 | 0 / 0 |  | 
 | 나쓰메 소세키, 『이 몸은 고양이야(창비세계문학 54)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2d77ba23-ed74-4616-bcab-3f71d9be77f7&order=4) | 강남 | 08월 26일 | 0 / 0 |  | 
 | , 『[행복한 뇌는 무엇이 다를까] 클럽은 읽을거리가 정해져 있지 않습니다.』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a859ba8-a2e0-4a53-9bbc-b0d852d2fcfa&order=4) | 강남 | 08월 26일 | 0 / 0 |  | 
@@ -364,5 +366,5 @@
 | 리처드 나일즈, 『팻 메시니』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=19fd3df3-c504-4724-aa91-3df91de9fe75&order=4) | 강남 | 08월 27일 | 0 / 0 |  | 
 | 김경미 옮김 / 하워드 막스, 『투자에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=61f37b8b-8c35-4f25-a6f4-a6d6a06041fd&order=2) | 강남 | 08월 27일 | 0 / 0 |  | 
 
-총 350 개  
+총 352 개  
 
