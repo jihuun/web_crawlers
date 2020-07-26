@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-07-26 20:01:17  
+> Updated on 2020-07-27 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -181,6 +181,7 @@
 | 세스 스티븐스 다비도위츠, 『모두 거짓말을 한다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a33c419a-1c06-482d-bef4-51c9e8bb604b&order=2) | 강남 | 08월 16일 | 0 / 0 |  | 
 | 헬렌 레이저, 『밀레니얼은 왜 가난한가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d857437e-47c1-4c4c-ada5-9620c2883421&order=2) | 안국 | 08월 16일 | 0 / 0 |  | 
 | Monocle 편집부, 『Monocle 7/8월 합본호 #135』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e3661c7f-b785-4a1f-90d5-371e0eed0566&order=4) | 강남 | 08월 16일 | 0 / 0 |  | 
+| 유발 하라리, 『사피엔스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f1a581f4-dd4a-4b02-b1fa-b53e8949136b&order=2) | 강남 | 08월 16일 | 0 / 0 |  | 
 | 그자비에 드 메스트르, 『내 방 여행하는 법』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f6e6d7ad-c8bd-44b7-90de-1751013648a6&order=4) | 강남 | 08월 16일 | 0 / 0 |  | 
 | 전원경, 『클림트(클래식 클라우드 3)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=19915094-3b5b-4b58-8389-023fe9f635c7&order=2) | 안국 | 08월 19일 | 0 / 0 |  | 
 | 숀 아처, 『빅 포텐셜』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=242a24e9-3096-4c10-9870-b7ba0db8bf15&order=4) | 강남 | 08월 19일 | 0 / 0 |  | 
@@ -229,6 +230,7 @@
 | 어니스트 헤밍웨이, 『파리는 날마다 축제』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ebdc2d64-ac21-42ec-963d-aad94a58dd92&order=4) | 안국 | 08월 22일 | 0 / 0 |  | 
 | 바라트 아난드, 『콘텐츠의 미래』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4cd2fc3-7bb9-40b9-b263-7e99f09498f8&order=4) | 강남 | 08월 22일 | 0 / 0 |  | 
 | 유발 하라리, 재레드 다이아몬드, 『초예측(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0f462fc3-4688-44ad-b039-97826d3a03d1&order=2) | 강남 | 08월 23일 | 0 / 0 |  | 
+| 김경미 옮김 / 하워드 막스, 『투자에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7625c7e1-92ba-49b4-b375-893eec0c3056&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 토드 로즈, 오기 오가스, 『다크호스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a3b22748-6640-4ddb-843d-d839eba681f9&order=4) | 안국 | 08월 23일 | 0 / 0 |  | 
 | 전병근 옮김 / 유발 하라리, 『21세기를 위한 21가지 제언』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ce11bfe9-911b-4f47-bee4-293211cf1c52&order=4) | 강남 | 08월 23일 | 0 / 0 |  | 
 | 앤디 퍼디컴, 『당신의 삶에 명상이 필요할 때』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fb7b202f-340a-4af5-aca7-ad423ce70247&order=2) | 강남 | 08월 23일 | 0 / 0 |  | 
@@ -454,5 +456,5 @@
 | 존 워릴로우, 『구독경제 마케팅』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=58327459-7e1b-4e28-a050-6be45bc0ded4&order=2) | 강남 | 10월 10일 | 0 / 0 |  | 
 | 폴 콜린스, 『밴버드의 어리석음』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012e0e32-23db-437c-9a44-3597398c5427&order=2) | 강남 | 10월 10일 | 0 / 0 |  | 
 
-총 440 개  
+총 442 개  
 
