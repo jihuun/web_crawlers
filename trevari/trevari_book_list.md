@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-07-27 20:01:17  
+> Updated on 2020-07-28 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -322,6 +322,7 @@
 | 줄리언 반스, 『예감은 틀리지 않는다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=be2ded0e-d788-4238-bfb6-23fdd46b1835&order=1) | 안국 | 09월 11일 | 0 / 0 |  | 
 | 니콜 크라우스, 『사랑의 역사』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c1ea2605-0c61-4fe4-9013-d6461d3e5d18&order=1) | 강남 | 09월 11일 | 0 / 0 |  | 
 | 엠제이 드마코, 『부의 추월차선』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f0f7d1b9-406b-47cd-ac17-01874e7eb0ea&order=1) | 강남 | 09월 11일 | 0 / 0 |  | 
+| 야마구치 슈, 『뉴타입의 시대』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fdaa4680-0e0f-4ec0-9103-b6a5672f5dd8&order=1) | 강남 | 09월 11일 | 0 / 0 |  | 
 | 킨조 신이치로, 『챗봇혁명』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=58327459-7e1b-4e28-a050-6be45bc0ded4&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
 | 조르조 바사니, 『금테 안경(조르조 바사니 선집 2)(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012e0e32-23db-437c-9a44-3597398c5427&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
 | 장류진, 『일의 기쁨과 슬픔』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=187565ed-ba8a-4667-82af-570924422d3a&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
@@ -418,6 +419,7 @@
 | 존 로스만, 『아마존처럼 생각하라』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=eb477469-693f-4e38-b06f-f85795a23420&order=1) | 강남 | 09월 24일 | 0 / 0 |  | 
 | 잭 햄플, 『베이스볼』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=19492d6c-9b89-4b7a-9424-0603e0899ff4&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
 | 이국종, 『골든아워. 1』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1debf4d2-57d4-4981-8dba-96410484ece4&order=1) | 안국 | 09월 25일 | 0 / 0 |  | 
+| 브라운스톤, 『부의 인문학』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=204ba606-da75-4455-ab92-39d0d8dff5e6&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
 | 김봉렬, 『김봉렬의 한국건축 이야기 3』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2d070355-5675-4905-aaae-6be6ff98e1da&order=3) | 안국 | 09월 25일 | 0 / 0 |  | 
 | 마크 랜돌프, 『절대 성공하지 못할 거야』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3077c074-112a-4955-a654-4c2ff6e24175&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
 | 메리 셸리, 『프랑켄슈타인』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=529cc1c5-f065-4e8c-8012-db704f05c944&order=1) | 강남 | 09월 25일 | 0 / 0 |  | 
@@ -465,5 +467,5 @@
 | 장병규, 『장병규의 스타트업 한국』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a78bb9f2-6865-4863-a5ba-987087f5a397&order=4) | 안국 | 10월 09일 | 0 / 0 |  | 
 | 김선지, 『싸우는 여성들의 미술사』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ae9d0830-3948-4674-9d49-925aecce4f81&order=2) | 강남 | 10월 09일 | 0 / 0 |  | 
 
-총 451 개  
+총 453 개  
 
