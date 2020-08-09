@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-08-09 20:01:17  
+> Updated on 2020-08-10 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -330,6 +330,7 @@
 | 권여선, 『안녕 주정뱅이』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=39cc0ed4-87a5-40e7-8bed-41892f0e9f3a&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 알베르 카뮈, 『페스트』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=499d8024-903b-4ca0-af6b-4d4310632874&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 최미선, 신석교, 『국내여행 버킷리스트 101(죽기 전에 가 봐야 할)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7c89ff56-62b4-44d9-bdfe-b7ea2355c7bc&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
+| 에밀리 와프닉, 『모든 것이 되는 법』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=af8b5851-98b8-47ee-8c0e-bd3dc9fddee0&order=3) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d3a14f39-8c02-4284-8266-982cef5b7d90&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 장강명, 『표백』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e58e71ee-f01b-41fc-b956-1c65d86864f6&order=1) | 안국 | 09월 13일 | 0 / 0 |  | 
 | 정유정, 『7년의 밤』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ed7aac7d-ce0e-4549-b8fd-3882f177cfdd&order=1) | 안국 | 09월 13일 | 0 / 0 |  | 
@@ -498,5 +499,5 @@
 | 강병욱, 『저는 기업분석이 처음인데요(개정판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=2) | 강남 | 10월 14일 | 0 / 0 |  | 
 | 야마자키 미쓰히로, 『포틀랜드 메이커스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ff943e2d-9960-4625-8b6a-c30eff5ea10b&order=4) | 안국 | 10월 14일 | 0 / 0 |  | 
 
-총 484 개  
+총 485 개  
 
