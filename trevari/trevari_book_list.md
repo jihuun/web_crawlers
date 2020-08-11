@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-08-11 20:01:15  
+> Updated on 2020-08-12 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -325,6 +325,7 @@
 | 피터 드러커|프랜시스 헤셀바인|조안 스나이더 컬 , 『피터 드러커의 최고의 질문』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=630e7b78-eb05-4a95-af0c-0e7eb7cc27a4&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
 | 권석천, 『사람에 대한 예의』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8efac707-4ba0-40ab-a3c1-9e13e83e2b0b&order=1) | 안국 | 09월 12일 | 0 / 0 |  | 
 | 안종희 옮김 / 리처드 플로리다, 『도시는 왜 불평등한가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a5d1d445-e0ca-4f58-a183-2b3fd1dc88ac&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
+| 테드 창, 『숨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b19cb9ff-dbaf-4ca2-a085-b17a25819cba&order=3) | 안국 | 09월 12일 | 0 / 0 |  | 
 | 대니얼 서스킨드, 『노동의 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b33b7949-1e8e-4e45-a711-ea2074532680&order=1) | 강남 | 09월 12일 | 0 / 0 |  | 
 | 에리히 프롬, 『소유냐 존재냐(2판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b45991d9-4699-4d04-beaa-d731e1b38ef7&order=3) | 강남 | 09월 12일 | 0 / 0 |  | 
 | 헤르만 헤세, 『싯다르타』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c284a289-b6ec-4a54-911d-21733fb2671a&order=3) | 강남 | 09월 12일 | 0 / 0 |  | 
@@ -514,5 +515,5 @@
 | 김위찬, 르네 마보안, 『블루오션 시프트(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=06bd50f0-36bf-4549-9e7f-f1cf7ea96848&order=2) | 강남 | 10월 14일 | 0 / 0 |  | 
 | 강병욱, 『저는 기업분석이 처음인데요(개정판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=2) | 강남 | 10월 14일 | 0 / 0 |  | 
 
-총 500 개  
+총 501 개  
 
