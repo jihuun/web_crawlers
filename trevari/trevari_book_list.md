@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-08-13 20:01:18  
+> Updated on 2020-08-14 01:01:17  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -360,6 +360,7 @@
 | 조천호, 『파란하늘 빨간지구』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9119e661-96b2-4091-968e-080b87ffcd23&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 지아 장, 『거절당하기 연습』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a7a9b9eb-8770-42ef-be7b-f20dcd891917&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 허먼 멜빌 / 하비에르 사발라 그림 / 공진호 옮김, 『필경사 바틀비』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b5ad9599-97c3-45be-a5c3-0efbf0dc1f34&order=1) | 안국 | 09월 18일 | 0 / 0 |  | 
+| 서수진, 『코리안 티처』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bb040ce2-7efa-445d-88ef-e7a4c93e70c1&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 유병욱, 『생각의 기쁨』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cf7fc67f-a712-4c7f-a9eb-9139c8f1c216&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 정두희, 『한 권으로 끝내는 AI 비즈니스 모델(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d6337bc3-0bbc-4256-aaaa-03f5d87cbc97&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
 | 궤도, 『궤도의 과학 허세』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f675066d-75f5-41a7-96ab-02e969257200&order=1) | 강남 | 09월 18일 | 0 / 0 |  | 
@@ -506,5 +507,5 @@
 | 야마자키 미쓰히로, 『포틀랜드 메이커스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ff943e2d-9960-4625-8b6a-c30eff5ea10b&order=4) | 안국 | 10월 14일 | 0 / 0 |  | 
 | 그랜트 사바티어, 『파이낸셜 프리덤』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a4523459-177d-4219-ad18-0c8bf14fec0f&order=2) | 강남 | 10월 15일 | 0 / 0 |  | 
 
-총 492 개  
+총 493 개  
 
