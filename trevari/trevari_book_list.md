@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-08-16 20:01:15  
+> Updated on 2020-08-17 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -259,7 +259,7 @@
 | 헨리 데이빗 소로우, 『월든』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=34c6bc1f-f366-452e-a8ce-b2e7a0829eb4&order=3) | 안국 | 09월 13일 | 0 / 0 |  | 
 | 권여선, 『안녕 주정뱅이』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=39cc0ed4-87a5-40e7-8bed-41892f0e9f3a&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 알베르 카뮈, 『페스트』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=499d8024-903b-4ca0-af6b-4d4310632874&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
-| 최미선, 신석교, 『국내여행 버킷리스트 101(죽기 전에 가 봐야 할)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7c89ff56-62b4-44d9-bdfe-b7ea2355c7bc&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
+| 최미선, 신석교, 『국내여행 버킷리스트 101(죽기 전에 가 봐야 할)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7c89ff56-62b4-44d9-bdfe-b7ea2355c7bc&order=1) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 존 윌리엄스, 『스토너』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7cf470b3-cd76-4ead-8dd6-c9e2f3b597d8&order=3) | 안국 | 09월 13일 | 0 / 0 |  | 
 | 옌롄커, 『인민을 위해 복무하라(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=aa7532f8-53a1-43d6-aae7-33f770fd6a5f&order=3) | 강남 | 09월 13일 | 0 / 0 |  | 
 | 에밀리 와프닉, 『모든 것이 되는 법』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=af8b5851-98b8-47ee-8c0e-bd3dc9fddee0&order=3) | 강남 | 09월 13일 | 0 / 0 |  | 
@@ -440,7 +440,7 @@
 | 강영숙, 『라이팅 클럽(오늘의 작가 총서 32)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f31b6875-3051-41a6-9d39-3afc4c09e921&order=2) | 강남 | 10월 10일 | 0 / 0 |  | 
 | 데이비드 실즈, 『우리는 언젠가 죽는다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4afb339-1d99-43a4-83bb-b3ea1066e914&order=4) | 안국 | 10월 10일 | 0 / 0 |  | 
 | 히가시 다이사쿠, 『적과의 대화』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fe31f5e5-d652-49c4-b1bf-fa8c9021c29d&order=2) | 강남 | 10월 10일 | 0 / 0 |  | 
-| 전소영, 『다시 가슴 뛰고 싶다면 브라질』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7c89ff56-62b4-44d9-bdfe-b7ea2355c7bc&order=2) | 강남 | 10월 11일 | 0 / 0 |  | 
+| 전소영, 『다시 가슴 뛰고 싶다면 브라질』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7c89ff56-62b4-44d9-bdfe-b7ea2355c7bc&order=2) | 강남 | 10월 11일 | 0 / 0 |  | 
 | 김위찬, 르네 마보안, 『블루오션 시프트(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=06bd50f0-36bf-4549-9e7f-f1cf7ea96848&order=2) | 강남 | 10월 14일 | 0 / 0 |  | 
 | 강병욱, 『저는 기업분석이 처음인데요(개정판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=2) | 강남 | 10월 14일 | 0 / 0 |  | 
 | 야마자키 미쓰히로, 『포틀랜드 메이커스』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ff943e2d-9960-4625-8b6a-c30eff5ea10b&order=4) | 안국 | 10월 14일 | 0 / 0 |  | 
