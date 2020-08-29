@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-08-29 20:01:15  
+> Updated on 2020-08-30 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -145,6 +145,7 @@
 | 이본 쉬나드, 『파타고니아, 파도가 칠 때는 서핑을』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=eef52f87-4ed6-40a0-a437-7684d80a4e96&order=1) | 강남 | 09월 16일 | 0 / 0 |  | 
 | 안성은(Brand Boy), 『드디어 팔리기 시작했다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f312c06f-4507-474e-9a11-3f42ef363223&order=4) | 강남 | 09월 16일 | 0 / 0 |  | 
 | 테드 창, 『숨』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=04aa43cc-1d89-4081-a6d8-caa6eb4b8f55&order=1) | 강남 | 09월 17일 | 0 / 0 |  | 
+| 박선령 옮김 / 정지현 옮김 / 팀 페리스, 『[책그림 추천책] 타이탄의 도구들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=09d1da85-5bb4-4de7-88b6-bb80ebedcd8a&order=3) | 강남 | 09월 17일 | 0 / 0 |  | 
 | Dung Ngo, 『루이스 칸의 잊혀질 수 없는 건축 강의』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0d7f110d-5844-4e5a-b6ff-86284f3736f9&order=1) | 강남 | 09월 17일 | 0 / 0 |  | 
 | 김진준 옮김 / 제레드 다이아몬드, 『[공신추천책]총, 균, 쇠』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=18216182-79b7-457c-b837-a978b43a24cd&order=4) | 강남 | 09월 17일 | 0 / 0 |  | 
 | 에밀 아자르, 『자기 앞의 생』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4232f748-d235-4e0a-981d-9930f900d871&order=1) | 강남 | 09월 17일 | 0 / 0 |  | 
@@ -398,5 +399,5 @@
 | 홍성태, 『모든 비즈니스는 브랜딩이다』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 11월 04일 | 0 / 0 |  | 
 | 홍성태, 『모든 비즈니스는 브랜딩이다』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 11월 04일 | 0 / 0 |  | 
 
-총 384 개  
+총 385 개  
 
