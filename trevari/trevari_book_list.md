@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-09-06 01:01:14  
+> Updated on 2020-09-06 20:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -13,12 +13,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 나이절 워버턴, 『철학의 역사(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2c8fd9ff-9dcc-48f8-bc1b-7d359c496068&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
-| 다자이 오사무, 『사양(세계문학전집 359)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=41719049-231f-40b8-bc68-c4051fecb219&order=1) | 온라인(Zoom) | 09월 06일 | 0 / 0 |  | 
-| 리처드 도킨스, 『이기적 유전자』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6db59d07-6086-48c7-a34a-bba38289172a&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
-| 김혼비, 『아무튼, 술』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=74e87d10-54eb-49d5-b4a1-66eb402e1f24&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
-| 레이 달리오, 『원칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=84b1ddb7-5092-4a88-9fdf-ac33391e8f11&order=1) | 강남 | 09월 06일 | 0 / 0 |  | 
-| 최은영, 『쇼코의 미소』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=abe5d2f6-9fa8-447e-a041-fc8c558c317d&order=1) | 안국 | 09월 06일 | 0 / 0 |  | 
 | 문영미, 『디퍼런트(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=06bd50f0-36bf-4549-9e7f-f1cf7ea96848&order=1) | 강남 | 09월 09일 | 0 / 0 |  | 
 | 피터 린치, 『전설로 떠나는 월가의 영웅』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=1) | 강남 | 09월 09일 | 0 / 0 |  | 
 | , 『[행복한 뇌는 무엇이 다를까] 클럽은 읽을거리가 정해져 있지 않습니다.』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a859ba8-a2e0-4a53-9bbc-b0d852d2fcfa&order=4) | 강남 | 09월 09일 | 0 / 0 |  | 
@@ -389,6 +383,7 @@
 | 클로테르 라파이유, 『컬처 코드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=06bd50f0-36bf-4549-9e7f-f1cf7ea96848&order=3) | 강남 | 11월 11일 | 0 / 0 |  | 
 | 나심 니콜라스 탈레브, 『행운에 속지 마라』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=3) | 강남 | 11월 11일 | 0 / 0 |  | 
 | 이소영, 『홀로 성장하는 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=67bfbb1f-818c-4583-8293-1371461524e7&order=3) | 강남 | 11월 12일 | 0 / 0 |  | 
+| Bryant Kobe, 『The Mamba Mentality: How I Play』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0deaca9c-6520-4ed2-9df9-e7212e6410b1&order=3) | 강남 | 11월 13일 | 0 / 0 |  | 
 
-총 376 개  
+총 371 개  
 
