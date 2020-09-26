@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-09-26 20:01:16  
+> Updated on 2020-09-27 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -191,6 +191,7 @@
 | 킨너렛 이프라, 『마이크로카피』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f5c488f0-4eba-42f9-b5a9-d380dd080307&order=1) | 강남 | 10월 17일 | 0 / 0 |  | 
 | 짐 로저스, 『어드벤처 캐피털리스트』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=fba7497f-6d5a-47e9-8a6b-054345b13917&order=4) | 강남 | 10월 17일 | 0 / 0 |  | 
 | 파트릭 모디아노, 『어두운 상점들의 거리(문학동네 세계문학전집 10주년 기념 리커버 특별판...』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=50dd0ddb-df6b-481f-a287-52bba99731f1&order=2) | 안국 | 10월 17일 | 0 / 0 |  | 
+| 온다 리쿠, 『밤의 피크닉』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7057b366-01f5-406a-bf4f-e161c4c1103b&order=2) | 안국 | 10월 17일 | 0 / 0 |  | 
 | 최배근, 『호모 엠파티쿠스가 온다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=222f2779-e77d-4fb3-9185-3ab4d9671b76&order=2) | 강남 | 10월 18일 | 0 / 0 |  | 
 | 킴 스콧, 『실리콘밸리의 팀장들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=23099ba7-8be5-4f61-81d4-20ebf6f12f6a&order=4) | 안국 | 10월 18일 | 0 / 0 |  | 
 | 은유, 『쓰기의 말들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=49c57b91-8381-47b6-8f7e-5e7f52ccde99&order=1) | 강남 | 10월 18일 | 0 / 0 |  | 
@@ -223,7 +224,6 @@
 | 콜린 베번, 『당신의 행복이 어떻게 세상을 구하냐고 물으신다면』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=32c8e86a-5598-4e45-9783-c091cbca3ce1&order=4) | 안국 | 10월 24일 | 0 / 0 |  | 
 | 대니얼 서스킨드, 『노동의 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=45dd87a5-9c17-4b67-bff2-57f7f2e9651d&order=2) | 안국 | 10월 24일 | 0 / 0 |  | 
 | 김경미 옮김 / 하워드 막스, 『투자에 대한 생각』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=478178e1-8013-4245-919e-c002cec6da59&order=3) | 강남 | 10월 24일 | 0 / 0 |  | 
-| 제임스 설터, 『가벼운 나날』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=64c29e57-48d4-4609-ab32-5f1b9b9dfe7a&order=2) | 안국 | 10월 24일 | 0 / 0 |  | 
 | 안상수, 한재준, 『한글 디자인 교과서(AG 교과서 시리즈 6)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7e8ebbdd-1212-4f3a-a3c8-e050d5a5d590&order=2) | 강남 | 10월 24일 | 0 / 0 |  | 
 | 안데슈 루슬룬드, 버리에 헬스트럼, 『비스트』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8235c6eb-c85b-4870-985f-30653a69365c&order=2) | 강남 | 10월 24일 | 0 / 0 |  | 
 | 시몬느 드 보부아르, 『제2의 성. 2(3판)(세계사상전집 95)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=84421004-140c-4265-ab01-da14cba24af1&order=2) | 강남 | 10월 24일 | 0 / 0 |  | 
