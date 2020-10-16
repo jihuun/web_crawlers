@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-10-16 20:01:16  
+> Updated on 2020-10-17 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -283,6 +283,7 @@
 | 야마모토 리켄 외, 나카 도시하루, 『마음을 연결하는 집(반양장)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0d7f110d-5844-4e5a-b6ff-86284f3736f9&order=3) | 강남 | 11월 19일 | 0 / 0 |  | 
 | 고승연, 『Z세대는 그런 게 아니고(북저널리즘 53)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9f43aff1-2a77-4530-b97a-e28f19608c7f&order=3) | 강남 | 11월 19일 | 0 / 0 |  | 
 | 어니 J. 젤린스키, 『일하지 않아도 좋아』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a4523459-177d-4219-ad18-0c8bf14fec0f&order=3) | 강남 | 11월 19일 | 0 / 0 |  | 
+| 스티븐 기즈, 『지금의 조건에서 시작하는 힘』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f99debea-b026-492f-af9c-f71a7d043b6f&order=1) | 강남 | 11월 19일 | 0 / 0 |  | 
 | 미셸 마르크 부샤르, 『고아 뮤즈들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1389f717-b4d2-42d1-a6f6-3b57c21ec6b4&order=3) | 강남 | 11월 20일 | 0 / 0 |  | 
 | 박상규, 박준영, 『지연된 정의(셜록 1)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1e12b223-c1a2-4ed7-9046-f42303c916b9&order=1) | 강남 | 11월 20일 | 0 / 0 |  | 
 | 홍춘욱, 박종훈, 『밀레니얼 이코노미』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3c7a2ad2-aec5-402a-8d1f-70fa24f11ebe&order=1) | 안국 | 11월 20일 | 0 / 0 |  | 
@@ -377,5 +378,5 @@
 | 레이첼 보츠먼, 『신뢰 이동』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012c8d51-5f1b-484c-af74-2840aba58814&order=4) | 강남 | 12월 24일 | 0 / 0 |  | 
 | 김초엽, 『우리가 빛의 속도로 갈 수 없다면(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=259cff2f-a3f5-4b63-936a-6b2d58682d7e&order=3) | 강남 | 12월 24일 | 0 / 0 |  | 
 
-총 363 개  
+총 364 개  
 
