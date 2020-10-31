@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-10-31 01:01:17  
+> Updated on 2020-10-31 20:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -193,6 +193,7 @@
 | 토드 로즈, 『평균의 종말』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=015b76b8-a27f-4cb3-a71d-eb5725eacb20&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 랜디 로스, 『앞서가는 조직은 왜 관계에 충실한가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0a83bb9b-a41e-4473-8bbb-bf4d8a0c25d3&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 에우리피데스, 『에우리피데스 비극전집. 1(원전으로 읽는 순수 고전 세계)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=13d9d987-0719-44be-9627-fb7734664e53&order=3) | 안국 | 11월 22일 | 0 / 0 |  | 
+| 로버트 아이거, 『디즈니만이 하는 것』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3184647b-bb68-4dc1-9a9f-8a3c8a9583d6&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 마틴 포드, 『AI 마인드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=52be2d56-191f-4d1d-b19e-50da992e4919&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 밀란 쿤데라, 『참을 수 없는 존재의 가벼움』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=55b1255b-271d-44bd-a0a5-bf52a46f2d42&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 비크람 만샤라마니, 『붐버스톨로지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
@@ -217,6 +218,7 @@
 | 폴 칼라니티, 『숨결이 바람 될 때』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b77b3f02-d682-44be-8e3f-a8a3b98f5d7f&order=1) | 강남 | 11월 25일 | 0 / 0 |  | 
 | 브래드 톨린스키, 앨런 디 퍼나, 『굉음의 혁명』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c15d0325-f536-4f34-bc07-5acb70888028&order=2) | 강남 | 11월 25일 | 0 / 0 |  | 
 | 타일러 라쉬, 『두 번째 지구는 없다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d5860048-d592-4618-8792-9110d3fe6db3&order=3) | 안국 | 11월 25일 | 0 / 0 |  | 
+| 김초엽, 『우리가 빛의 속도로 갈 수 없다면(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e6518fb2-729d-4f28-a158-f913073e6ec2&order=3) | 강남 | 11월 25일 | 0 / 0 |  | 
 | 김승호, 『돈의 속성』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f14482e4-36e0-4425-8376-43d5a959387c&order=1) | 강남 | 11월 25일 | 0 / 0 |  | 
 | 노가영, 조형석, 『콘텐츠가 전부다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012c8d51-5f1b-484c-af74-2840aba58814&order=3) | 강남 | 11월 26일 | 0 / 0 |  | 
 | 히가시노 게이고, 『녹나무의 파수꾼(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=259cff2f-a3f5-4b63-936a-6b2d58682d7e&order=2) | 강남 | 11월 26일 | 0 / 0 |  | 
@@ -275,7 +277,6 @@
 | 송혜영, 『요제프 보이스 우리가 혁명이다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f20b995e-f490-4e83-b040-465b30217295&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
 | 마거릿 애트우드, 『홍수의 해(미친 아담 3부작 2)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=41719049-231f-40b8-bc68-c4051fecb219&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 에리히 프롬, 『자유로부터의 도피』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6db59d07-6086-48c7-a34a-bba38289172a&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
-| 김영하, 『여행의 이유』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=86abf21b-144f-44eb-8051-f4c4cdf79d47&order=2) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 클로테르 라파이유, 『컬처 코드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=06bd50f0-36bf-4549-9e7f-f1cf7ea96848&order=3) | 강남 | 12월 09일 | 0 / 0 |  | 
 | 나심 니콜라스 탈레브, 『행운에 속지 마라』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0bcc47d4-83c5-47ee-a78d-83716245a8fc&order=3) | 강남 | 12월 09일 | 0 / 0 |  | 
 | 필 나이트, 『슈독』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5324b3cf-a945-4357-8801-dbadc77db78a&order=2) | 강남 | 12월 09일 | 0 / 0 |  | 
@@ -349,5 +350,5 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 
-총 335 개  
+총 336 개  
 
