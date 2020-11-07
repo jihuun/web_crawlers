@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-07 20:01:14  
+> Updated on 2020-11-08 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -165,6 +165,7 @@
 | 더퍼슨스, 『더퍼슨스(the Persons) No. 2: 바리스타(Barista)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9fc9d701-ec09-4df0-8f57-701764e1472a&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 황농문, 『몰입』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a70d19ff-2136-4d2c-9cb7-b4bdef2ec7cb&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | Hawking Stephen W, 『Brief Answers to the Big Questions』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c2781d25-82e6-4748-864d-a1260b968675&order=4) | 안국 | 11월 22일 | 0 / 0 |  | 
+| 이본 쉬나드, 『파타고니아, 파도가 칠 때는 서핑을』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c58d1337-64a5-41a4-b8e5-33a4400640ff&order=2) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 제레드 쿠니 호바스, 『사람은 어떻게 생각하고 배우고 기억하는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=3) | 안국 | 11월 22일 | 0 / 0 |  | 
 | 김학진, 『이타주의자의 은밀한 뇌구조』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d8a6780d-ffc6-417a-8a1b-4c3ad2ed3251&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 오건영, 『부의 대이동』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e4a709b1-62ca-4a92-b9e5-11ac98d3a6fd&order=3) | 안국 | 11월 22일 | 0 / 0 |  | 
@@ -339,5 +340,5 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 
-총 325 개  
+총 326 개  
 
