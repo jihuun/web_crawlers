@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-08 20:01:15  
+> Updated on 2020-11-09 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -256,6 +256,7 @@
 | 홍성태, 『그로잉 업(Growing Up)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8e5f1789-8647-4b6b-bed5-48a429e7cda6&order=1) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 송혜영, 『요제프 보이스 우리가 혁명이다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f20b995e-f490-4e83-b040-465b30217295&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
 | 마거릿 애트우드, 『홍수의 해(미친 아담 3부작 2)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=41719049-231f-40b8-bc68-c4051fecb219&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
+| 장기하, 『상관없는 거 아닌가?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=63a1cddf-ac74-48eb-b008-51dba50d30c9&order=4) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 에리히 프롬, 『자유로부터의 도피』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6db59d07-6086-48c7-a34a-bba38289172a&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 피터 틸|블레이크 매스터스, 『제로투원』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=84b1ddb7-5092-4a88-9fdf-ac33391e8f11&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 정세랑, 『시선으로부터,』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=86abf21b-144f-44eb-8051-f4c4cdf79d47&order=2) | 안국 | 12월 06일 | 0 / 0 |  | 
@@ -341,5 +342,5 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 
-총 327 개  
+총 328 개  
 
