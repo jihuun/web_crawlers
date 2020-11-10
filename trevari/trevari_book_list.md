@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-10 20:01:16  
+> Updated on 2020-11-11 01:01:16  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -235,6 +235,7 @@
 | 임태수, 『브랜드 브랜딩 브랜디드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=95e53cd3-ed43-4040-9637-aaf8e836bd7a&order=3) | 강남 | 12월 03일 | 0 / 0 |  | 
 | 이미예, 『달러구트 꿈 백화점』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=98f473ae-4d8e-4cfb-9827-286a889232bd&order=1) | 강남 | 12월 04일 | 0 / 0 |  | 
 | 장인성, 『마케터의 일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=afa2b23a-6351-4fe0-8ff5-c2aff3ffde99&order=1) | 강남 | 12월 04일 | 0 / 0 |  | 
+| 빅터 프랭클, 『그럼에도 삶에 ‘예’라고 답할 때(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f9317aae-8a0d-4432-acaa-3e295bb2cf29&order=1) | 강남 | 12월 04일 | 0 / 0 |  | 
 | 올가 토카르축, 『방랑자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=066cff3f-2c35-4d47-93e7-49ef707c645f&order=4) | 안국 | 12월 05일 | 0 / 0 |  | 
 | 짐 매켈비, 『언카피어블』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40dbdffb-0b53-4acf-90dc-5ea1b040afcb&order=4) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 홍성태, 『그로잉 업(Growing Up)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8e5f1789-8647-4b6b-bed5-48a429e7cda6&order=1) | 강남 | 12월 05일 | 0 / 0 |  | 
@@ -244,6 +245,7 @@
 | 마거릿 애트우드, 『홍수의 해(미친 아담 3부작 2)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=41719049-231f-40b8-bc68-c4051fecb219&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 장기하, 『상관없는 거 아닌가?』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=63a1cddf-ac74-48eb-b008-51dba50d30c9&order=4) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 에리히 프롬, 『자유로부터의 도피』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6db59d07-6086-48c7-a34a-bba38289172a&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
+| 데일 카네기, 『카네기 인간관계론』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=74e87d10-54eb-49d5-b4a1-66eb402e1f24&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 피터 틸|블레이크 매스터스, 『제로투원』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=84b1ddb7-5092-4a88-9fdf-ac33391e8f11&order=3) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 정세랑, 『시선으로부터,』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=86abf21b-144f-44eb-8051-f4c4cdf79d47&order=2) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 리비 페이지, 『수영하는 여자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=abe5d2f6-9fa8-447e-a041-fc8c558c317d&order=3) | 안국 | 12월 06일 | 0 / 0 |  | 
@@ -267,6 +269,7 @@
 | 마이클 토마셀로, 『생각의 기원』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b6d6b776-8f28-4841-a1f2-7aea80d35a13&order=2) | 강남 | 12월 12일 | 0 / 0 |  | 
 | 개브리얼 제빈, 『섬에 있는 서점』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ec45166e-25cb-40dc-996a-5c0ce764eddd&order=1) | 강남 | 12월 12일 | 0 / 0 |  | 
 | 박슬라 옮김 / 칩 히스 / 댄 히스, 『순간의 힘』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f31b6875-3051-41a6-9d39-3afc4c09e921&order=3) | 강남 | 12월 12일 | 0 / 0 |  | 
+| 오르한 파묵, 『내 이름은 빨강. 1(모던 클래식 1)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e632988e-6c0e-4667-bde5-f86dc74b88f6&order=4) | 안국 | 12월 13일 | 0 / 0 |  | 
 | 윌리엄 맥닐, 『전염병의 세계사(히스토리아 문디 04)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012d11ed-4e3a-4135-b0f9-79a9e4f0166c&order=1) | 강남 | 12월 13일 | 0 / 0 |  | 
 | 은유, 『쓰기의 말들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6c82395a-4dfd-4884-a038-cd6edc170a74&order=2) | 강남 | 12월 13일 | 0 / 0 |  | 
 | 정은정, 『대한민국 치킨전』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1afdf9f0-b127-4be7-b1b0-59aa501a9f7f&order=2) | 안국 | 12월 16일 | 0 / 0 |  | 
@@ -332,5 +335,5 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 
-총 318 개  
+총 321 개  
 
