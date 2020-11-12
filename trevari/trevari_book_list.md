@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-12 20:01:15  
+> Updated on 2020-11-13 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -197,6 +197,7 @@
 | 이영도, 『별뜨기에 관하여(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a116c27-90dd-405d-95fe-c9730197e6d6&order=4) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 최인철, 『프레임』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3d3d1061-41bd-43cf-bf59-2436a916e3e5&order=2) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 짐 매켈비, 『언카피어블』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40dbdffb-0b53-4acf-90dc-5ea1b040afcb&order=4) | 강남 | 12월 05일 | 0 / 0 |  | 
+| 이슬아, 『부지런한 사랑(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=72835c8a-e3d7-4bee-bb70-601327f6f4b6&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
 | 홍성태, 『그로잉 업(Growing Up)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8e5f1789-8647-4b6b-bed5-48a429e7cda6&order=1) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 신예희, 『돈지랄의 기쁨과 슬픔(먼슬리에세이 1)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=98fa3aff-86a7-4a1f-a4e5-cd190ba9e441&order=3) | 강남 | 12월 05일 | 0 / 0 |  | 
 | 송혜영, 『요제프 보이스 우리가 혁명이다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f20b995e-f490-4e83-b040-465b30217295&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
@@ -215,6 +216,7 @@
 | 필 나이트, 『슈독』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5324b3cf-a945-4357-8801-dbadc77db78a&order=2) | 강남 | 12월 09일 | 0 / 0 |  | 
 |  프랑수아즈 사강 (지은이) | 김남주 (옮긴이), 『브람스를 좋아하세요... l 민음사 세계문학전집 179』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=eaaa84a1-af0e-4961-a56d-5cb93ba557bb&order=1) | 강남 | 12월 09일 | 0 / 0 |  | 
 | 이소영, 『홀로 성장하는 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=67bfbb1f-818c-4583-8293-1371461524e7&order=3) | 강남 | 12월 10일 | 0 / 0 |  | 
+| 류재언, 『협상 바이블(류재언 변호사의)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=833f0722-2c55-4d58-b4c1-604783d869e1&order=3) | 강남 | 12월 10일 | 0 / 0 |  | 
 | Bryant Kobe, 『The Mamba Mentality: How I Play』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0deaca9c-6520-4ed2-9df9-e7212e6410b1&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 괴테, 『젊은 베르테르의 슬픔(세계문학전집 25)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21843704-d369-4165-a6fe-15a364d18a69&order=1) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 조영남, 『중국의 엘리트 정치(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=25c101de-9e55-4e5d-8c30-cad8addfecf3&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
@@ -234,6 +236,7 @@
 | 윌리엄 맥닐, 『전염병의 세계사(히스토리아 문디 04)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=012d11ed-4e3a-4135-b0f9-79a9e4f0166c&order=1) | 강남 | 12월 13일 | 0 / 0 |  | 
 | 은유, 『쓰기의 말들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6c82395a-4dfd-4884-a038-cd6edc170a74&order=2) | 강남 | 12월 13일 | 0 / 0 |  | 
 | 오찬호, 『우리는 차별에 찬성합니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cdb6b8a6-c32e-4c33-8c3f-dbd21410fb2f&order=1) | 강남 | 12월 13일 | 0 / 0 |  | 
+| 에밀 아자르, 『자기 앞의 생』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d8d73c2b-226c-46d1-9ee1-88188e966c04&order=2) | 강남 | 12월 13일 | 0 / 0 |  | 
 | 정세랑, 『피프티 피플』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f2eb2f11-d47a-4482-be5c-52a1f541d698&order=2) | 안국 | 12월 13일 | 0 / 0 |  | 
 | 정은정, 『대한민국 치킨전』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1afdf9f0-b127-4be7-b1b0-59aa501a9f7f&order=2) | 안국 | 12월 16일 | 0 / 0 |  | 
 | , 『어차피 하는 일, 재밌게 하고 싶어 - 김나이 』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ce36f872-dffb-41c2-8b1d-5772de1ef7c4&order=1) | 강남 | 12월 16일 | 0 / 0 |  | 
@@ -301,5 +304,5 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 
-총 287 개  
+총 290 개  
 
