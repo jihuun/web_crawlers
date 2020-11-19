@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-19 20:01:16  
+> Updated on 2020-11-20 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -13,38 +13,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 존 워릴로우, 『구독경제 마케팅』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=58327459-7e1b-4e28-a050-6be45bc0ded4&order=2) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 박태원, 『소설가 구보씨의 일일(한국문학전집)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=776be16f-b0ef-49b4-a207-2b30f3e67414&order=2) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 니클라스 루만, 『사랑 연습』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b78fae9a-bd44-4e77-a10d-10876e888bba&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 정인성, 『소설 마시는 시간』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b10607d2-7479-465a-b104-281c2e080535&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 김현선 (엮음), 새움터 (기획), 『미군 위안부 기지촌의 숨겨진 진실』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=87c8949c-f859-47f1-8e95-bc6c2d11e5eb&order=3) | 의정부 | 11월 21일 | 0 / 0 |  | 
-| 김영하, 『검은 꽃』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0d85f81d-7c36-46ab-bf40-fc6626fb3774&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 이용균, 최혁곤, 『수상한 에이스는 유니폼이 없다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=1ba338e3-819f-422b-ad9d-e3a6292db2ba&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 양귀자, 『모순』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2b3de07e-f468-4ba2-b299-d8378ae94d56&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 성과재생산포럼 기획, 백영경, 『배틀그라운드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2dcb252a-4476-4567-98bb-1aa1aacdcdfb&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 팻 도시, 『모닝스타 성공투자 5원칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=478178e1-8013-4245-919e-c002cec6da59&order=4) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 밀란 쿤데라, 『참을 수 없는 존재의 가벼움』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4af5e905-6694-42f3-9b95-0e20e80b5f37&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 김소연, 『사랑에는 사랑이 없다(문지 에크리)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4cb8eb80-a9e4-4f44-b3df-a38d5a066ac0&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 이케가야 유지, 『세상에서 가장 재미있는 61가지 심리실험: 인간관계편』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5994604c-6289-4e2a-b95c-11c80dff20e0&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 존 듀이, 이유선, 『공공성과 그 문제들(한국연구재단 학술명저번역총서 서양편 734)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=67e13895-b592-40de-bb69-1410936ff00f&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 이수정, 김경옥, 『사이코패스는 일상의 그늘에 숨어 지낸다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6df838fc-357b-46aa-8cf6-c5cf8b7e74f7&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 안도현, 『백석 평전』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7036818d-93ec-4c35-ae66-eabe85d91291&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 김동하, 『나의 주거 투쟁』외 2개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=768a9a82-3470-4cdb-a605-2479433aefaf&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 리차드 럼멜트, 『전략의 거장으로부터 배우는 좋은 전략 나쁜 전략(CEO의 서재 시리즈 19)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8ceda533-26a2-4c0c-8222-2a619e14119c&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 게리 바이너척, 『스타트업 3개월 뒤 당신이 기필코 묻게 될 299가지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9dc607e2-2f8b-40cb-befd-e579f0fd1f3a&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 새뮤얼 버틀러, 『에레혼 EREWHON』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a955bab6-8aa3-46da-a7e7-d65cffc478ad&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 헨미 요 / 박성민 옮김, 『먹는 인간』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ae0a9ee1-2ed0-4d9a-8492-f261b21b46d9&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 수신지, 『며느라기(양장본 HardCover)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c4030c4b-54eb-4eb7-b6e0-42a29ce0bbe0&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 빅터 프랭클, 『죽음의 수용소에서(빅터 프랭클의)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c7520fd6-7041-439d-b632-bb1c76f0bbdf&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 한스 게오르크 호이젤, 『뇌, 욕망의 비밀을 풀다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c968518b-7475-43ff-994a-bc51052e4ae3&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 주언규, 『킵고잉(Keep Going)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cc7cf5bc-c728-402f-bea6-b55e034a2fb2&order=1) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 김초엽, 『우리가 빛의 속도로 갈 수 없다면(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e2436e29-b375-4fda-bebb-07edc4d8a2c2&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 닉 수재니스, 『언플래트닝, 생각의 형태』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e9f4d090-97cc-4fb4-84ed-547b817d8788&order=3) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 데이비드 실즈, 『우리는 언젠가 죽는다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f4afb339-1d99-43a4-83bb-b3ea1066e914&order=4) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 이승희, 『기록의 쓸모』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f5c488f0-4eba-42f9-b5a9-d380dd080307&order=2) | 강남 | 11월 21일 | 0 / 0 |  | 
-| 문요한, 『이제 몸을 챙깁니다』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0843e945-ec5e-432f-8b9b-d35037fa3aa9&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 줄리언 반스, 『예감은 틀리지 않는다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=50dd0ddb-df6b-481f-a287-52bba99731f1&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
-| 알랭 드 보통, 『왜 나는 너를 사랑하는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7057b366-01f5-406a-bf4f-e161c4c1103b&order=3) | 안국 | 11월 21일 | 0 / 0 |  | 
 | 에우리피데스, 『에우리피데스 비극전집. 1(원전으로 읽는 순수 고전 세계)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=13d9d987-0719-44be-9627-fb7734664e53&order=3) | 안국 | 11월 22일 | 0 / 0 |  | 
 | 토드 로즈, 『평균의 종말』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=015b76b8-a27f-4cb3-a71d-eb5725eacb20&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
 | 랜디 로스, 『앞서가는 조직은 왜 관계에 충실한가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0a83bb9b-a41e-4473-8bbb-bf4d8a0c25d3&order=3) | 강남 | 11월 22일 | 0 / 0 |  | 
@@ -179,6 +147,7 @@
 | 이본 쉬나드, 『파타고니아, 파도가 칠 때는 서핑을』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5324b3cf-a945-4357-8801-dbadc77db78a&order=2) | 강남 | 12월 09일 | 0 / 0 |  | 
 | 김영하, 『여행의 이유』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=901cfdda-542a-470e-a178-557787eef9a8&order=3) | 강남 | 12월 09일 | 0 / 0 |  | 
 | 줄리언 반스, 『연애의 기억(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ea7d8f67-5a94-4e83-b41f-bf8eef60170f&order=3) | 강남 | 12월 09일 | 0 / 0 |  | 
+| 알 리스, 잭 트라우트, 『마케팅 불변의 법칙(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=50976c75-1769-44d6-a7f3-8c6d6c313046&order=4) | 강남 | 12월 10일 | 0 / 0 |  | 
 | 이소영, 『홀로 성장하는 시대는 끝났다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=67bfbb1f-818c-4583-8293-1371461524e7&order=3) | 강남 | 12월 10일 | 0 / 0 |  | 
 | 류재언, 『협상 바이블(류재언 변호사의)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=833f0722-2c55-4d58-b4c1-604783d869e1&order=3) | 강남 | 12월 10일 | 0 / 0 |  | 
 | 한스 게오르크 호이젤, 『뇌, 욕망의 비밀을 풀다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8e93b9df-c97a-4c41-a0ed-3bca4e04a19e&order=2) | 강남 | 12월 10일 | 0 / 0 |  | 
@@ -191,6 +160,7 @@
 | 조영남, 『중국의 엘리트 정치(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=25c101de-9e55-4e5d-8c30-cad8addfecf3&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 하워드 슐츠, 조앤 고든, 『그라운드 업(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4a3284d6-f9be-44d7-b586-e50b2eadf667&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
 | BJ 포그, 『습관의 디테일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=52bf3287-e0f3-44f0-a9f4-6e335ccd720b&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
+| 천선란, 『천 개의 파랑』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=81e19704-c212-4344-9af4-866af50149a6&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 이미예, 『달러구트 꿈 백화점』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=864446bb-d0e2-40fb-82d3-08b8a18a2939&order=1) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 박동흠, 『박 회계사의 완벽한 재무제표 활용법』외 6개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9190ace0-a6fa-44c7-beea-2495c7c01374&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 켄 리우, 『어딘가 상상도 못 할 곳에, 수많은 순록 떼가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=92152f64-6a0d-4fb1-b6cf-aac43f38f46a&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
@@ -303,10 +273,10 @@
 | L랜덜 레이, 『균형재정론은 틀렸다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=57019502-e524-47c0-a799-4458351dfbc9&order=4) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 에릭 캔델, 『마음의 오류들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c6379a6b-e35c-4230-b571-864db01520a4&order=4) | 안국 | 12월 27일 | 0 / 0 |  | 
 | 오찬호, 『우리는 차별에 찬성합니다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=cdb6b8a6-c32e-4c33-8c3f-dbd21410fb2f&order=1) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 엘리자베스 퀴블러 로스, 데이비드 케슬러, 『인생 수업』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 엘리자베스 퀴블러 로스, 데이비드 케슬러, 『인생 수업』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 엘리자베스 퀴블러 로스, 데이비드 케슬러, 『인생 수업』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
-| 엘리자베스 퀴블러 로스, 데이비드 케슬러, 『인생 수업』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
+| 린 마굴리스, 도리언 세이건, 『마이크로 코스모스(Modern&Classic)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
+| 린 마굴리스, 도리언 세이건, 『마이크로 코스모스(Modern&Classic)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
+| 린 마굴리스, 도리언 세이건, 『마이크로 코스모스(Modern&Classic)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
+| 린 마굴리스, 도리언 세이건, 『마이크로 코스모스(Modern&Classic)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
 
-총 294 개  
+총 264 개  
 
