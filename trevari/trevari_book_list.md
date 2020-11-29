@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-11-29 20:01:16  
+> Updated on 2020-11-30 01:01:14  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -189,11 +189,12 @@
 | 데이비드 월러스 웰즈, 『2050 거주불능 지구』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d209ad5d-d2ea-4536-9b88-02f618970c20&order=1) | 안국 | 12월 20일 | 0 / 0 |  | 
 | 에드워드 글레이저, 『도시의 승리』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=e4fe55b5-a5e8-4c16-bda9-2f9a75a65b17&order=4) | 안국 | 12월 20일 | 0 / 0 |  | 
 | 존 코터, 홀거 래스거버, 『빙산이 녹고있다고?(개정판)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=11656b1f-d8b8-4897-99b9-5b89c0361dd2&order=4) | 강남 | 12월 23일 | 0 / 0 |  | 
-| 피터 드러커, 『피터 드러커의 자기경영노트』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=322343c6-5cdf-474f-95a2-72f60c21ba46&order=3) | 강남 | 12월 23일 | 0 / 0 |  | 
+| 피터 드러커, 『피터 드러커 자기경영노트(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=322343c6-5cdf-474f-95a2-72f60c21ba46&order=3) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 조엘 틸링해스트, 『빅 머니 씽크 스몰』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5218359d-34cd-4b82-81d7-3182c7768224&order=4) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 레이먼드 카버, 『대성당』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5ec435bb-861d-4300-b9e1-ef4b6dcd2ea2&order=4) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 주영하, 『행복배틀(케이 스릴러)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=65e39210-f8ad-4736-84fe-782349261b07&order=2) | 안국 | 12월 23일 | 0 / 0 |  | 
 | 김치원, 『디지털 헬스케어는 어떻게 비즈니스가 되는가』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6f3a56b6-ed34-4796-a8e6-d14e7aa3ee84&order=4) | 강남 | 12월 23일 | 0 / 0 |  | 
+| 제현주, 『내리막 세상에서 일하는 노마드를 위한 안내서』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=95ebcc8a-e145-4676-9ab7-512f54ebd796&order=3) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 라이언 홀리데이, 『에고라는 적』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b77b3f02-d682-44be-8e3f-a8a3b98f5d7f&order=2) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 제임스 배런, 『스타인웨이 만들기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c15d0325-f536-4f34-bc07-5acb70888028&order=3) | 강남 | 12월 23일 | 0 / 0 |  | 
 | 손원평, 『아몬드』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d5860048-d592-4618-8792-9110d3fe6db3&order=4) | 안국 | 12월 23일 | 0 / 0 |  | 
@@ -243,5 +244,5 @@
 | 존 크라카우어, 『희박한 공기 속으로(2판)』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 존 크라카우어, 『희박한 공기 속으로(2판)』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
 
-총 229 개  
+총 230 개  
 
