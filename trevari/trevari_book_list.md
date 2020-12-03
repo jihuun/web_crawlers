@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-12-03 20:01:16  
+> Updated on 2020-12-04 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -13,18 +13,6 @@
 
 | 선정 도서 | 클럽 | 아지트 | 날짜 | 독후감(놀/멤) | 클럽장 |  
 | --- | --- | --- | --- | --- | --- |  
-| 올가 토카르축, 『방랑자들』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=066cff3f-2c35-4d47-93e7-49ef707c645f&order=4) | 안국 | 12월 05일 | 0 / 0 |  | 
-| 스벤 칼손, 요나스 레이욘휘부드, 『스포티파이 플레이』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=10966c43-2e10-4dbc-a6ea-3435c3fc7094&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
-| 이영도, 『별뜨기에 관하여(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a116c27-90dd-405d-95fe-c9730197e6d6&order=4) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 최인철, 『프레임』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3d3d1061-41bd-43cf-bf59-2436a916e3e5&order=2) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 짐 매켈비, 『언카피어블』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=40dbdffb-0b53-4acf-90dc-5ea1b040afcb&order=4) | 온라인(Zoom) | 12월 05일 | 0 / 0 |  | 
-| 이슬아, 『부지런한 사랑(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=72835c8a-e3d7-4bee-bb70-601327f6f4b6&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
-| 홍성태, 『그로잉 업(Growing Up)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8e5f1789-8647-4b6b-bed5-48a429e7cda6&order=1) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 신예희, 『돈지랄의 기쁨과 슬픔(먼슬리에세이 1)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=98fa3aff-86a7-4a1f-a4e5-cd190ba9e441&order=3) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 김난도, 전미영, 『트렌드 코리아 2021』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d573bfe7-06aa-420f-b52b-60220725c860&order=3) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 이채훈, 『소설처럼 아름다운 클래식 이야기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d5aa46d1-e7d3-4569-b0cb-ef3591dc1987&order=3) | 강남 | 12월 05일 | 0 / 0 |  | 
-| 송혜영, 『요제프 보이스 우리가 혁명이다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f20b995e-f490-4e83-b040-465b30217295&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
-| 사피 바칼, 『룬샷』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f96bb616-8339-4751-93ad-c2a64aea9b18&order=3) | 안국 | 12월 05일 | 0 / 0 |  | 
 | 강주헌 옮김 / 조던 B 피터슨, 『12가지 인생의 법칙』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2a16aa73-8f45-4bab-9d2c-9e6c4c260ee4&order=4) | 강남 | 12월 06일 | 0 / 0 |  | 
 | 김용규, 『철학카페에서 문학 읽기』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=2c8fd9ff-9dcc-48f8-bc1b-7d359c496068&order=3) | 안국 | 12월 06일 | 0 / 0 |  | 
 | 마거릿 애트우드, 『홍수의 해(미친 아담 3부작 2)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=41719049-231f-40b8-bc68-c4051fecb219&order=4) | 안국 | 12월 06일 | 0 / 0 |  | 
@@ -224,6 +212,7 @@
 | 나심 니콜라스 탈레브, 『안티프래질』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=c3138d76-78cd-4e3d-b97d-434d73b4231d&order=4) | 강남 | 12월 25일 | 0 / 0 |  | 
 | 정은숙, 『음식이 있어 서울살이가 견딜 만했다(서울을 먹다 2)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=daf4c3af-c359-4c8a-967e-ffc7f4cdab7d&order=1) | 안국 | 12월 25일 | 0 / 0 |  | 
 | 에밀 아자르, 『자기 앞의 생』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=d94f6f95-b83b-43a3-b6d4-043c1d2008fd&order=1) | 강남 | 12월 26일 | 0 / 0 |  | 
+| 알랭 드 보통, 존 암스트롱, 『알랭 드 보통의 영혼의 미술관』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=098ad9b8-3819-446e-b052-5ed4eee78129&order=3) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 알랭 드 보통, 『철학의 위안(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=23f93c37-fb82-4cd1-9fb8-1717ae142b01&order=2) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 김경달, 씨로켓리서치랩, 『유튜브 트렌드 2021』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=247743cc-32f7-4da6-9933-2620f36d5d64&order=4) | 강남 | 12월 26일 | 0 / 0 |  | 
 | 존 도어, 래리 페이지 (서문), 『OKR』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=3a6e5a0f-7c3c-43ef-b051-37b368d798bb&order=2) | 강남 | 12월 26일 | 0 / 0 |  | 
@@ -265,5 +254,5 @@
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
 
-총 251 개  
+총 240 개  
 
