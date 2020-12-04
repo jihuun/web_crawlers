@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-12-04 01:01:15  
+> Updated on 2020-12-04 20:01:18  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -140,6 +140,7 @@
 | 닐 디그래스 타이슨, 마이클 A, 『웰컴 투 더 유니버스(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f675066d-75f5-41a7-96ab-02e969257200&order=4) | 강남 | 12월 18일 | 0 / 0 |  | 
 | 하선영, 『밀레니얼 슈퍼리치』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f73a4668-c176-4646-a21a-0531d0cbb00b&order=2) | 강남 | 12월 18일 | 0 / 0 |  | 
 | 임동근, 김종배, 『메트로폴리스 서울의 탄생』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=776be16f-b0ef-49b4-a207-2b30f3e67414&order=3) | 안국 | 12월 19일 | 0 / 0 |  | 
+| 월터 리프먼, 『여론』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=b78fae9a-bd44-4e77-a10d-10876e888bba&order=4) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 테라오 겐, 『가자, 어디에도 없었던 방법으로』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=bdc3291f-1867-4f01-b840-540597a1a1d8&order=1) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 김은비, 『사랑하고도 불행한(리커버 특별판)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=f021f7e8-d010-442d-b75c-2f8d51f3762a&order=1) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 베르나르 베르베르, 『심판(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0d85f81d-7c36-46ab-bf40-fc6626fb3774&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
@@ -151,12 +152,14 @@
 | 김진영, 『아침의 피아노(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4cb8eb80-a9e4-4f44-b3df-a38d5a066ac0&order=4) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 권성민, 『서울에 내 방 하나』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=5994604c-6289-4e2a-b95c-11c80dff20e0&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
 | T Bodenheimer, 『보건의료체계의이해(사례를 곁들인)(6판)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=61eb6891-f995-4788-87f1-4e2bed3d5984&order=1) | 강남 | 12월 19일 | 0 / 0 |  | 
+| 로널드 드워킨, 『자유의 법』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=67e13895-b592-40de-bb69-1410936ff00f&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 김영민, 『아침에는 죽음을 생각하는 것이 좋다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6bf166ce-b591-4b56-a9f7-07fe81e57170&order=1) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 리차드 커티스, 『러브 액츄얼리』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=6df838fc-357b-46aa-8cf6-c5cf8b7e74f7&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 루이자 알코트, 『작은 아씨들(영화 공식 원작 소설 오리지널 커버)』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7036818d-93ec-4c35-ae66-eabe85d91291&order=4) | 안국 | 12월 19일 | 0 / 0 |  | 
 | 프란츠 카프카, 『변신·시골의사』외 1개의 읽을거리 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=768a9a82-3470-4cdb-a605-2479433aefaf&order=2) | 강남 | 12월 19일 | 0 / 0 |  | 
 | , 『<design in context> 외 아티클』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=7e8ebbdd-1212-4f3a-a3c8-e050d5a5d590&order=3) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 박철수, 『박철수의 거주 박물지』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=87c8949c-f859-47f1-8e95-bc6c2d11e5eb&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
+| 이상구, 『라이프스타일로 마케팅하다』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=8ceda533-26a2-4c0c-8222-2a619e14119c&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 니콜라스 카, 『생각하지 않는 사람들(10주년)(개정증보판)(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=9dc607e2-2f8b-40cb-befd-e579f0fd1f3a&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 제니퍼 다우드나, 새뮤얼 스턴버그, 『크리스퍼가 온다(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=a955bab6-8aa3-46da-a7e7-d65cffc478ad&order=2) | 강남 | 12월 19일 | 0 / 0 |  | 
 | 존 윌리엄스, 『스토너』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=ae0a9ee1-2ed0-4d9a-8492-f261b21b46d9&order=4) | 강남 | 12월 19일 | 0 / 0 |  | 
@@ -254,5 +257,5 @@
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
 
-총 240 개  
+총 243 개  
 
