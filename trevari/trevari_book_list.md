@@ -1,5 +1,5 @@
 ## 트레바리 클럽별 선정 도서 목록  
-> Updated on 2020-12-06 20:01:15  
+> Updated on 2020-12-07 01:01:15  
 
 > 이 페이지는 트레바리 모임정보를 추출하는 [Python Script](https://github.com/jihuun/web_crawlers/blob/master/trevari/get_trevari_books.py) 를 통해 하루 2회 자동 업데이트 됩니다. 이 스크립트는 누구나 개발에 참여가능한 오픈소스 프로젝트 입니다. 발견된 버그나 새로운 아이디어가 있다면 언제든지 연락주시기 바랍니다 :)   
 > The script and this page are maintained by [김지훈](mailto:jihuun.k@gmail.com) @soopsaram  
@@ -36,7 +36,6 @@
 | Aciman Andre, 『Call Me by Your Name (Movie Tie-in)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=0deaca9c-6520-4ed2-9df9-e7212e6410b1&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 괴테, 『젊은 베르테르의 슬픔(세계문학전집 25)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=21843704-d369-4165-a6fe-15a364d18a69&order=1) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 조영남, 『중국의 엘리트 정치(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=25c101de-9e55-4e5d-8c30-cad8addfecf3&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
-| 하워드 슐츠, 조앤 고든, 『그라운드 업(양장본 HardCover)』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=4a3284d6-f9be-44d7-b586-e50b2eadf667&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
 | BJ 포그, 『습관의 디테일』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=52bf3287-e0f3-44f0-a9f4-6e335ccd720b&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 천선란, 『천 개의 파랑』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=81e19704-c212-4344-9af4-866af50149a6&order=4) | 강남 | 12월 11일 | 0 / 0 |  | 
 | 마사 스타우트, 『이토록 친밀한 배신자』 | [클럽 바로가기](https://trevari.co.kr/meetings/show?clubID=87486981-fd0b-4980-afb0-0eed58e2267c&order=3) | 강남 | 12월 11일 | 0 / 0 |  | 
@@ -253,5 +252,5 @@
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttps://www.notion.so/87893b0e875946578204b085fe1ff434) | 강남 | 12월 27일 | 0 / 0 |  | 
 | 정지우, 『인스타그램에는 절망이 없다』 | [클럽 바로가기](https://trevari.co.krhttp://www.ftc.go.kr/bizCommPop.do?wrkr_no=3268601375) | 강남 | 12월 27일 | 0 / 0 |  | 
 
-총 239 개  
+총 238 개  
 
